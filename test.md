@@ -1,8 +1,8 @@
 # deux fois cinq
-## a la decouverte des bons 5dl d’ici
+# a la decouverte des bons 5dl d’ici
 
 
-t’es au resto ou chez toi
+*t’es au resto ou chez toi*
 t’es deux : toi et un ou une autre
 tu veux faire bon, mais aussi le liquide
 PROBLEME > apéro, entrée et plat deux bouteilles, t’es pas scellé assez haut
