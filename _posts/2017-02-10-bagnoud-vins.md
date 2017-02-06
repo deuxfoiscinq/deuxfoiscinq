@@ -15,10 +15,10 @@ image:
 ---
 
 
-![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/etiquette-bagnoud.jpg)
+![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/domaine-bagnoud.jpg)
 
 {: .entry-title }
-# FLANTHEY – BAGNOUD VINS
+# FLANTHEY – BAGNOUD VINS
 
 ## LE VIGNERON
 il y a quelques années, avec un ami, nous commandions des cartons de degustation à quelques vignerons valaisans car nous cherchions des cépages pures tels syrah, humagne, cornalin et pinot noir
