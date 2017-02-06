@@ -2,7 +2,7 @@
 layout: post
 title: Flanthey - Bagnoud vins
 vigneron: Nicolas Bagnoud
-etiquette: /images/2017-01-10-rivaz-cave-des-dolles/etiquette-st-saphorin-desert.jpg
+etiquette: /images/2017-02-10-bagnoud-vins/etiquette-bagnoud.jpg
 excerpt: "il y a quelques années, avec un ami, nous commandions des cartons de degustation à quelques vignerons valaisans car nous cherchions des cépages pures tels syrah, humagne, cornalin et pinot noir
 entres autres merveilles nous avons découvert le cornalin..."
 categories: blog
