@@ -3,19 +3,16 @@ layout: page
 title: pourquoi ?
 excerpt: ""
 search_omit: true
-date: 2017-01-10T14:00:00-01:00
-modified: 2017-01-10T14:00:00-01:00
+date: 2017-01-10T14:00:00+01:00
+modified: 2017-01-10T14:00:00+01:00
 image:
   feature: vignoble-002.jpg
   credit: JC
-  creditlink: https://deuxfoiscinq.ch/
+  creditlink: http://deuxfoiscinq.ch/
 ---
 
 {: .entry-title }
-# Le concept
-
-
-# à la découverte des bons vins en flacon de 5 dl
+# à la découverte des bons vins en flacon de 5 dl
 
 t’es au resto ou chez toi
 
@@ -97,12 +94,12 @@ chaque 10 de chaque mois, un nouveau blog et un nouveau vigneron à découvrir
 
 bien à toi et au 10 février pour le prochain vigneron
 
-jissé
+*jissé*
 
-PS
+***remarques***
 
 *je ne citerai que les vins disponibles en bouteilles de 50cl*
 
 *en allant sur le site du vigneron, tu trouveras non seulement les cépages, les prix mais aussi les autres vins et les informations sur le domaine*
 
- … et pour me suivre > <https://deuxfoiscinq.com>
+ … et pour me suivre ⇒ [deuxfoiscinq.ch](http://deuxfoiscinq.ch)
