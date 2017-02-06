@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le concept
+title: pourquoi ?
 excerpt: ""
 search_omit: true
 date: 2017-01-10T14:00:00-01:00
@@ -15,7 +15,7 @@ image:
 # Le concept
 
 
-à la découverte des bons vins en flacon de 5dl
+# à la découverte des bons vins en flacon de 5 dl
 
 t’es au resto ou chez toi
 
@@ -23,13 +23,13 @@ t’es deux : toi et un ou une autre
 
 tu veux faire bon, mais aussi apprécier un bon liquide
 
-un problème > l’apéro, une entrée et un plat deux bouteilles de 7.5dl ?
+un problème > l’apéro, une entrée et un plat deux bouteilles de 7.5 dl ?
 
 t’es pas scellé assez haut
 
-une solution > deux fois 5 dl qualité bouteille
+une solution > deux fois 5 dl **qualité bouteille**
 
-coups de coeur
+# coups de coeur
 
 comme toi, j’aime bien manger, boire bien, suis sympa et espère le rester
 
@@ -101,9 +101,8 @@ jissé
 
 PS
 
-je ne citerai que les vins disponibles en bouteilles de 50cl
+*je ne citerai que les vins disponibles en bouteilles de 50cl*
 
-en allant sur le site du vigneron, tu trouveras non seulement les cépages, les prix mais aussi les autres vins et les informations sur le domaine
+*en allant sur le site du vigneron, tu trouveras non seulement les cépages, les prix mais aussi les autres vins et les informations sur le domaine*
 
  … et pour me suivre > <https://deuxfoiscinq.com>
-
