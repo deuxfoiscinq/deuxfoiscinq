@@ -5,7 +5,7 @@ locale: fr_CH
 description: À la découverte des bons vins en flacon de 5 dl
 logo: site-logo.png
 search: false
-url: https://deuxfoiscinq.com/
+url: http://deuxfoiscinq.ch
 
 # Jekyll configuration
 
