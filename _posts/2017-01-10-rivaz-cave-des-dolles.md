@@ -16,7 +16,7 @@ image:
 
 ![bouteille de st-saphorin](/images/2017-01-10-rivaz-cave-des-dolles/2_st-saphorin-desert50.jpg){: style="width:15%" }
 
-## LE VIGNERON
+## le vigneron
 navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un st-saph en 5dl
 il avait plus l’allure d’un gaillard qui va au festival de jazz qu’un navigateur mais il aimait bien ce st-saph, comme moi
 au bout d’un moment et de st-saph, il avoue en être le vigneron et naquit ainsi une amitié
@@ -24,7 +24,7 @@ didier imhof, allure de dernier des mohicans, t’accueille de son sourire assur
 un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 …et si t’es sympa avec lui, peut-être que tu pourras déguster son st-saph sur la terrasse qui embrasse la région de rivaz à villeneuve, et vice versa
 
-## DÉGUSTER
+## déguster
 ### saint-saphorin 2015
 *un vrai st-saph’ qui sent bon le terroir et le soleil et qui se plaira aussi bien à l’apéro ou que comme rincette*
 
