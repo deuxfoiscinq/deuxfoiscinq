@@ -61,7 +61,7 @@ après st-léonard tu prends à gauche en direction de lens et tu attaques la mo
 y’a un petit panneau *bagnoud vin* qui te dirige à droite, mais attention, si tu n’as pas une bagnole aux grandes pattes tu risques de ramasser le seuil de cette vertigineuse petite dérupe
 et là, au bout à droite, ton gps va te dire merci
 
-## le resto 
+## le resto
 et si tu veux bien finir cette journée et qu’après t’être savonné le gosier tu veux te remplir l’estomac reprends le premier itinéraire et arrivé sur la grande route, tourne à gauche et va jusqu’à *chermignon d’en-haut*, au milieu du village en face du panneau parking à gauche, tu verras une maison ancienne avec une enseigne *café cher-mignon*
 et là tu passeras un excellent moment et tes papilles vont se souvenir longtemps de cette journée enchanteresse
 
@@ -69,5 +69,5 @@ et là tu passeras un excellent moment et tes papilles vont se souvenir longtemp
 > 027 483 25 96
 > [www.cafechermignon.ch](http://www.cafechermignon.ch/)
 
-## SYMPA
+## sympa 
 le week-end du jeûne fédéral, il y a la fête du cornalin à flanthey
