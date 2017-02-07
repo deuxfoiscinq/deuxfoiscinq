@@ -55,6 +55,21 @@
     }
   }
 
+  /* post teaser */
+  .teaser {
+    display: block;
+    float: none;
+    @include font-size(14, no, 16);
+
+    @include media($medium) {
+      width: 70%;
+    }
+
+    @include media($large) {
+      width: 60%;
+    }
+  }
+
   /* post vigneron */
   .vigneron {
     display: block;
@@ -72,13 +87,15 @@
   }
 
   /* image de l’étiquette */
-  img.etiquette {
+  div.etiquette
+  {
+    min-height: 120px;
     float: left;
     margin-right: 10px;
-    max-width: 68px;
-    width: 68px;
+    img {
+      width: 68px;
+    }
   }
-
 }
 
 /*
