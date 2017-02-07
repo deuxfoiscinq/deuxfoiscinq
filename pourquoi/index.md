@@ -16,9 +16,9 @@ image:
 
 t’es au resto ou chez toi
 
-t’es deux : toi et un ou une autre
+t’es deux
 
-tu veux faire bon, mais aussi apprécier un bon liquide
+tu veux faire bon, mais aussi apprécier un bon verre 
 
 un problème ⇒ l’apéro, une entrée et un plat deux bouteilles de 7.5dl ?
 
