@@ -37,10 +37,10 @@ rafraîchi, il accompagnera très bien vos grillades cet été*
 un vin qui en redemande et dont les arômes subtils et ronds t’enchanteront
 un grand vin qui supportera quelques années de garde*
 
-## DÉCOUVERTE
+## découverte
 ah ! oui, il élabore aussi un excellent dézaley et un assemblage rouge de 4 cépages, mais seulement en 70cl…
 
-## QUI ?
+## qui ?
 > Didier Imhof
 > Ruelles des Dôles 7
 > 1071 Rivaz
@@ -48,7 +48,7 @@ ah ! oui, il élabore aussi un excellent dézaley et un assemblage rouge de 4 c
 > [d-imhof@bluewin.ch](mailto:d-imhof@bluewin.ch)
 > [didier-imhof-vins.ch](http://didier-imhof-vins.ch/)
 
-## Y ALLER
+## y aller
 de lausanne, tu pars par le bord du lac en direction de vevey
 après le long bout droit qui longe le dézaley le panneau rivaz supplanté de la limitation à 60km/h qui t’indique que tu es près du but et de quelques difficultés : virage à gauche et à gauche tu as le vinomara,
 tu arrives en face de la cave du grillon chaudet et tout de suite à ta gauche (eh j’ai dit tout de suite ! bon, pas de soucis ton gps te guidera) qui part à angle droit , une grimpée digne du tourmalet qui, en quelque cinq cents mètres, t’amène au domaine des dolles
@@ -57,11 +57,11 @@ il fait beau, l’endroit est beau et quand on regarde de cet endroit au loin, l
 coup qui tu pourras déguster en prenant place à la grande table à l’entrée de la cave à côté des fûts
 il fait frais, c’est agréable, comme son vin
 
-## SYMPA
+## sympa
 et si tu as peur de n’avoir pas suffisamment soif pour une dégust, alors descends du train à cully et par les vignes et un panorama magnifiiiiique tu arriveras à rivaz par le haut en passant par la capite de didier et tu pourras déjà faire connaissance avec son vin avant le coup à la cave
 après quelques verres tu descendras à la gare de rivaz où il y a des trains qui passent et qui s’arrêtent ou comme le bateau qui fait escale aussi là… en saison
 
-## LE RESTO
+## le resto 
 …et si tu veux combler une carie, arrêtes-toi à l’auberge de rivaz en bas-dessous la dérupe après « tournez tout de suite à gauche » tout droit en direction de vevey
 à gauche après la terrasse ombragée où s’affaire déjà un personnel attentionné et sympa, comme le patron qui propose une bonne carte des vins de la région …et italiens et une carte des mets bien maîtrisée par son chef
 
