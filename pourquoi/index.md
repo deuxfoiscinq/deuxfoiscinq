@@ -12,13 +12,13 @@ image:
 ---
 
 {: .entry-title }
-# à la découverte des bons vins en flacon de 5 dl
+# {{ site.description }}
 
 t’es au resto ou chez toi
 
 t’es deux
 
-tu veux faire bon, mais aussi apprécier un bon verre 
+tu veux faire bon, mais aussi apprécier un bon verre
 
 un problème ⇒ l’apéro, une entrée et un plat deux bouteilles de 7.5dl ?
 

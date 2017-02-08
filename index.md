@@ -1,6 +1,6 @@
 ---
 layout: page
-title: deuxfoiscinq.ch — À la découverte des bons vins en flacon de 5 dl
+title: "deuxfoiscinq.ch — À la découverte des bons vins en flacon de 5 dl de la Suisse romande"
 image:
   feature: vignoble-002.jpg
   credit: jissé
@@ -8,7 +8,10 @@ image:
 ---
 
 {: .entry-title }
-# deuxfoiscinq.ch <br/><br/> À la découverte des bons vins en flacon de 5 dl
+# deuxfoiscinq.ch
+
+{: .entry-title }
+## {{ site.description }}
 
 <ul class="post-list">
 {% for post in site.posts %}
