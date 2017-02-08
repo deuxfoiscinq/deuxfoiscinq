@@ -22,7 +22,7 @@ il avait plus l’allure d’un gaillard qui va au festival de jazz qu’un navi
 au bout d’un moment et de saint-saph, il avoue en être le vigneron et naquit ainsi une amitié
 *didier imhof*, allure de dernier des mohicans, t’accueille de son sourire assuré comme la qualité de ses produits
 un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
-…et si t’es sympa avec lui, peut-être que tu pourras déguster son saint-saph sur la terrasse qui embrasse la région de rivaz à villeneuve, et vice versa
+…et si t’es sympa avec lui, peut-être que tu pourras déguster son saint-saph sur la terrasse qui embrasse la région de *rivaz à villeneuve*, et vice versa
 
 ## déguster
 
@@ -50,9 +50,9 @@ ah ! oui, il élabore aussi un excellent dézaley et un assemblage rouge de 4 c
 > [didier-imhof-vins.ch](http://didier-imhof-vins.ch/)
 
 ## y aller
-de lausanne, tu pars par le bord du lac en direction de *vevey*
-après le long bout droit qui longe le *dézaley* le panneau *rivaz* supplanté de la limitation à 60km/h qui t’indique que tu es près du but et de quelques difficultés : virage à gauche et à gauche tu as le vinomara,
-tu arrives en face de la cave du grillon chaudet et tout de suite à ta gauche (eh j’ai dit tout de suite ! bon, pas de soucis ton gps te guidera) qui part à angle droit, une grimpée digne du tourmalet qui, en quelque cinq cents mètres, t’amène au domaine des dolles
+de *lausanne*, tu pars par le bord du lac en direction de *vevey*
+après le long bout droit qui longe le *dézaley* le panneau *rivaz* supplanté de la limitation à 60km/h qui t’indique que tu es près du but et de quelques difficultés : virage à gauche et à gauche tu as le *vinomara*,
+tu arrives en face de la *cave du grillon chaudet* et tout de suite à ta gauche (eh j’ai dit tout de suite ! bon, pas de soucis ton gps te guidera) qui part à angle droit, une grimpée digne du tourmalet qui, en quelque cinq cents mètres, t’amène au *domaine des dolles*
 ta voiture peut reprendre son souffle sur les places à cet effet le long du mur
 il fait beau, l’endroit est beau et quand on regarde de cet endroit au loin, l’émotion te saisit et te sèche la gorge d’un seul coup
 coup qui tu pourras déguster en prenant place à la grande table à l’entrée de la cave à côté des fûts
