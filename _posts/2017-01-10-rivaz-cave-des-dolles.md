@@ -43,7 +43,7 @@ ah ! oui, il élabore aussi un excellent *dézaley* et un assemblage rouge de 4
 
 ## qui ?
 > Didier Imhof
-> Ruelles des Dôles 7
+> Route de Groussaz
 > 1071 Rivaz
 > 078 754 39 83
 > [d-imhof@bluewin.ch](mailto:d-imhof@bluewin.ch)
