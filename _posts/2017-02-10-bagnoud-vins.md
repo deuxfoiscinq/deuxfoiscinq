@@ -5,7 +5,7 @@ vigneron: Nicolas Bagnoud
 etiquette: /images/2017-02-10-bagnoud-vins/etiquette-bagnoud.jpg
 teaser: "il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels syrah, humagne, cornalin et pinot noir entre autres merveilles nous avons découvert le cornalin..."
 categories: blog
-date: 2016-02-10T14:00:00+01:00
+date: 2017-02-10T14:00:00+01:00
 modified: 2017-02-10T14:00:00+01:00
 published: true
 image:
