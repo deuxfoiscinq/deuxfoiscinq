@@ -18,7 +18,7 @@ image:
 
 ## le vigneron
 il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels *syrah*, *humagne*, *cornalin* et *pinot noir* entre autres merveilles nous avons découvert ***le*** *cornalin*
-depuis, chaque année, nous en commandons
+depuis, chaque année, nous en recommandons
 l’année dernière, libre de mon temps de travail, j’ai décidé de mettre un visage sur ce vin : *nicolas bagnoud*
 rarement j’ai rencontré une personne aussi fière de sa profession qu’un vigneron
 avec toi il partage le bonheur de déguster son vin et de raconter sa vigne
@@ -67,7 +67,7 @@ et là, au bout à droite, ton *gps* va te dire merci
 et si tu veux bien finir cette journée et qu’après t’être savonné le gosier tu veux te remplir l’estomac reprends le premier itinéraire et arrivé sur la grande route, tourne à gauche et va jusqu’à *chermignon d’en-haut*, au milieu du village en face du panneau parking à gauche, tu verras une maison ancienne avec une enseigne *café cher-mignon*
 et là tu passeras un excellent moment et tes papilles vont se souvenir longtemps de cette journée enchanteresse
 
-> café *cher-mignon*
+> Café *Cher-Mignon*
 > 027 483 25 96
 > [www.cafechermignon.ch](http://www.cafechermignon.ch/)
 
