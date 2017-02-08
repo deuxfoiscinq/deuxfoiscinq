@@ -6,7 +6,7 @@ etiquette: /images/2017-01-10-rivaz-cave-des-dolles/etiquette-st-saphorin-desert
 teaser: "Navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un st-saph en 5dl il avait plus l’allure d’un gaillard qui va au festival de jazz qu’un navigateur mais il aimait bien ce st-saph, ..."
 categories: blog
 date: 2017-01-10T14:00:00+01:00
-modified: 2017-02-07T14:00:00+01:00
+modified: 2017-02-08T09:23:00+01:00
 published: true
 image:
   feature: vignoble-002.jpg
