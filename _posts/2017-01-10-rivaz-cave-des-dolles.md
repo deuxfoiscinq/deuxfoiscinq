@@ -25,6 +25,7 @@ un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 …et si t’es sympa avec lui, peut-être que tu pourras déguster son st-saph sur la terrasse qui embrasse la région de rivaz à villeneuve, et vice versa
 
 ## déguster
+
 ### saint-saphorin 2015
 *un vrai st-saph’ qui sent bon le terroir et le soleil et qui se plaira aussi bien à l’apéro ou que comme rincette*
 

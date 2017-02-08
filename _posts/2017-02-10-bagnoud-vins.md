@@ -25,6 +25,7 @@ avec toi il partage le bonheur de déguster son vin et de raconter sa vigne
 la satisfaction d’avoir échappé à cette route gloutonne d’amortisseurs te fera vite oublier cette conduite de rallye en dégustant les nectars qui sont issus des vignes qui sont tout au tour et qui sont choyées et vinifiées par nicolas qui sait conter ses vins et te donnera envie de ne plus compter ton temps en sa compagnie
 
 ## déguster
+
 ### pinot gris 2015
 *long en bouche, sans agressivité malgré son jeune âge, appelle un deuxième verre
 une harmonie magique : une sauce safranée ou un curry*
