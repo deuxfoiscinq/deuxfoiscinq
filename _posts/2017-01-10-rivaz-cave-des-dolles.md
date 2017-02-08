@@ -27,7 +27,7 @@ un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 ## déguster
 
 ### saint-saphorin 2015
-*un vrai saint-saph qui sent bon le terroir et le soleil et qui se plaira aussi bien à l’apéro ou que comme rincette*
+*un vrai saint-saph qui sent bon le terroir et le soleil et qui se plaira aussi bien à l’apéro ou comme rincette*
 
 ### pinot noir 2015
 *plaisant et rond, dont les saveurs riches et longues séduiront aussi le palais de ces dames
