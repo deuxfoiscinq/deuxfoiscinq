@@ -43,7 +43,7 @@ ah ! oui, il élabore aussi un excellent dézaley et un assemblage rouge de 4 c
 
 ## qui ?
 > Didier Imhof
-> Ruelles des Dôles 7
+> Route de Groussaz
 > 1071 Rivaz
 > 078 754 39 83
 > [d-imhof@bluewin.ch](mailto:d-imhof@bluewin.ch)
@@ -66,6 +66,6 @@ après quelques verres tu descendras à la gare de rivaz où il y a des trains q
 …et si tu veux combler une carie, arrêtes-toi à l’auberge de rivaz en bas-dessous la dérupe après « tournez tout de suite à gauche » tout droit en direction de vevey
 à gauche après la terrasse ombragée où s’affaire déjà un personnel attentionné et sympa, comme le patron qui propose une bonne carte des vins de la région …et italiens et une carte des mets bien maîtrisée par son chef
 
-> auberge de rivaz
+> Auberge de Rivaz
 > 021 946 10 55
 > [aubergederivaz.ch](http://www.aubergederivaz.ch)
