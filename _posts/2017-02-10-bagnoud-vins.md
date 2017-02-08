@@ -14,12 +14,12 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/domaine-bagnoud.jpg){: style="width:75%" }
+![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/domaine-bagnoud.jpg){: style="width:75%; margin-left:12.5%;" }
 
 ## le vigneron
 il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels syrah, humagne, cornalin et pinot noir entre autres merveilles nous avons découvert **le** cornalin
 depuis, chaque année, nous en commandons
-l’année dernière, libre de mon temps de travail, j’ai décidé de mettre un visage sur ce vin : nicolas bagnoud
+l’année dernière, libre de mon temps de travail, j’ai décidé de mettre un visage sur ce vin : *nicolas bagnoud*
 rarement j’ai rencontré une personne aussi fière de sa profession qu’un vigneron
 avec toi il partage le bonheur de déguster son vin et de raconter sa vigne
 la satisfaction d’avoir échappé à cette route gloutonne d’amortisseurs te fera vite oublier cette conduite de rallye en dégustant les nectars qui sont issus des vignes qui sont tout au tour et qui sont choyées et vinifiées par nicolas qui sait conter ses vins et te donnera envie de ne plus compter ton temps en sa compagnie
@@ -69,5 +69,5 @@ et là tu passeras un excellent moment et tes papilles vont se souvenir longtemp
 > 027 483 25 96
 > [www.cafechermignon.ch](http://www.cafechermignon.ch/)
 
-## sympa 
+## sympa
 le week-end du jeûne fédéral, il y a la fête du cornalin à flanthey

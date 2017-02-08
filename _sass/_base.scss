@@ -63,6 +63,7 @@ h1 {
 
 h2 {
 	@include font-size(32);
+	font-weight: 600;
 }
 
 h3 {

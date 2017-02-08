@@ -14,7 +14,7 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![bouteille de st-saphorin](/images/2017-01-10-rivaz-cave-des-dolles/2_st-saphorin-desert50.jpg){: style="width:15%" }
+![bouteille de st-saphorin](/images/2017-01-10-rivaz-cave-des-dolles/2_st-saphorin-desert50.jpg){: style="width:15%; margin-left:42.5%;" }
 
 ## le vigneron
 navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un st-saph en 5dl
@@ -25,7 +25,6 @@ un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 …et si t’es sympa avec lui, peut-être que tu pourras déguster son st-saph sur la terrasse qui embrasse la région de rivaz à villeneuve, et vice versa
 
 ## déguster
-
 ### saint-saphorin 2015
 *un vrai st-saph’ qui sent bon le terroir et le soleil et qui se plaira aussi bien à l’apéro ou que comme rincette*
 
@@ -33,7 +32,7 @@ un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 *plaisant et rond, dont les saveurs riches et longues séduiront aussi le palais de ces dames
 rafraîchi, il accompagnera très bien vos grillades cet été*
 
-**gamaret–garanoir 2015**
+### gamaret–garanoir 2015
 *digne des grands crus, s’imposera facilement sur une viande rouge ou un plat épicé
 un vin qui en redemande et dont les arômes subtils et ronds t’enchanteront
 un grand vin qui supportera quelques années de garde*
