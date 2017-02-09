@@ -4,6 +4,7 @@ https://developers.facebook.com/docs/plugins/like-button?locale=fr_FR
 https://developers.facebook.com/tools/debug/og/object/
 -->
 {% endcomment %}
+{% capture page-url %}{{ page.url | replace:'index.html','' | prepend: site.url | uri_escape }}{% endcapture %}
 <div class="facebook">
-	<div class="fb-like" data-href="https://www.facebook.com/2x5dl" data-width="1000" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+	<div class="fb-like" data-href="{{ page-url }}" data-width="1000" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
 </div>
