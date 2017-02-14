@@ -11,7 +11,7 @@ date:     2017-01-10T14:00:00+01:00
 modified: 2017-02-08T09:23:00+01:00
 published: true
 image:
-  feature: /images/cave-dolles.jpg
+  feature: /images/2017-01-10-rivaz-cave-des-dolles/cave-dolles-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
