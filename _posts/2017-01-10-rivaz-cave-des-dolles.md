@@ -11,7 +11,7 @@ date:     2017-01-10T14:00:00+01:00
 modified: 2017-02-08T09:23:00+01:00
 published: true
 image:
-  feature: /images/vignoble-002.jpg
+  feature: /images/cave-dolles.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
