@@ -11,12 +11,12 @@ date:     2017-02-10T14:00:00+01:00
 modified: 2017-02-20T14:00:00+01:00
 published: true
 image:
-  feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud.jpg
+  feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/nicolas-bagnoud.jpg){: style="width:75%; margin-left:12.5%;" }
+![Nicolas Bagnoud](/images/2017-02-10-bagnoud-vins/nicolas-bagnoud_2.jpg){: style="width:50%; margin-left:25%;" }
 
 ## le vigneron
 il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels *syrah*, *humagne*, *cornalin* et *pinot noir* entre autres merveilles nous avons découvert ***le*** *cornalin*

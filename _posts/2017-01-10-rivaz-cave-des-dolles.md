@@ -16,7 +16,7 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![bouteille de st-saphorin](/images/2017-01-10-rivaz-cave-des-dolles/imhof.jpg){: style="width:15%; margin-left:42.5%;" }
+![Didier Imhof](/images/2017-01-10-rivaz-cave-des-dolles/imhof_2.jpg){: style="width:100%; margin-left:0%;" }
 
 ## le vigneron
 navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un saint-saph en 5dl
