@@ -59,7 +59,7 @@ une pure merveille qui sublimera tous les moments qu’on lui consacrera*
 
 ## y aller
 un vrai parcours du combattant, mais quelle récompense à l’arrivée
-à la sortie de l’autoroute *sion sud* tu prends la route direction *brigue* et tu longes les vignes avec le train à droite
+à la sortie de l’autoroute *sion est* tu prends la route direction *brigue* et tu longes les vignes avec le train à droite
 après *st-léonard* tu prends à gauche en direction de *lens* et tu attaques la montée qui sinue entre les ceps et au bout d’un moment tu te trouves devant le panneau d’un bled que l’orthographe, tu savais pas qu’elle existait : *vaas* et en face, deux autres panneaux dont l’un indique *valençon st-clément* et tu crois que t’es arrivé mais pas du tout du tout
 tu continues sur cette grimpée que tu te crois sur une route de l’impossible et quand tu vois des toits en bas dessous à droite t’es presque arrivé
 ’y a un petit panneau *bagnoud vin* qui te dirige à droite, mais attention, si t’as pas une bagnole à grandes pattes tu risques de ramasser le seuil de cette vertigineuse petite dérupe
