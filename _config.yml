@@ -3,7 +3,7 @@
 title: Deux fois cinq
 locale: fr_CH
 description: "à la découverte des bons vins de suisse romande en flacon de 5 dl"
-logo: site-logo.png
+logo: divers-images/site-logo.png
 search: false
 url: http://deuxfoiscinq.ch
 
@@ -38,6 +38,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: jissé
-  avatar: jisse.jpg
+  avatar: divers-images/jisse.jpg
   email: jc121270steiner@gmail.com
   facebook: 2x5dl

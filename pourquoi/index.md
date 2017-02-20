@@ -4,7 +4,7 @@ title: pourquoi ?
 date:     2017-01-10T14:00:00+01:00
 modified: 2017-01-10T14:00:00+01:00
 image:
-  feature: /images/vignoble-002.jpg
+  feature: /images/divers-images/vignoble-002.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---

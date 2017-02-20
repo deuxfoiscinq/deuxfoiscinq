@@ -2,7 +2,7 @@
 layout: page
 title: "deuxfoiscinq.ch — À la découverte des bons vins en flacon de 5 dl de la Suisse romande"
 image:
-  feature: /images/vignoble-002.jpg
+  feature: /images/divers-images/vignoble-002.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
