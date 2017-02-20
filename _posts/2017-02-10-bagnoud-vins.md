@@ -8,15 +8,15 @@ description-courte: "Nicolas, Simon et Régis Bagnoud — Vignerons-encaveurs �
 mots-cles: [pinot gris 2015, chenin blanc 2015, pinot noir valençon 2015, pinot noir l’ormy 2015, cornalin 2015]
 categories: blog
 date:     2017-02-10T14:00:00+01:00
-modified: 2017-02-10T14:00:00+01:00
+modified: 2017-02-20T14:00:00+01:00
 published: true
 image:
-  feature: /images/vignoble-002.jpg
+  feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/domaine-bagnoud.jpg){: style="width:75%; margin-left:12.5%;" }
+![étiquette bagnoud vins](/images/2017-02-10-bagnoud-vins/nicolas-bagnoud.jpg){: style="width:75%; margin-left:12.5%;" }
 
 ## le vigneron
 il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels *syrah*, *humagne*, *cornalin* et *pinot noir* entre autres merveilles nous avons découvert ***le*** *cornalin*
