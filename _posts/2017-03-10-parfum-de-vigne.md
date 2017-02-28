@@ -9,7 +9,7 @@ mots-cles: [Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot]
 categories: blog
 date:     2017-03-10T14:00:00+01:00
 modified: 2017-03-10T14:00:00+01:00
-published: true
+published: false
 image:
   feature: /images/2017-03-10-parfum/domaine-parfum-1900x800.jpg
   credit: jissé
@@ -33,7 +33,7 @@ reconnu, il mérite d’être connu, comme ses vins !
 *un tartegnin au bon goût de terroir, équilibré
 un vrai plaisir à l’apéritif ou comme rincette*
 
-### oeil de perdrix rosé de pinot noir 2015
+### œil de perdrix rosé de pinot noir 2015
 *charmeur au possible, vous satisfera aussi bien à l’apéritif que sous la tonnelle, voire avec un curry*
 
 ### pinot noir château de vincy 2015
