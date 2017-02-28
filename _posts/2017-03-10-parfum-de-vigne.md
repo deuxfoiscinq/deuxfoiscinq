@@ -1,77 +1,83 @@
 ---
 layout: post
-title: Parfum de Vigne
+title: Dully — Parfum de Vigne
 vigneron: Jean-Jacques Steiner
 etiquette: /images/2017-03-10-parfum/etiquette-prix-parfum.jpg
 teaser: "un petit coup de blanc a sauvé plus de situations, a apporté plus de solutions que l’ensemble des échanges d’ « émiles » d’aujourd’hui et en plus ça faisait du bien !..."
-description-courte: "Nicolas, Simon et Régis Bagnoud — Vignerons-encaveurs — Flanthey"
-mots-cles: [pinot gris 2015, chenin blanc 2015, pinot noir valençon 2015, pinot noir l’ormy 2015, cornalin 2015]
+description-courte: "Parfum de vigne - Jean-Jacques Steiner"
+mots-cles: [Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot]
 categories: blog
-date:     2017-02-10T14:00:00+01:00
-modified: 2017-02-20T14:00:00+01:00
-published: false
+date:     2017-03-10T14:00:00+01:00
+modified: 2017-03-10T14:00:00+01:00
+published: true
 image:
-  feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud-1900x800.jpg
+  feature: /images/2017-03-10-parfum/domaine-parfum-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Nicolas Bagnoud](/images/2017-02-10-bagnoud-vins/nicolas-bagnoud_2.jpg){: style="width:50%; margin-left:25%;" }
+![Jean-Jacques Steiner](/images/2017-03-10-parfum/jean-jacques-steiner-400x533.jpg){: style="width:50%; margin-left:25%;" }
+
 
 ## le vigneron
-il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels *syrah*, *humagne*, *cornalin* et *pinot noir* entre autres merveilles nous avons découvert ***le*** *cornalin*
-depuis, chaque année, nous en recommandons
-l’année dernière, libre de mon temps de travail, j’ai décidé de mettre un visage sur ce vin : *nicolas bagnoud*
-rarement j’ai rencontré une personne aussi fière de sa profession qu’un vigneron
-avec toi il partage le bonheur de déguster son vin et de raconter sa vigne
-et la satisfaction d’avoir échappé à cette route gloutonne d’amortisseurs te fera vite oublier cette conduite de rallye en dégustant les nectars qui sont issus des vignes plantées tout au tour et qui sont choyées et vinifiées par *nicolas* qui sait conter ses vins et te donnera envie de ne plus compter ton temps en sa compagnie
+à l’époque où l’on était civilisé, très souvent les problèmes se discutaient à l’heure des quatre chiffres autour de deux fois trois, parfois même plus et trouvaient à chaque fois une solution *« de la poire coupée en deux »*
+un petit coup de blanc a sauvé plus de situations, a apporté plus de solutions que l’ensemble des échanges d’ *« émiles »* d’aujourd’hui et en plus ça faisait du bien !
+certes, certains petits coups de blanc ne faisaient pas que du bien et on disait à celui qui allait se délester de faire attention aux éclaboussures car il pourrait bien ressortir avec des sandales
+mais tout à changer et les *la côte* sont aujourd’hui souvent sur la plus haute marche de la hiérarchie des blancs d’ici et de *suisse romande*, ses vignerons ayant gardé la couleur et ajouté de la saveur et de la noblesse à leurs nectars
+au milieu de ce vignoble traverser chaque jour par des milliers de gens pressés et indifférents, il y a un petit village *dully*
+dans ce petit village un grand vigneron *jean-jacques steiner* dont les très nombreuses distinctions *(Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot)* ne sont que le reflet d’un travail acharné, minutieux et d’un amoureux de son métier qui a un grand respect et une grande connaissance de la vigne et du vin
+reconnu, il mérite d’être connu, comme ses vins !
 
 ## déguster
+### chasselas grain blanc 2015
+*un tartegnin au bon goût de terroir, équilibré
+un vrai plaisir à l’apéritif ou comme rincette*
 
+### oeil de perdrix rosé de pinot noir 2015
+*charmeur au possible, vous satisfera aussi bien à l’apéritif que sous la tonnelle, voire avec un curry*
+
+### pinot noir château de vincy 2015
+*de différentes sélections de pinot, bourgogne, servagnin, cortaillod
+un vrai vaudois, léger, parfait avec vos grillades l’été prochain et se mariera très bien avec un filet de perche
+très sympa, léger pourrait satisfaire ceux qui préfèrent le rouge à l’apéro*
+
+### pinot blanc 2015
+*on imagine des grains pleins de soleil qui explosent en bouche
+du caractère, du fruit, s’exprime magnifiquement et long en bouche
+parfait avec un poisson du lac ou un filet de féra fumé*
+
+
+## découvrir
 ### pinot gris 2015
-*long en bouche, sans agressivité malgré son jeune âge, appelle un deuxième verre
-une harmonie magique : une sauce safranée ou un curry*
+*une merveille – exceptionnel, enchanteur et du caractère
+une grande réussite
+sera parfait avec des sushis*
 
-### chenin blanc 2015
-*une surprise! subtil et long en bouche, vin de gastronomie
-se mariera parfaitement avec une cuisine asiatique ou un fromage de caractère*
-
-### pinot noir valençon 2015
-*épaulé, légèrement corsé, puissant, de couleur sombre, un très bon pinot
-agréable il te tapissera délicatement le palais et accompagnera un tartare*
-
-### pinot noir l’ormy 2015
-*magnifique goût de cerises noires, plaisant et long malgré une couleur légèrement pâle un peu plus féminin que son copain du dessus*
-
-### cornalin 2015
-*pour moi, incontestablement le meilleur *cornalin* du *valais* pour ne pas dire le meilleur du monde !
-une pure merveille qui sublimera tous les moments qu’on lui consacrera*
-
-## qui ?
-> Nicolas, Simon et Régis Bagnoud
-> Vignerons-encaveurs
-> Plat de Valençon 15
-> 3978 Flanthey
-> 027 458 60 55
-> 079 303 18 71
-> [info@bagnoudvins.ch](mailto:info@bagnoudvins.ch)
-> [www.bagnoudvins.ch](http://www.bagnoudvins.ch)
+## qui ?
+> Jean-Jacques Steiner
+> Viticulteur-encaveur
+> Sous-les-Vignes 26
+> 1195 Dully
+> 021 824 11 22 – 079 420 72 89 – info@parfumdevigne.ch - http://www.parfumdevigne.ch
 
 ## y aller
-un vrai parcours du combattant, mais quelle récompense à l’arrivée
-à la sortie de l’autoroute *sion est* tu prends la route direction *brigue* et tu longes les vignes avec le train à droite
-après *st-léonard* tu prends à gauche en direction de *lens* et tu attaques la montée qui sinue entre les ceps et au bout d’un moment tu te trouves devant le panneau d’un bled que l’orthographe, tu savais pas qu’elle existait : *vaas* et en face, deux autres panneaux dont l’un indique *valençon st-clément* et tu crois que t’es arrivé mais pas du tout du tout
-tu continues sur cette grimpée que tu te crois sur une route de l’impossible et quand tu vois des toits en bas dessous à droite t’es presque arrivé
-’y a un petit panneau *bagnoud vin* qui te dirige à droite, mais attention, si t’as pas une bagnole à grandes pattes tu risques de ramasser le seuil de cette vertigineuse petite dérupe
-et là, au bout à droite, ton *gps* va te dire merci
-
-## le resto
-et si tu veux bien finir cette journée et qu’après t’être savonné le gosier tu veux te remplir l’estomac reprends l’itinéraire jusqu’au seuil, tourne à gauche et arrivé sur la grande route, tourne encore à gauche et va jusqu’à *chermignon d’en-haut*, au milieu du village en face du panneau parking tu verras à gauche en haut une maison ancienne avec une enseigne *café cher-mignon*
-là tu passeras un excellent moment et tes papilles vont se souvenir longtemps de cette journée enchanteresse
-
-> Café *Cher-Mignon*
-> 027 483 25 96
-> [www.cafechermignon.ch](http://www.cafechermignon.ch/)
+à la sortie de *rolle* suivre durant trois kilomètres la route cantonale en direction de *genève*
+alors que le *lac léman* vous tend les bras à gauche et que le clocher de *bursinel* apparaît en haut de la colline à droite,
+après le panneau *bursinel* il y a un à droite qui te mènera au *domaine parfum de vigne*
 
 ## sympa
-le week-end du jeûne fédéral, il y a la fête du *cornalin* à *flanthey*
+repas gastronomique le jeudi 4 mai au restaurant du *buffet de la gare à gland*
+une ratatouille à se relever la nuit et un gala de glaces mieux que le cirque *knie*
+
+> Buffet de la Gare
+> José et Clémentina Fernandes
+> Route de Begnins 2
+> 1196 Gland
+> 022 354 16 20 – www.buffet-gland.ch - hotelglanis@bluewin.ch
+
+## le resto
+> Auberge Communale de Gilly
+> Jean-Claude Volery
+> Sur la Place
+> 1182 Gilly
+> 021 824 12 08 – www.aubergegilly.ch
