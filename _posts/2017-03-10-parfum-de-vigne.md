@@ -20,12 +20,12 @@ image:
 
 
 ## le vigneron
-à l’époque où l’on était civilisé, très souvent les problèmes se discutaient à l’heure des quatre chiffres autour de deux fois trois, parfois même plus et trouvaient à chaque fois une solution *« de la poire coupée en deux »*
+à l’époque où l’on était civilisé, très souvent les problèmes se discutaient à l’heure des quatre chiffres autour de deux fois trois, parfois même plus et trouvaient à chaque fois une solution *« on coupe la poire en deux»*
 un petit coup de blanc a sauvé plus de situations, a apporté plus de solutions que l’ensemble des échanges d’ *« émiles »* d’aujourd’hui et en plus ça faisait du bien !
 certes, certains petits coups de blanc ne faisaient pas que du bien et on disait à celui qui allait se délester de faire attention aux éclaboussures car il pourrait bien ressortir avec des sandales
 mais tout à changer et les *la côte* sont aujourd’hui souvent sur la plus haute marche de la hiérarchie des blancs d’ici et de *suisse romande*, ses vignerons ayant gardé la couleur et ajouté de la saveur et de la noblesse à leurs nectars
 au milieu de ce vignoble traverser chaque jour par des milliers de gens pressés et indifférents, il y a un petit village *dully*
-dans ce petit village un grand vigneron *jean-jacques steiner* dont les très nombreuses distinctions *(Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot)* ne sont que le reflet d’un travail acharné, minutieux et d’un amoureux de son métier qui a un grand respect et une grande connaissance de la vigne et du vin
+dans ce petit village un grand vigneron *jean-jacques steiner* dont les très nombreuses distinctions *(Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot)* ne sont que le reflet modeste d’un travail acharné, minutieux et d’un amoureux de son métier qui a un grand respect et une grande connaissance de la vigne et du vin
 reconnu, il mérite d’être connu, comme ses vins !
 
 ## déguster
@@ -42,14 +42,14 @@ un vrai vaudois, léger, parfait avec vos grillades l’été prochain et se mar
 très sympa, léger pourrait satisfaire ceux qui préfèrent le rouge à l’apéro*
 
 ### pinot blanc 2015
-*on imagine des grains pleins de soleil qui explosent en bouche
-du caractère, du fruit, s’exprime magnifiquement et long en bouche
+*on imagine des grains pleins de soleil qui explosent sur le palais
+du caractère, du fruit, s’exprime magnifiquement, rond et long en bouche
 parfait avec un poisson du lac ou un filet de féra fumé*
 
 
 ## découvrir
 ### pinot gris 2015
-*une merveille – exceptionnel, enchanteur et du caractère
+*une merveille – exceptionnel, enchanteur et de caractère
 une grande réussite
 sera parfait avec des sushis*
 
