@@ -58,12 +58,12 @@ sera parfait avec des sushis*
 > Viticulteur-encaveur
 > Sous-les-Vignes 26
 > 1195 Dully
-> 021 824 11 22 – 079 420 72 89 – [info@parfumdevigne.ch](mailto:info@parfumdevigne.ch) - [www.parfumdevigne.ch](www.parfumdevigne.ch)
+> 021 824 11 22 – 079 420 72 89 – [info@parfumdevigne.ch](mailto:info@parfumdevigne.ch) – [www.parfumdevigne.ch](http://www.parfumdevigne.ch)
 
 ## y aller
 à la sortie de *rolle* suivre durant trois kilomètres la route cantonale en direction de *genève*
-alors que le *lac léman* vous tend les bras à gauche et que le clocher de *bursinel* apparaît en haut de la colline à droite,
-après le panneau *bursinel* il y a un à droite qui te mènera au *domaine parfum de vigne*
+alors que le *lac léman* te tend les bras à gauche et que le clocher de *bursinel* apparaît en haut de la colline,
+après le panneau *bursinel* il y en a un autre à droite qui te mènera au *domaine parfum de vigne*
 
 ## sympa
 repas gastronomique le jeudi 4 mai au restaurant du *buffet de la gare à gland*
@@ -73,7 +73,7 @@ une ratatouille à se relever la nuit et un gala de glaces mieux que le cirque *
 > José et Clémentina Fernandes
 > Route de Begnins 2
 > 1196 Gland
-> 022 354 16 20 – [hotelglanis@bluewin.ch](mailto:hotelglanis@bluewin.ch) - [www.buffet-gland.ch](http://www.hotelglanis.com)
+> 022 354 16 20 – [hotelglanis@bluewin.ch](mailto:hotelglanis@bluewin.ch) – [www.buffet-gland.ch](http://www.hotelglanis.com)
 
 ## le resto
 > Auberge Communale de Gilly
