@@ -58,7 +58,7 @@ sera parfait avec des sushis*
 > Viticulteur-encaveur
 > Sous-les-Vignes 26
 > 1195 Dully
-> 021 824 11 22 – 079 420 72 89 – info@parfumdevigne.ch - http://www.parfumdevigne.ch
+> 021 824 11 22 – 079 420 72 89 – [info@parfumdevigne.ch](mailto:info@parfumdevigne.ch) - [www.parfumdevigne.ch](www.parfumdevigne.ch)
 
 ## y aller
 à la sortie de *rolle* suivre durant trois kilomètres la route cantonale en direction de *genève*
@@ -73,11 +73,11 @@ une ratatouille à se relever la nuit et un gala de glaces mieux que le cirque *
 > José et Clémentina Fernandes
 > Route de Begnins 2
 > 1196 Gland
-> 022 354 16 20 – www.buffet-gland.ch - hotelglanis@bluewin.ch
+> 022 354 16 20 – [hotelglanis@bluewin.ch](mailto:hotelglanis@bluewin.ch) - [www.buffet-gland.ch](http://www.hotelglanis.com)
 
 ## le resto
 > Auberge Communale de Gilly
 > Jean-Claude Volery
 > Sur la Place
 > 1182 Gilly
-> 021 824 12 08 – www.aubergegilly.ch
+> 021 824 12 08 – [aubergegilly.ch](https://aubergegilly.ch)
