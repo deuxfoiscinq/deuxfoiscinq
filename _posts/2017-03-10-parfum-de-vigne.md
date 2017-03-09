@@ -66,8 +66,7 @@ alors que le *lac léman* te tend les bras à gauche et que le clocher de *bursi
 après le panneau *bursinel* il y en a un autre à droite qui te mènera au *domaine parfum de vigne*
 
 ## sympa
-repas gastronomique le jeudi 4 mai au restaurant du *buffet de la gare à gland*
-une ratatouille à se relever la nuit et un gala de glaces mieux que le cirque *knie*
+repas gastronomique le jeudi 4 mai au restaurant du *buffet de la gare à gland* accompagné des vins présentés par *jean-jacques steiner*
 
 > Buffet de la Gare
 > José et Clémentina Fernandes
