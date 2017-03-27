@@ -7,8 +7,8 @@ teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à 
 description-courte: "Cave des Amandiers - Alexandre Delétraz"
 mots-cles: [Petite Arvine, Saillon, vigneron]
 categories: blog
-date:     2017-04-10T14:00:00+01:00
-modified: 2017-04-10T14:00:00+01:00
+date:     2017-04-10T14:00:00+02:00
+modified: 2017-04-10T14:00:00+02:00
 published: false
 image:
   feature: /images/2017-04-10-saillon-cavedesamandiers/point-interrogation.png
