@@ -21,14 +21,14 @@ image:
 
 ## le vigneron
 
-un rude gaillard t’accueille chaleureusement comme son accent et tu partiras à son écoute à travers ses vins dans tous ces vignobles que tu viens de cotoyer tout au long de ton voyage
-un dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « femmes saoules », les délices qu’il te présentera suffiront à cette noble tâche
+un rude gaillard t’accueille chaleureusement comme son accent et à son écoute tu partiras à travers ses vins dans tous ces vignobles que tu viens de cotoyer tout au long de ton voyage
+un dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « femmes saoules », les délices que tu dégusteras suffiront à cette noble tâche
 
 ## déguster
 
 ### petite arvine de fully 2015
-moins marquée que celle ci-dessous, mais un goût franc et frais parfaite même pour un apéro ou une brisolée
-très sympa pour faire sa connaissance pour ceux qui ignorent encore ce qu’est une petite arvigne
+moins marquée que celle ci-dessous, mais avec un goût franc et frais parfaite même pour un apéro ou une brisolée
+et pour ceux qui ignorent encore ce qu’est une petite arvine voilà une occasion de faire sa connaissance
 
 ### petite arvine les seyes 2014 (barrique)
 magnifique bouquet et arômes très riches
@@ -36,12 +36,12 @@ mariage parfait avec la cuisine japonnaise
 un vrai régal digne des grandes tables qu’elle fréquente déjà
 
 ### amigne 2014
-une gâterie tout en finesse et en velours qui finira un bon repas avec une note de soleil – par ex : crevettes sauce vanillée
+une gâterie tout en finesse et en velours qui finira un bon repas avec une note de soleil excellent mariage avec des crevettes sauce vanillée
 un vin que t’auras plaisir à faire découvrir à tes amis
 
 ### gamay vieilles vignes
 un bon gamay qui vous réconcile avec le vrai gamay
-superbe, digne de la vallée du rhône, on lit deux fois l’étiquette pour être certain de l’appellation
+superbe, digne de la *vallée du rhône*, on lit deux fois l’étiquette pour être certain de l’appellation valaisanne
 
 ## découverte
 
@@ -71,7 +71,7 @@ passé celle-ci, le bonheur
 ## le resto
 
 puis, pour vous remettre de vos émotions vinicoles, allez voir le bourg en haut dessus
-vous aurez l’impression d’être au tessin ou dans un des villages perchés que l’on visite en provence d’autant que sur la place en face de la maison de commune vous trouverez sous les arbres les trois cafés dont le nuovo bourg avec une cuisine très fine et  soignée du chef grégoire antoninet *(gault & millau 15/20)* une proposition de vins de la région
+vous aurez l’impression d’être au tessin ou dans un des villages perchés que l’on visite en provence d’autant que sur la place en face de la maison de commune vous trouverez sous les arbres les trois cafés dont le nuovo bourg avec une cuisine très fine et  soignée du chef *grégoire antoninet* *(15/20 gault & millau 2017)* avec une bonne proposition de vins de la région
 
 > Restaurant Nouvo Bourg
 > Rue du Bourg 25
