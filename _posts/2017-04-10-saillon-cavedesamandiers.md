@@ -3,7 +3,7 @@ layout: post
 title: Saillon — Cave des Amandiers
 vigneron: Alexandre Delétraz
 etiquette: /images/2017-04-10-saillon-cavedesamandiers/point-interrogation.png
-teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des bains de saillon et comme dit notre poète *gilles* vous allez regretter que ces *« valaisans n’aient pas mis du vin dans ces eaux »*"
+teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des bains de saillon et comme dit notre poète *gilles* vous allez regretter que ces *« valaisans n’aient pas mis du vin dans ces eaux-là »*"
 description-courte: "Cave des Amandiers - Alexandre Delétraz"
 mots-cles: [Petite Arvine, Saillon, vigneron]
 categories: blog
