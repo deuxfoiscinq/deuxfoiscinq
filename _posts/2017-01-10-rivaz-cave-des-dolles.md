@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rivaz – Cave des Dolles
+title: Rivaz — Cave des Dolles
 vigneron: Didier Imhof
 etiquette: /images/2017-01-10-rivaz-cave-des-dolles/etiquette-st-saphorin-desert.jpg
 teaser: "Navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un saint-saph en 5dl il avait plus l’allure d’un gaillard qui va au festival de jazz qu’un navigateur mais il aimait bien ce st-saph’, ..."

@@ -2,8 +2,8 @@
 layout: post
 title: Saillon — Cave des Amandiers
 vigneron: Alexandre Delétraz
-etiquette: /images/2017-04-10-saillon-cavedesamandiers/point-interrogation.png
-teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des bains de saillon et comme dit notre poète *gilles* vous allez regretter que ces *« valaisans n’aient pas mis du vin dans ces eaux-là »*"
+etiquette: /images/2017-04-10-saillon-cavedesamandiers/etiquette_amandiers.jpg
+teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des bains de saillon et comme dit notre poète *gilles*..."
 description-courte: "Cave des Amandiers - Alexandre Delétraz"
 mots-cles: [Petite Arvine, Saillon, vigneron]
 categories: blog
@@ -21,8 +21,8 @@ image:
 
 ## le vigneron
 
-une poignée de main solide t’accueille chaleureusement tout comme son accent et à son écoute tu pars aussitôt à travers ses vins dans le vignoble que tu viens de côtoyer 
-au dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « écoles supérieures » mais te racontera ses vignes et son vin, délices que la dégustation suffira à te convaincre que t'es à la bonne adresse (Gault & Millau 2017)
+une poignée de main solide t’accueille chaleureusement tout comme son accent et à son écoute tu pars aussitôt à travers ses vins dans le vignoble que tu viens de côtoyer
+au dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « écoles supérieures » mais te racontera ses vignes et son vin, délices que la dégustation suffira à te convaincre que t’es à la bonne adresse (*gault & millau* 2017)
 
 ## déguster
 
@@ -51,7 +51,7 @@ longue en bouche, fruitée, enchanteresse, un vrai plaisir de gastronome ou pour
 le passage en fût est très discret
 
 ### millésimes 2016
-j'ai eu le privilège de les déguster à la cuve : cela s'annonce plus que bien
+j’ai eu le privilège de les déguster à la cuve : cela s’annonce plus que bien
 
 ## qui ?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flanthey – Bagnoud vins
+title: Flanthey — Bagnoud vins
 vigneron: Nicolas Bagnoud
 etiquette: /images/2017-02-10-bagnoud-vins/etiquette-bagnoud.jpg
 teaser: "il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels syrah, humagne, cornalin et pinot noir entre autres merveilles nous avons découvert le cornalin..."
