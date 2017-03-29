@@ -21,18 +21,18 @@ image:
 
 ## le vigneron
 
-un rude gaillard t’accueille chaleureusement comme son accent et à son écoute tu partiras à travers ses vins dans tous ces vignobles que tu viens de cotoyer tout au long de ton voyage
-un dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « femmes saoules », les délices que tu dégusteras suffiront à cette noble tâche
+un rude gaillard t’accueille chaleureusement comme son accent et à son écoute tu partiras à travers ses vins dans tous ces vignobles que tu viens de côtoyer tout au long de ton voyage
+un dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « femmes saoules », les délices que tu dégusteras suffiront à cette noble tâche
 
 ## déguster
 
 ### petite arvine de fully 2015
-moins marquée que celle ci-dessous, mais avec un goût franc et frais parfaite même pour un apéro ou une brisolée
+moins marquée que celle ci-dessous, mais avec un goût franc et frais parfaite, même pour un apéro ou une brisolée
 et pour ceux qui ignorent encore ce qu’est une petite arvine voilà une occasion de faire sa connaissance
 
 ### petite arvine les seyes 2014 (barrique)
 magnifique bouquet et arômes très riches
-mariage parfait avec la cuisine japonnaise
+mariage parfait avec la cuisine japonaise
 un vrai régal digne des grandes tables qu’elle fréquente déjà
 
 ### amigne 2014
@@ -40,14 +40,14 @@ une gâterie tout en finesse et en velours qui finira un bon repas avec une note
 un vin que t’auras plaisir à faire découvrir à tes amis
 
 ### gamay vieilles vignes
-un bon gamay qui vous réconcile avec le vrai gamay
+un bon gamay qui vous réconcilie avec le vrai gamay
 superbe, digne de la *vallée du rhône*, on lit deux fois l’étiquette pour être certain de l’appellation valaisanne
 
 ## découverte
 
 ### syrah 2013
-elle seule vaut le détour !
-long en bouche, fruitée, enchanteuse, un vrai plaisir de gastronome ou pour finir un bon repas et pour assurer le 0.5
+elle seule vaut le détour !
+long en bouche, fruitée, enchanteresse, un vrai plaisir de gastronome ou pour finir un bon repas et pour assurer le 0.5
 le passage en fût ne l’altère pas, bien au contraire
 
 ## qui ?
@@ -71,7 +71,7 @@ passé celle-ci, le bonheur
 ## le resto
 
 puis, pour vous remettre de vos émotions vinicoles, allez voir le bourg en haut dessus
-vous aurez l’impression d’être au tessin ou dans un des villages perchés que l’on visite en provence d’autant que sur la place en face de la maison de commune vous trouverez sous les arbres les trois cafés dont le nuovo bourg avec une cuisine très fine et  soignée du chef *grégoire antoninet* *(15/20 gault & millau 2017)* avec une bonne proposition de vins de la région
+vous aurez l’impression d’être au *tessin* ou dans un des villages perchés que l’on visite en *provence* d’autant que sur la place en face de la maison de commune vous trouverez sous les arbres les trois cafés dont le *nuovo bourg* avec une cuisine très fine et  soignée du chef *grégoire antoninet* (15/20 *gault & millau* 2017) avec une bonne proposition de vins de la région
 
 > Restaurant Nouvo Bourg
 > Rue du Bourg 25
