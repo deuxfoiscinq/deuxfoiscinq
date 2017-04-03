@@ -22,7 +22,7 @@ image:
 ## le vigneron
 
 une poignée de main solide t’accueille chaleureusement tout comme son accent et à son écoute tu pars aussitôt à travers ses vins dans le vignoble que tu viens de côtoyer
-au dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « écoles supérieures » mais te racontera ses vignes et son vin, délices que la dégustation suffira à te convaincre que t’es à la bonne adresse (*gault & millau* 2017)
+au dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « écoles supérieures » mais te racontera ses vignes et son vin, délices que la dégustation suffira à te convaincre que t’es à la bonne adresse (*gault & millau* 2017 les 100 meilleurs vignerons de suisse)
 
 ## déguster
 
