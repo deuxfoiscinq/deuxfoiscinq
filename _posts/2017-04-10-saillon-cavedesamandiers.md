@@ -86,4 +86,4 @@ vous aurez l’impression d’être au *tessin* ou dans un des villages perchés
 
 ## sympa
 
-…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des *bains de saillon* et comme dit notre poète *gilles* vous allez regretter que ces *« valaisans n’aient pas mis du vin dans ces eaux-là »*
+…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des *bains de saillon* et comme dit notre poète *gilles* vous allez regretter que *« ces bons valaisans n’aient pas mis du vin dans ces eaux-là »*
