@@ -4,12 +4,12 @@ title: Saillon — Cave des Amandiers
 vigneron: Alexandre Delétraz
 etiquette: /images/2017-04-10-saillon-cavedesamandiers/etiquette-amandiers-2.jpg
 teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des bains de saillon et comme dit notre poète *gilles*..."
-description-courte: "Cave des Amandiers - Alexandre Delétraz"
+description-courte: "Cave des Amandiers — Alexandre Delétraz"
 mots-cles: [Petite Arvine, Saillon, vigneron]
 categories: blog
 date:     2017-04-10T14:00:00+02:00
 modified: 2017-04-10T14:00:00+02:00
-published: true
+published: false
 image:
   feature: /images/2017-04-10-saillon-cavedesamandiers/facade-amandiers-1-1900x800.jpg
   credit: jissé
@@ -20,32 +20,32 @@ image:
 
 ## le vigneron
 
-une poignée de main solide t’accueille chaleureusement tout comme son accent et à son écoute tu pars aussitôt à travers ses vins dans le vignoble de fully que tu viens de côtoyer
+une poignée de main solide t’accueille chaleureusement tout comme son accent et à son écoute tu pars aussitôt à travers ses vins dans le vignoble de *fully* que tu viens de côtoyer
 au dehors d’un côté très cool, *alexandre delétraz* est un grand professionnel reconnu qui ne cherchera pas à t’éblouir avec des théories de « bistrots » mais te racontera ses vignes et son vin, délices que la dégustation suffira à te convaincre que t’es pas seul à apprécier son talent (*gault & millau* 2017 les 100 meilleurs vignerons de suisse)
 
 ## déguster
 
-### petite arvine de fully 2015
+### *petite arvine* de *fully* 2015
 moins marquée que celle ci-dessous, mais avec un goût franc et frais, parfaite, même pour un apéro ou une brisolée
 et pour ceux qui ignorent encore ce qu’est une petite arvine voilà une occasion de faire sa connaissance
 
-### petite arvine les seyes 2014 (barrique)
+### *petite arvine les seyes* 2014 (barrique)
 magnifique bouquet et arômes très riches
 mariage parfait avec la cuisine japonaise
 un vrai régal digne des grandes tables qu’elle fréquente déjà
 
-### amigne 2014
+### *amigne* 2014
 une gâterie tout en finesse et en velours qui finira un bon repas avec une note de soleil excellent mariage avec des crevettes sauce vanillée
 un vin que t’auras plaisir à faire découvrir à tes amis
 
-### gamay vieilles vignes
-un bon gamay qui vous réconcilie avec le vrai gamay
+### *gamay vieilles vignes*
+un bon *gamay* qui vous réconcilie avec le vrai *gamay*
 superbe, on lit deux fois l’étiquette pour être certain de l’appellation valaisanne
 ira très bien avec un viande rouge ou un poulet fermier à l'estragon
 
 ## découverte
 
-### syrah 2013
+### *syrah* 2013
 elle seule vaut le détour !
 longue en bouche, fruitée, enchanteresse, un vrai plaisir de gastronome ou pour finir un bon repas et pour assurer le 0.5
 le passage en fût est très discret
