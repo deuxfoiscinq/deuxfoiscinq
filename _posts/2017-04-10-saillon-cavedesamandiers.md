@@ -2,22 +2,21 @@
 layout: post
 title: Saillon — Cave des Amandiers
 vigneron: Alexandre Delétraz
-etiquette: /images/2017-04-10-saillon-cavedesamandiers/etiquette_amandiers.jpg
+etiquette: /images/2017-04-10-saillon-cavedesamandiers/etiquette-amandiers-2.jpg
 teaser: "…et, après avoir bien humecté l’intérieur vous pouvez passer à l’extérieur en prenant à nouveau le giratoire et en tournant à droite cette fois pour vous fondre dans les bras bleus des bains de saillon et comme dit notre poète *gilles*..."
 description-courte: "Cave des Amandiers - Alexandre Delétraz"
 mots-cles: [Petite Arvine, Saillon, vigneron]
 categories: blog
 date:     2017-04-10T14:00:00+02:00
 modified: 2017-04-10T14:00:00+02:00
-published: false
+published: true
 image:
-  feature: /images/2017-04-10-saillon-cavedesamandiers/point-interrogation.png
+  feature: /images/2017-04-10-saillon-cavedesamandiers/facade-amandiers-1-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Alexandre Delétraz](/images/2017-04-10-saillon-cavedesamandiers/point-interrogation.png){: style="width:50%; margin-left:25%;" }
-
+![Alexandre Delétraz – Saillon – cave des Amandiers](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg){: style="width:50%; margin-left:25%;" }
 
 ## le vigneron
 
@@ -62,6 +61,8 @@ j’ai eu le privilège de les déguster à la cuve : cela s’annonce plus que 
 > 1913 Saillon
 > 027 746 22 01- 079 348 94 63 - [info@cavedesamandiers.ch](mailto:info@cavedesamandiers.ch) - [www.cavedesamandiers.ch](http://www.cavedesamandiers.ch)
 
+![Alexandre Delétraz – Saillon – cave des Amandiers](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-1-400x600.jpg){: style="width:50%; margin-left:25%;" }
+
 ## y aller
 
 après avoir croisé trois éoliennes vous prenez la sortie de *saxon* et direction *saillon*
@@ -71,6 +72,8 @@ au giratoire, vous avez le choix d’aller à droite aux *bains de saillon* et e
 faisons les choses dans l’ordre d’urgence donc tout de suite après la sortie du giratoire à droite la *rue des moulins* et la *cave des amandiers*
 à part trois vrais amandiers et quelques tuyaux et caisses plastiques, rien n’indique que vous êtes arrivés hormis le panneau sur la porte du garage
 passé celle-ci, le bonheur
+
+![Saillon – cave des Amandiers](/images/2017-04-10-saillon-cavedesamandiers/saillon-1-1000x750.jpg)
 
 ## le resto
 
