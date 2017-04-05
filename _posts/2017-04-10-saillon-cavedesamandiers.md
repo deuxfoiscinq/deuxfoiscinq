@@ -51,7 +51,7 @@ longue en bouche, fruitée, enchanteresse, un vrai plaisir de gastronome ou pour
 le passage en fût est très discret
 
 ### millésimes 2016
-j’ai eu le privilège de les déguster à la cuve : cela s’annonce plus que bien
+j’ai eu le privilège de les déguster à la cuve : cela s’annonce rude de bien !
 
 ## qui ?
 
