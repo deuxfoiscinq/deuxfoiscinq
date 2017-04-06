@@ -101,3 +101,6 @@ bien à toi et au 10 février pour le prochain vigneron
 … et pour me suivre
 [sur le web ⇒ deuxfoiscinq.ch](http://deuxfoiscinq.ch)
 [sur facebook ⇒ https://www.facebook.com/2x5dl](https://www.facebook.com/2x5dl)
+
+
+{% include site-logo.liquid %}

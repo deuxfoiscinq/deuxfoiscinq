@@ -41,7 +41,7 @@ un vin que t’auras plaisir à faire découvrir à tes amis
 ### *gamay vieilles vignes*
 un bon *gamay* qui vous réconcilie avec le vrai *gamay*
 superbe, on lit deux fois l’étiquette pour être certain de l’appellation valaisanne
-ira très bien avec un viande rouge ou un poulet fermier à l'estragon
+ira très bien avec un viande rouge ou un poulet fermier à l’estragon
 
 ## découverte
 
@@ -78,7 +78,7 @@ passé celle-ci, le bonheur
 ## le resto
 
 puis, pour vous remettre de vos émotions vinicoles, allez voir le bourg en haut dessus
-vous aurez l’impression d’être au *tessin* ou dans un des villages perchés que l’on visite en *provence* d’autant que sur la place en face de la maison de commune vous trouverez sous les arbres les trois cafés dont le *nuovo bourg* avec une cuisine très fine et  soignée du chef *grégoire antonin* (15/20 *gault & millau* 2017) avec une bonne proposition de vins de la région
+vous aurez l’impression d’être au *tessin* ou dans un des villages perchés que l’on visite en *provence* d’autant que sur la place en face de la maison de commune vous trouverez sous les arbres les trois cafés dont le *nuovo bourg* avec une cuisine très fine et soignée du chef *grégoire antonin* (15/20 *gault & millau* 2017) avec une bonne proposition de vins de la région
 
 > Restaurant Nouvo Bourg
 > Rue du Bourg 25
