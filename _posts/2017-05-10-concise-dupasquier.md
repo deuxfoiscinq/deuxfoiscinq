@@ -5,7 +5,7 @@ vigneron: Martial Du Pasquier
 <<<<<<< HEAD
 etiquette: /images/2017-05-10-dupasquier/etiquette.jpg
 teaser: "on cause vigne, récoltes, vinification et tu écoutes tout ça et cet accent chanteur et enchanteur tout en découvrant des vins que t’as pas idée qu’ils puissent être si bons alors que dans tes souvenirs d’il y a quarante ans on disait que les blancs d’ici rayaient les vitres 
-aujourd'hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
+aujourd'hui, tu ne les railleras plus, t’auras tant de plaisir à les déguster et les savourer !"
 =======
 etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
 teaser: "on cause vigne, récoltes, vinification et tu écoutes tout ça et cet accent chanteur et enchanteur tout en découvrant des vins que t’as pas idée qu’ils puissent être si bons alors que dans tes souvenirs d’il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
