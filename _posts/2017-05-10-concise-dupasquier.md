@@ -4,7 +4,7 @@ title: Concise — Cave Du Pasquier
 vigneron: Martial Du Pasquier
 etiquette: /images/2017-05-10-dupasquier/etiquette.jpg
 teaser: "on cause vigne, récoltes, vinification et tu écoutes tout ça et cet accent chanteur et enchanteur tout en découvrant des vins que t’as pas idée qu’ils puissent être si bons alors que dans tes souvenirs d’il y a quarante ans on disait que les blancs d’ici rayaient les vitres 
-aujourd'hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !
+aujourd'hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
 mots-cles: [Bonvillars, Concise, vigneron]
 categories: blog
 date:     2017-05-10T14:00:00+02:00
@@ -16,7 +16,7 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Du Pasquier – Concise – cave Dupasquier](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg){: style="width:50%; margin-left:25%;" }
+![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg){: style="width:50%; margin-left:25%;" }
 
 
 
