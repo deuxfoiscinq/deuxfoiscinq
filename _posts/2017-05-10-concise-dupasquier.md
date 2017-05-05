@@ -16,7 +16,7 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Dupasquier – Concise – cave Dupasquier](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg){: style="width:50%; margin-left:25%;" }
+![Martial Du Pasquier – Concise – cave Dupasquier](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg){: style="width:50%; margin-left:25%;" }
 
 
 
