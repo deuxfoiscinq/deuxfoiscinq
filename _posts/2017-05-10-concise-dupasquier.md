@@ -15,7 +15,7 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Dupasquier – Concise – cave Dupasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
+![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
 
 
 
