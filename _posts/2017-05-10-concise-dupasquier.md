@@ -82,3 +82,5 @@ et
 et découvrir ces vignes coincées entre le *jura* et le *lac de neuchâtel*, séchées par la bise et humidifiées par le brouillard qui se réchauffe le long des côtes de ce lac magnifique
 et
 faisant partie de l’histoire de ce village qui remonte très loin, on peut encore voir les restes d’une carrière de l’époque romaine et même des menhirs
+
+------
