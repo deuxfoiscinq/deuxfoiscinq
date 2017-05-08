@@ -6,9 +6,9 @@ etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
 teaser: "on cause vigne, récoltes, vinification et tu écoutes tout ça et cet accent chanteur et enchanteur tout en découvrant des vins que t’as pas idée qu’ils puissent être si bons alors que dans tes souvenirs d’il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
 mots-cles: [Bonvillars, Concise, vigneron]
 categories: blog
-date:     2017-05-10T14:00:00+02:00
+date:     2010-05-10T14:00:00+02:00
 modified: 2017-05-10T14:00:00+02:00
-published: false
+published: true
 image:
   feature: /images/2017-05-10-dupasquier/maison-1900-800.jpg
   credit: jissé
@@ -64,6 +64,9 @@ après *yverdon-les-bains*, par l’autoroute, sortie *grandson*, puis à droite
 grand’route direction *neuchâtel*
 après le passage de plusieurs ronds-points magnifiquement décorés sur le thème des travaux de la vigne et qui a eux seuls méritent le détour, à l’entrée du village tout de suite après le panneau concise, sur la droite une grande enseigne t’indique l’entrée du domaine qui se trouve en plein dans l’appelation bonvillars
 et là, tu te trouves dans la cour qui sépare la maison de la cave et t’as l’impression d’être passé dans un autre temps où l’on prenait le temps de faire les choses
+
+![rond-point – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/rondpoint-1000x370.jpg){: style="width:100%; margin-left:0%;" }
+
 
 ## le resto
 > Restaurant des Quais
