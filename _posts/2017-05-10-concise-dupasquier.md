@@ -3,7 +3,7 @@ layout: post
 title: Concise — Cave Du Pasquier
 vigneron: Martial Du Pasquier
 etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
-teaser: "on cause vigne, récoltes, vinification et tu écoutes tout ça et cet accent chanteur et enchanteur tout en découvrant des vins que t’as pas idée qu’ils puissent être si bons alors que dans tes souvenirs d’il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
+teaser: "...il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
 mots-cles: [Bonvillars, Concise, vigneron]
 categories: blog
 date:     2010-05-10T14:00:00+02:00
@@ -54,7 +54,9 @@ très sympa et surprenant
 plutôt pour finir un repas ou avec un dessert très doux
 
 ## qui ?
+> Cave
 > Martial Du Pasquier
+> Propriétaire encaveur
 > Route cantonale 4
 > 1426  Concise
 > 024 434 16 50 – 079 759 48 43 - [info@cavedupasquier](mailto:info@cavedupasquier.ch) - [www.cavedupasquier](http://www.cavedupasquier.ch/)
