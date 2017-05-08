@@ -44,7 +44,7 @@ avec une fricassée de bolets ou un curry
 
 ### œil de perdrix
 plein de soleil, un vrai œil de perdrix digne des plus grands
-à l’apéro sous une tonnelle ou avec un plat asiatique ou un poisson ou une grillade même s'il pleut
+à l’apéro sous une tonnelle ou avec un plat asiatique ou un poisson ou une grillade même s’il pleut
 
 
 ## découvrir
