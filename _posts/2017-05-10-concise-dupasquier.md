@@ -47,7 +47,7 @@ plein de soleil, un vrai œil de perdrix digne des plus grands
 à l’apéro sous une tonnelle ou avec un plat asiatique ou un poisson ou une grillade même si il pleut
 
 
-## découvrir
+## découvrir
 
 ### pinot blanc légèrement doux
 très sympa et surprenant
@@ -59,7 +59,7 @@ plutôt pour finir un repas ou avec un dessert très doux
 > 1426  Concise
 > 024 434 16 50 – 079 759 48 43 - [info@cavedupasquier](mailto:info@cavedupasquier.ch) - [www.cavedupasquier] (http://www.cavedupasquier.ch/contact.php)
 
-## y aller
+## y aller
 après *yverdon-les-bains*, par l’autoroute, sortie *grandson*, puis à droite la
 grand’route direction *neuchâtel*
 après le passage de plusieurs ronds-points magnifiquement décorés sur le thème des travaux de la vigne et qui a eux seuls méritent le détour, à l’entrée du village tout de suite après le panneau concise, sur la droite une grande enseigne t’indique l’entrée du domaine qui se trouve en plein dans l’appelation bonvillars
@@ -73,7 +73,7 @@ et là, tu te trouves dans la cour qui sépare la maison de la cave et t’as l�
 > Chemin du Lac 43
 > 1422 Grandson – 024.445 24 84
 
-## sympa
+## sympa
 régulièrement, le domaine organise des repas dégustations comme les 3 et 4 juin portes ouvertes cantonales, le 15 juillet une paella, le 19 août des grillades (vous trouverez tous les détails sur leur site)
 et
 à la sortie de l’autoroute, tu peux également suivre la route du vignoble, direction *bonvillars*, *champagne* des noms qui sonnent bien l’apéro
