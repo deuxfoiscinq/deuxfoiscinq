@@ -6,9 +6,9 @@ etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
 teaser: "...il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
 mots-cles: [Bonvillars, Concise, vigneron]
 categories: blog
-date:     2010-05-10T14:00:00+02:00
+date:     2017-05-10T14:00:00+02:00
 modified: 2017-05-10T14:00:00+02:00
-published: true
+published: false
 image:
   feature: /images/2017-05-10-dupasquier/maison-1900-800.jpg
   credit: jissé
