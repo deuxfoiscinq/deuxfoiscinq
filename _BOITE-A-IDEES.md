@@ -21,5 +21,5 @@ Visionneuse de fichiers Markdown
 <http://marked2app.com/>
 
 
-
+ajouter une rubrique "idées, suggestions, conseil" avec une étiquette ? par ex : les 2016 s'annoncent magnifiques, mais avant de vous précipiter profitez du 2015 - caves ouvertes vaudoises
 
