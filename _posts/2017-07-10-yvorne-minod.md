@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Agiez — Cave Mirabilis
-vigneron: Pierre-Yves Poget
+title: Yvorne — Domaine Dillet
+vigneron: Eric Minod
 etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
-teaser: "...ben lui, *pierre-yves poget* a gagné : son merlot 2015 est a reçu la médaille d’or au mondial du merlot 2017 à zurich (deuxième médaille d‘or après celle de 2014)"
-mots-cles: [Côtes de l'Orbe, Agiez, vigneron]
+teaser: "...c'est pas en ville que tu vas rencontrer un gaillard comme lui"
+mots-cles: [Yvorne, Chablais, vigneron]
 categories: blog
-date:     2017-06-10T14:00:00+02:00
-modified: 2017-06-10T14:00:00+02:00
-published: true
+date:     2017-07-10T14:00:00+02:00
+modified: 2017-07-10T14:00:00+02:00
+published: false
 image:
   feature: /images/2017-05-10-dupasquier/maison-1900-800.jpg
   credit: jissé
@@ -20,48 +20,52 @@ image:
 
 
 ## le vigneron
-au coeur des *côtes de l’orbe*, un grand gaillard, élancé, tu crois que c’est le régent ou un coureur de fond te reçoit derrière un grand sourire comme celui que t’affiches quand tu gagnes à la loterie
-ben lui a gagné il est médaillé d’or au mondial du *merlot 2017 de zurich* (pour son merlot en barrique 2015, déjà reçue en 2014 pour le 2012)
-et sa vitrine des récompenses est pleine d’autres distinctions c’est que *pierre-yves poget* est vigneron de fond qui travaille ses quatre hectares en famille et qui apporte tous les soins nécessaires à atteindre les sommets tel le soigneur et son athlète aux jeux olympiques
+après un repas avec un ami vigneron alors qu’on pedzait et batoillait, le cuisinier maître des lieux nous rejoint et dans ces joutes oratoires, lâcha le nom d’ eric minod, vigneron à yvorne
+trois jours plus tard et un « emil », je le rencontrais dans sa cave
+c’est pas en ville que tu vas rencontrer un gaillard comme lui, comme *eric minod*
+il exploite le domaine familiale avec son épouse et ses enfants
+simplement, il fait des vins pour lui, pour toi, pour le plaisir, savoureux qui plaisent au palais et qui remplace bien le lait
+il en est fier et il a de quoi l’être
 
- ##déguster
-### côte de bellevue 2016
-vous serez étonnés par le soleil, le fruit et son bon goût de chasselas qui te tapisse le gosier : verse !
-### savagnin rose aromatique 2016
-acidité et maturité font ici bon ménage et donnent une élégance à ce vin qui t’enchantera avec un *gateau aux pommes à tomber par terre*
-### pinot noir 2016
-un bon goût de pinot, équilibré et très sympa
-### gamaret – garanoir 2015 
-la surprise de cette première dégustation
-quelle saveur et quelle envie de prolonger la dégustation
+## déguster
+### chasselas 2016
+immédiatement le fruit te titille la langue par sa fraîcheur et une pointe de minéralité qui finit l’harmonie de ce vin
+de l’apéro aux filets de perches du léman du restaurant du torrent
+ne te précipite pas de boire le 2016 car l’*yvorne* supporte bien les années, profite des anciens millésimes, même les 2000 qui te surprendront par leur maturité et leur élégance
+### œil de perdrix 2016
+un rayon de soleil qui enchantera tes apéros et même tes grillades
+### gamay vielles vignes 2015
+les quarante cinq ans de ces vignes inspirent le respect
+un grand vin, rond, plaisant et un rien enchanteur qui t’oblige vite à faire appel à une petite sœur et qui ne craint pas un *wellington*
 
 ## découvrir
-bien entendu son *merlot barrique 2015* (seulement en 70cl)
-ses vins d’appellation *côtes de l’orbe* te surprendra et t’enchantera par leur excellence, leur équilibre et leur saveur
-il est intéressant de noter ici (c’est le professeur raisin qui vous en verse une) que les *côtes de l’orbe*  est une des régions vinicoles les plus séches du canton
+### yvorne spécialité 2015/2016
+(assemblage de pinot gris, chardonnay et pinot blanc – élevé en barrique)
+fruité, élégant et un goût original qui te flatte le gossier
+se marie parfaitement avec une *cassolette de chanterelles*
 
 ## qui ?
-> Pierre-Yves Poget
-> Vigneron-encaveur
-> Cave Mirabilis
-> Route de Bretonnières 16A
-> 1352 Agiez
-> 024 441 43 21 – 079 320 85 09 – pypoget@vins-poget.ch - www.vins-poget.ch
+> Domaine Dillet
+> Eric Minod
+> Les Renauds 1
+> 1853 Yvorne
+> 024  466 53 89 – 079 329 65 78 - info@yvornedillet.ch- www.yvornedillet.ch
 
 ## y aller
-sur l’autoroute qui te mène de *lausanne* à *yverdon-les-bains*, tu sors à *chavornay* et prends la direction d’*orbe* par la route cantonale
-après un giratoire à l’entrée d’*orbe* qui t’invite à boire un café, tu prends la route qui monte en direction de la *vallée de joux*
-au carrefour en haut dessus tu tournes à gauche et après quelques tours de roue tu verras la direction *agiez*
-tu sors d’*orbe* et te retrouve au mileu des champs
-au bas de la dérupe tu prends à droite vers *bretonnières*
-cent mètres à gauche la *cave mirabilis*
+quand tu vas de *villeneuve* à *aigle*, tout à coup sur ta gauche, au pied de la montagne il y a un magnifique village entouré de vignobles
+c’est *yvorne*
+par l’autoroute tu prends la sortie *aigle* et tu suis la route jusqu’au rond point après les feux que tu passes au vert
+là tu prends à gauche direction *villeneuve* et tu trouveras un panneau blanc indiquant *yvorne – corbeyrier* à droite
+tu montes cette petite route limitée de chaque côté par des vignes et sur la place du village tu tournes à gauche et tu te trouveras en face d’une façade sur laquelle il est inscrit *domaine dillet*
 
 ## le resto
-> Rôtisserie  Au Gaulois
-> Route des Dîmes 3
-> 1323 Romainmôtier
-024.453 14 89 – augaulois@bluewin.ch - www.au-gaulois.com
+> Restaurant du Torrent
+> Claude Philipona
+> Place du Torrent
+> 1853 Yvorne
+> 024 534 56 97 - http://www.restaurant-le-torrent.ch
 
 ## sympa
-il dispose d’un magnifique carnotzet 
-le samedi 9 septembre, il y a le semi-marathon des côtes-de-l’orbe 
+quand la récolte est abondante comme en 2016 et que ses plants de doral sont beaux, *eric* les laisse mûrir sur pied et le 14 février 2017 il les a récoltés, puis mis en barrique 
+tu pourras les déguster en 2019 !
+
