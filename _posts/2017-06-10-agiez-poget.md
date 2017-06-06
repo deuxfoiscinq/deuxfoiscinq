@@ -2,20 +2,20 @@
 layout: post
 title: Agiez — Cave Mirabilis
 vigneron: Pierre-Yves Poget
-etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
+etiquette: /images/2017-06-10-poget/etiquette-poget-700x1500.jpg
 teaser: "...ben lui, *pierre-yves poget* a gagné : son merlot 2015 est a reçu la médaille d’or au mondial du merlot 2017 à zurich (deuxième médaille d‘or après celle de 2014)"
 mots-cles: [Côtes de l'Orbe, Agiez, vigneron]
 categories: blog
 date:     2017-06-10T14:00:00+02:00
 modified: 2017-06-10T14:00:00+02:00
-published: false
+published: true
 image:
-  feature: /images/2017-05-10-dupasquier/maison-1900-800.jpg
+  feature: /images/2017-06-10-poget/distinctions-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
+![Pierre-Yves Poget – Agiez – cave Mirabilis](../images/2017-06-10-poget/poget-vigneron-1200x1600.jpg){: style="width:50%; margin-left:25%;" }
 
 
 
@@ -24,14 +24,17 @@ au coeur des *côtes de l’orbe*, un grand gaillard, élancé, tu crois que c�
 ben lui a gagné il est médaillé d’or au mondial du *merlot 2017 de zurich* (pour son merlot en barrique 2015, déjà reçue en 2014 pour le 2012)
 et sa vitrine des récompenses est pleine d’autres distinctions c’est que *pierre-yves poget* est vigneron de fond qui travaille ses quatre hectares en famille et qui apporte tous les soins nécessaires à atteindre les sommets tel le soigneur et son athlète aux jeux olympiques
 
- ##déguster
+## déguster
 ### côte de bellevue 2016
-vous serez étonnés par le soleil, le fruit et son bon goût de chasselas qui te tapisse le gosier : verse !
+vous serez étonnés par le soleil, le fruit et son bon goût de chasselas qui te tapisse le gosier : verse !
+
 ### savagnin rose aromatique 2016
 acidité et maturité font ici bon ménage et donnent une élégance à ce vin qui t’enchantera avec un *gateau aux pommes à tomber par terre*
+
 ### pinot noir 2016
 un bon goût de pinot, équilibré et très sympa
-### gamaret – garanoir 2015 
+
+### gamaret – garanoir 2015
 la surprise de cette première dégustation
 quelle saveur et quelle envie de prolonger la dégustation
 
@@ -63,5 +66,5 @@ cent mètres à gauche la *cave mirabilis*
 024.453 14 89 – augaulois@bluewin.ch - www.au-gaulois.com
 
 ## sympa
-il dispose d’un magnifique carnotzet 
-le samedi 9 septembre, il y a le semi-marathon des côtes-de-l’orbe 
+il dispose d’un magnifique carnotzet
+le samedi 9 septembre, il y a le semi-marathon des côtes-de-l’orbe
