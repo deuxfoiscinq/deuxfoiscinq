@@ -15,7 +15,7 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Pierre-Yves Poget – Agiez – cave Mirabilis](../images/2017-06-10-poget/poget-vigneron-1200x1600.jpg){: style="width:50%; margin-left:25%;" }
+![Pierre-Yves Poget – Agiez – cave Mirabilis](../../images/2017-06-10-poget/poget-vigneron-1200x1600.jpg){: style="width:50%; margin-left:25%;" }
 
 
 
