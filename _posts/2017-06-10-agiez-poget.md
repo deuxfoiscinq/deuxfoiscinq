@@ -40,8 +40,8 @@ quelle saveur et quelle envie de prolonger la dégustation
 
 ## découvrir
 bien entendu son *merlot barrique 2015* (seulement en 70cl)
-ses vins d’appellation *côtes de l’orbe* te surprendra et t’enchantera par leur excellence, leur équilibre et leur saveur
-il est intéressant de noter ici (c’est le professeur raisin qui vous en verse une) que les *côtes de l’orbe*  est une des régions vinicoles les plus séches du canton
+ses vins d’appellation *côtes de l’orbe* te surprendront et t’enchanteront par leur excellence, leur équilibre et leur saveur
+il est intéressant de noter ici (et c’est le professeur raisin qui vous en verse une) que les *côtes de l’orbe*  sont une des régions vinicoles les plus séches du canton
 
 ## qui ?
 > Pierre-Yves Poget
