@@ -22,7 +22,7 @@ image:
 <div class="etiquette">
 <img alt="etiquette" src="{{ post.etiquette }}" />
 </div>
-  {{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: ' %-d' }} {% assign m = post.date | date: "%-m" %}
+  {{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: ' %-d' }}&#160;{% assign m = post.date | date: "%-m" %}
           {% case m %}
             {% when '1' %}janvier
             {% when '2' %}février
@@ -36,7 +36,7 @@ image:
             {% when '10' %}octobre
             {% when '11' %}novembre
             {% when '12' %}décembre
-          {% endcase %} {{ post.date | date: '%Y' }}</time>{% if post.notif-modifs == true %}<br /><span class="notif-modifs float-right">ARTICLE MIS À JOUR</span>{% endif %}</span>
+          {% endcase %}&#160;{{ post.date | date: '%Y' }}</time>{% if post.notif-modifs == true %}<br /><span class="notif-modifs">ARTICLE MIS À JOUR</span>{% endif %}</span>
           {% if post.vigneron %} <span class="vigneron">{{ post.vigneron | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
           {% if post.teaser %} <span class="teaser">{{ post.teaser | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
           </a>

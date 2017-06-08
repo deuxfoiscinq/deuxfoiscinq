@@ -9,6 +9,7 @@ mots-cles: [saint-saphorin 2015, pinot noir 2015, gamaret–garanoir 2015]
 categories: blog
 date:     2017-01-10T14:00:00+01:00
 modified: 2017-02-20T09:23:00+01:00
+notif-modifs: true
 published: true
 image:
   feature: /images/2017-01-10-rivaz-cave-des-dolles/cave-dolles-1900x800.jpg
@@ -22,7 +23,7 @@ image:
 navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un saint-saph en 5dl
 il avait plus l’allure d’un gaillard qui va au festival de jazz qu’un navigateur mais il aimait bien ce saint-saph, comme moi
 au bout d’un moment et de saint-saph, il avoue en être le vigneron et naquit ainsi une amitié
-*didier imhof*, allure de dernier des mohicans, t’accueille de son sourire assuré comme la qualité de ses produits
+*didier imhof*, allure de dernier des mohicans, t’accueille de son sourire assuré comme la qualité de ses produits <span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>extraordinaires</span>
 un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 …et si t’es sympa avec lui, peut-être que tu pourras déguster son saint-saph sur la terrasse qui embrasse la région de *rivaz à villeneuve*, et vice versa
 
