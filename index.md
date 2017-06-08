@@ -36,7 +36,7 @@ image:
             {% when '10' %}octobre
             {% when '11' %}novembre
             {% when '12' %}décembre
-          {% endcase %} {{ post.date | date: '%Y' }}</time></span>
+          {% endcase %} {{ post.date | date: '%Y' }}</time>{% if post.notif-modifs == true %}<br /><span class="notif-modifs float-right">ARTICLE MIS À JOUR</span>{% endif %}</span>
           {% if post.vigneron %} <span class="vigneron">{{ post.vigneron | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
           {% if post.teaser %} <span class="teaser">{{ post.teaser | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
           </a>
