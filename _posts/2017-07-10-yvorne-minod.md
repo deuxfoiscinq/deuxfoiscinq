@@ -2,7 +2,7 @@
 layout: post
 title: Yvorne — Domaine Dillet
 vigneron: Eric Minod
-etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
+etiquette: /images/2017-07-10-dillet/etiquette-569x1000.jpg
 teaser: "...c'est pas en ville que tu vas rencontrer un gaillard comme lui"
 mots-cles: [Yvorne, Chablais, vigneron]
 categories: blog
@@ -32,8 +32,10 @@ il en est fier et il a de quoi l’être
 immédiatement le fruit te titille la langue par sa fraîcheur et une pointe de minéralité qui finit l’harmonie de ce vin
 de l’apéro aux filets de perches du léman du restaurant du torrent
 ne te précipite pas de boire le 2016 car l’*yvorne* supporte bien les années, profite des anciens millésimes, même les 2000 qui te surprendront par leur maturité et leur élégance
+
 ### œil de perdrix 2016
 un rayon de soleil qui enchantera tes apéros et même tes grillades
+
 ### gamay vielles vignes 2015
 les quarante cinq ans de ces vignes inspirent le respect
 un grand vin, rond, plaisant et un rien enchanteur qui t’oblige vite à faire appel à une petite sœur et qui ne craint pas un *wellington*
