@@ -20,10 +20,10 @@ image:
 
 
 ## le vigneron
-après un repas avec un ami vigneron alors qu’on pedzait et batoillait, le cuisinier maître des lieux nous rejoint et dans ces joutes oratoires, lâcha le nom d’ eric minod, vigneron à yvorne
+après un repas avec un ami vigneron alors qu’on pedzait et batoillait, le cuisinier maître des lieux nous rejoint et dans ces joutes oratoires, lâcha le nom d’eric minod, vigneron à yvorne
 trois jours plus tard et un « emil », je le rencontrais dans sa cave
-c’est pas en ville que tu vas rencontrer un gaillard comme lui, comme *eric minod*
-il exploite le domaine familiale avec son épouse et ses enfants
+c’est pas en ville que tu vas croiser un gaillard comme lui, comme *eric minod*
+il exploite le domaine familial avec son épouse et ses enfants
 simplement, il fait des vins pour lui, pour toi, pour le plaisir, savoureux qui plaisent au palais et qui remplace bien le lait
 il en est fier et il a de quoi l’être
 
@@ -69,5 +69,5 @@ tu montes cette petite route limitée de chaque côté par des vignes et sur la 
 
 ## sympa
 quand la récolte est abondante comme en 2016 et que ses plants de doral sont beaux, *eric* les laisse mûrir sur pied et le 14 février 2017 il les a récoltés, puis mis en barrique 
-tu pourras les déguster en 2019 !
+tu pourras déguster ce nectar en 2019 !
 
