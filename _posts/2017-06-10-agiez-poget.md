@@ -21,7 +21,7 @@ image:
 
 ## le vigneron
 au coeur des *côtes de l’orbe*, un grand gaillard, élancé, tu crois que c’est le régent ou un coureur de fond te reçoit derrière un grand sourire comme celui que t’affiches quand tu gagnes à la loterie
-ben lui a gagné il est médaillé d’or au mondial du *merlot 2017 de zurich* (pour son merlot en barrique 2015, déjà reçue en 2014 pour le 2012)
+ben lui a gagné il est médaillé d’or au mondial du *merlot 2017 de zurich* (pour son merlot en barrique 2015, récompense déjà reçue en 2014 pour son 2012)
 et sa vitrine des récompenses est pleine d’autres distinctions c’est que *pierre-yves poget* est vigneron de fond qui travaille ses quatre hectares en famille et qui apporte tous les soins nécessaires à atteindre les sommets tel le soigneur et son athlète aux jeux olympiques
 
 ## déguster
@@ -40,7 +40,7 @@ quelle saveur et quelle envie de prolonger la dégustation
 
 ## découvrir
 bien entendu son *merlot barrique 2015* (seulement en 70cl)
-ses vins d’appellation *côtes de l’orbe* te surprendront et t’enchanteront par leur excellence, leur équilibre et leur saveur
+ses vins d’appellation *côtes de l’orbe* te surprendront et t’enchanteront par leur élégance, leur équilibre et leur saveur
 il est intéressant de noter ici (et c’est le professeur raisin qui vous en verse une) que les *côtes de l’orbe*  sont une des régions vinicoles les plus séches du canton
 
 ## qui ?
