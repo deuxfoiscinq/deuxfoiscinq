@@ -9,7 +9,7 @@ mots-cles: [pinot gris 2015, chenin blanc 2015, pinot noir valençon 2015, pinot
 categories: blog
 date:     2017-02-10T14:00:00+01:00
 modified: 2017-02-20T14:00:00+01:00
-published: false
+published: true
 image:
   feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud-1900x800.jpg
   credit: jissé
