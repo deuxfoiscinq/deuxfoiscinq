@@ -14,16 +14,16 @@ image:
 
 une année sept jours sur sept
 et que je te coupe, et que je te laboure, et que je t’effeuille, et que je t’y parle, et que je te soigne, et que je te taille en gobelets ou en guyot
-elle aime bien se faire dorlotter et se laisser caresser par les doux rayons du soleil, mais il lui faut aussi un peu de pluie, mais pas trop
-la journée vous les ne voyez pas ils sont courbés dans leur vigne et disparaissent derrière les bois et les feuilles
-et le week end il sont dans les caveaux à votre disposition
+elle aime bien se faire dorloter et se laisser caresser par les doux rayons du soleil, mais il lui faut aussi un peu de pluie, mais pas trop
+la journée vous les ne voyez pas, ils sont courbés dans leur vigne et disparaissent derrière les bois et les feuilles
+et le week-end ils sont dans les caveaux à votre disposition
 quand on longe les vignes, on ne voit personne sauf par temps de pluie où quelques points jaunes ou rouges te signalent qu’il y a un vigneron tout près dedans
 c’est vrai que pour le commun des mortels le vigneron regarde sa vigne pousser, mûrir ses raisins, déguste ses vins et vend ses bouteilles… bref il se les roule sauf les soirs d’orage et de grêle ou quand il chasse la suzuki
 …et pis il y a les vendanges !
 
 ben c’est pas si simple
 bien au contraire le travail de la vigne est très exigeant et demande beaucoup d’efforts d’autant que très souvent les machines sont exclues sauf à dos d’homme
-tous les jours, il faut la visiter, l’osculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
+tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
 
 ## du grain au verre
 
@@ -120,4 +120,4 @@ le long des murs les fleurs du merlot ont éclos
 
 après un week end de la pentecôte avec des orages et des rayons de soleil, nous revoilà au pied du charmus
 il faut rebioler et attacher les sarments qui ont poussé
-la vigne a depuis quelques temps retrouvé sa vigueur et son hardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
+la vigne a depuis quelques temps retrouvé sa vigueur et son ardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
