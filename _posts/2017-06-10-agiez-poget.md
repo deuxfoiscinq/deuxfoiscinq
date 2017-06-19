@@ -15,9 +15,10 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Pierre-Yves Poget – Agiez – cave Mirabilis](../../images/2017-06-10-poget/poget-vigneron-1200x1600.jpg){: style="width:50%; margin-left:25%;" }
 
+![Pierre-Yves Poget – Agiez – cave Mirabilis][i1]{: style="width:50%; margin-left:25%;" }
 
+[i1]: ../../images/2017-06-10-poget/poget-vigneron-1200x1600.jpg
 
 ## le vigneron
 au cœur des *côtes de l’orbe*, un grand gaillard, élancé, tu crois que c’est le régent ou un coureur de fond te reçoit derrière un grand sourire comme celui que t’affiches quand tu gagnes à la loterie

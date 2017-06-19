@@ -15,8 +15,9 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
+![Martial Du Pasquier – Concise – cave Du Pasquier][i1]{: style="width:50%; margin-left:25%;" }
 
+[i1]: ../../images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg
 
 
 ## le vigneron
@@ -68,6 +69,6 @@ tu montes cette petite route limitée de chaque côté par des vignes et sur la 
 > 024 534 56 97 - http://www.restaurant-le-torrent.ch
 
 ## sympa
-quand la récolte est abondante comme en 2016 et que ses plants de doral sont beaux, *eric* les laisse mûrir sur pied et le 14 février 2017 il les a récoltés, puis mis en barrique 
+quand la récolte est abondante comme en 2016 et que ses plants de doral sont beaux, *eric* les laisse mûrir sur pied et le 14 février 2017 il les a récoltés, puis mis en barrique
 tu pourras déguster ce nectar en 2019 !
 

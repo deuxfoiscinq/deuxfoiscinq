@@ -20,7 +20,7 @@ image:
   <a href="{{ site.url }}{{ post.url }}">
 
 <div class="etiquette">
-<img alt="etiquette" src="{{ post.etiquette }}" />
+<img alt="etiquette" src="{{ site.url }}{{ post.etiquette }}" />
 </div>
   {{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: ' %-d' }}&#160;{% assign m = post.date | date: "%-m" %}
           {% case m %}

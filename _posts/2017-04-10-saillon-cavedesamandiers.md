@@ -16,7 +16,11 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Alexandre Delétraz – Saillon – cave des Amandiers](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg){: style="width:50%; margin-left:25%;" }
+
+![Alexandre Delétraz – Saillon – cave des Amandiers][i1]{: style="width:50%; margin-left:25%;" }
+
+[i1]: ../../images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-2-400x599.jpg
+
 
 ## le vigneron
 
@@ -47,7 +51,7 @@ ira très bien avec un viande rouge avec une sauce aux bolets ou un poulet fermi
 
 ### *syrah* 2013
 elle seule vaut le détour !
-longue en bouche, fruitée, enchanteresse, un vrai plaisir de gastronome 
+longue en bouche, fruitée, enchanteresse, un vrai plaisir de gastronome
 pour finir un bon repas sur une touche élégante
 le passage en fût est très discret
 
@@ -62,7 +66,11 @@ j’ai eu le privilège de les déguster à la cuve : cela s’annonce rude de b
 > 1913 Saillon
 > 027 746 22 01- 079 348 94 63 - [info@cavedesamandiers.ch](mailto:info@cavedesamandiers.ch) - [www.cavedesamandiers.ch](http://www.cavedesamandiers.ch)
 
-![Alexandre Delétraz – Saillon – cave des Amandiers](/images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-1-400x600.jpg){: style="width:50%; margin-left:25%;" }
+
+![Alexandre Delétraz – Saillon – cave des Amandiers][i2]{: style="width:50%; margin-left:25%;" }
+
+[i2]: ../../images/2017-04-10-saillon-cavedesamandiers/alexandredeletraz-1-400x600.jpg
+
 
 ## y aller
 
@@ -74,7 +82,10 @@ faisons les choses dans l’ordre d’urgence donc tout de suite après la sorti
 à part trois vrais amandiers et quelques tuyaux et quelques ceps usagés, rien n’indique que vous êtes arrivés hormis le panneau sur la grande porte de la cave
 passé celle-ci, le bonheur
 
-![Saillon – cave des Amandiers](/images/2017-04-10-saillon-cavedesamandiers/saillon-1-1000x750.jpg)
+![Alexandre Delétraz – Saillon – cave des Amandiers][i3]
+
+[i3]: ../../images/2017-04-10-saillon-cavedesamandiers/saillon-1-1000x750.jpg
+
 
 ## le resto
 

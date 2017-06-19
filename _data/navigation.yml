@@ -1,4 +1,8 @@
 # Site navigation links
 
-- title: pourquoi ?
-  url: /pourquoi/
+- title: le jissé ?
+  url: /le_jisse/
+- title: Les vignerons
+  url: /
+- title: “cep by cep”
+  url: /cep-by-cep/

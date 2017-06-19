@@ -15,8 +15,10 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
 
+![Martial Du Pasquier – Concise – cave Du Pasquier][i1]{: style="width:50%; margin-left:25%;" }
+
+[i1]: ../../images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg
 
 
 ## le vigneron
@@ -67,7 +69,9 @@ grand’route direction *neuchâtel*
 après le passage de plusieurs ronds-points magnifiquement décorés sur le thème des travaux de la vigne et qui a eux seuls méritent le détour, à l’entrée du village tout de suite après le panneau *concise*, sur la droite une grande enseigne t’indique l’entrée du domaine qui se trouve en plein dans l’appelation *bonvillars*
 et là, tu te trouves dans la cour qui sépare la maison de la cave et t’as l’impression d’être passé dans un autre temps où l’on prenait le temps de faire les choses
 
-![rond-point – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/rondpoint-1000x370.jpg){: style="width:100%; margin-left:0%;" }
+![rond-point – Concise – cave Du Pasquier][i2]
+
+[i2]: ../../images/2017-05-10-dupasquier/rondpoint-1000x370.jpg
 
 
 ## le resto

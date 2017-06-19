@@ -7,7 +7,22 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		    {% assign urlPart = page.url | split: '/' %}
+		    {% if urlPart[ 1 ] == 'blog' %}
+		    	{% if link.title == 'Les vignerons' %}
+		    		{% assign active-item-class = ' class="current-menu-item"' %}
+		    		}
+	    		{% else %}
+			    	{% assign active-item-class = '' %}
+	    		{% endif %}
+	    	{% else %}
+			    {% if link.url == page.url %}
+				    {% assign active-item-class = ' class="current-menu-item"' %}
+			    {% else %}
+				    {% assign active-item-class = '' %}
+			    {% endif %}
+		    {% endif %}
+		    <li {{ active-item-class }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
 	    </ul>
 	</nav>

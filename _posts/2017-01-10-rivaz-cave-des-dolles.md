@@ -17,7 +17,10 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Didier Imhof](/images/2017-01-10-rivaz-cave-des-dolles/imhof_2.jpg){: style="width:100%; margin-left:0%;" }
+[![Didier Imhof][i1]][i1]
+
+[i1]: ../../images/2017-01-10-rivaz-cave-des-dolles/imhof_2.jpg
+
 
 ## le vigneron
 navigateur comme moi, on s’est connu lors d’un apéro au clubhouse de notre port en dégustant un saint-saph en 5dl

@@ -16,7 +16,10 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Nicolas Bagnoud](/images/2017-02-10-bagnoud-vins/nicolas-bagnoud_2.jpg){: style="width:50%; margin-left:25%;" }
+![Nicolas Bagnoud][i1]{: style="width:50%; margin-left:25%;" }
+
+[i1]: ../../images/2017-02-10-bagnoud-vins/nicolas-bagnoud_2.jpg
+
 
 ## le vigneron
 il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels *syrah*, *humagne*, *cornalin* et *pinot noir* entre autres merveilles nous avons découvert ***le*** *cornalin*

@@ -16,7 +16,10 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Jean-Jacques Steiner](/images/2017-03-10-parfum/jean-jacques-steiner-400x533.jpg){: style="width:50%; margin-left:25%;" }
+
+![Jean-Jacques Steiner][i1]{: style="width:50%; margin-left:25%;" }
+
+[i1]: ../../images/2017-03-10-parfum/jean-jacques-steiner-400x533.jpg
 
 
 ## le vigneron
