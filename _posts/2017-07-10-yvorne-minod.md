@@ -15,9 +15,8 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Du Pasquier – Concise – cave Du Pasquier][i1]{: style="width:50%; margin-left:25%;" }
+![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
 
-[i1]: ../../images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg
 
 
 ## le vigneron
@@ -30,22 +29,24 @@ il en est fier et il a de quoi l’être
 
 ## déguster
 ### chasselas 2016
-immédiatement le fruit te titille la langue par sa fraîcheur et une pointe de minéralité qui finit l’harmonie de ce vin
-de l’apéro aux filets de perches du léman du restaurant du torrent
+à la première lampée tu sais que t'es à *yvorne*
+le fruit te titille la langue par sa fraîcheur et une pointe de minéralité qui bonifie l’harmonie de ce vin
+de l’apéro ou avec les filets de perches du léman du *restaurant du torrent*
 ne te précipite pas de boire le 2016 car l’*yvorne* supporte bien les années, profite des anciens millésimes, même les 2000 qui te surprendront par leur maturité et leur élégance
 
 ### œil de perdrix 2016
 un rayon de soleil qui enchantera tes apéros et même tes grillades
 
-### gamay vielles vignes 2015
-les quarante cinq ans de ces vignes inspirent le respect
-un grand vin, rond, plaisant et un rien enchanteur qui t’oblige vite à faire appel à une petite sœur et qui ne craint pas un *wellington*
-
-## découvrir
 ### yvorne spécialité 2015/2016
 (assemblage de pinot gris, chardonnay et pinot blanc – élevé en barrique)
 fruité, élégant et un goût original qui te flatte le gossier
-se marie parfaitement avec une *cassolette de chanterelles*
+se marie parfaitement avec une *cassolette de bolets*
+
+
+## découvrir
+### gamay vielles vignes 2015
+les quarante-cinq ans de ces vignes inspirent le respect
+un grand vin, rond, plaisant et un rien enchanteur qui t’oblige vite à faire appel à une petite sœur et qui ne craint pas un *wellington*
 
 ## qui ?
 > Domaine Dillet
@@ -69,6 +70,6 @@ tu montes cette petite route limitée de chaque côté par des vignes et sur la 
 > 024 534 56 97 - http://www.restaurant-le-torrent.ch
 
 ## sympa
-quand la récolte est abondante comme en 2016 et que ses plants de doral sont beaux, *eric* les laisse mûrir sur pied et le 14 février 2017 il les a récoltés, puis mis en barrique
+quand la récolte est abondante comme en 2016 et que ses plants de doral sont beaux, *eric* les laisse mûrir sur pied et le 14 février 2017 il les a récoltés, puis mis en barrique 
 tu pourras déguster ce nectar en 2019 !
 
