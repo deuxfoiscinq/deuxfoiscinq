@@ -2,20 +2,20 @@
 layout: post
 title: Yvorne — Domaine Dillet
 vigneron: Eric Minod
-etiquette: /images/2017-07-10-dillet/etiquette-569x1000.jpg
+etiquette: /images/2017-07-10-dillet/etiquettedillet-545x958.jpg
 teaser: "...c'est pas en ville que tu vas rencontrer un gaillard comme lui"
 mots-cles: [Yvorne, Chablais, vigneron]
 categories: blog
 date:     2017-07-10T14:00:00+02:00
 modified: 2017-07-10T14:00:00+02:00
-published: false
+published: true
 image:
-  feature: /images/2017-05-10-dupasquier/maison-1900-800.jpg
+  feature: /images/2017-07-10-dillet1900-800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Martial Du Pasquier – Concise – cave Du Pasquier](/images/2017-05-10-dupasquier/martial-du-pasquier-001.jpg){: style="width:50%; margin-left:25%;" }
+![Eric Minod – Yvrone – cave Dillet](/images/2017-07-10-vingerondillet2-1200x1600.jpg){: style="width:50%; margin-left:25%;" }
 
 
 
