@@ -43,4 +43,3 @@ image:
           </article></li>
 {% endfor %}
 </ul>
-
