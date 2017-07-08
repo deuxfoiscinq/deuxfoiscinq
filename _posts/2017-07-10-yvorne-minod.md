@@ -15,8 +15,10 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Éric Minod – Yvorne – Cave Dillet](/images/2017-07-10-dillet/vingerondillet2-1200x1600.jpg){: style="width:50%; margin-left:25%;" }
 
+![Éric Minod – Yvorne – Cave Dillet][i1]{: style="width:50%; margin-left:25%;" }
+
+[i1]: ../../images/2017-07-10-dillet/vingerondillet2-1200x1600.jpg
 
 
 ## le vigneron
