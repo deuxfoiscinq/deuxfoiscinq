@@ -64,7 +64,7 @@
             {% when '10' %}octobre
             {% when '11' %}novembre
             {% when '12' %}décembre
-          {% endcase %} {{ page.modified | date: '%Y' }}</time>{% if page.notif-modifs %}<br /><span title="j’ai mis à jour cette page et vous pouvez voir les modifs en rouge !" class="notif-modifs">j’ai mis à jour cette page et vous pouvez voir les modifs en rouge !</span></span>{% endif %}{% endif %}
+          {% endcase %} {{ page.modified | date: '%Y' }}</time>{% if page.notif-modifs %}<br /><span title="j’ai mis à jour cette page et vous pouvez voir les modifs en rouge !" class="notif-modifs">j’ai mis à jour cette page et vous pouvez voir les modifs en rouge !</span>{% endif %}</span>{% endif %}
         {% if site.owner.disqus-shortname and page.comments or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
         {% if page.share %}{% include social-share.html %}{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
