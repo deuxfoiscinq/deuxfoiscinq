@@ -122,8 +122,19 @@ après un week end de la pentecôte avec des orages et des rayons de soleil, nou
 il faut rebioler et attacher les sarments qui ont poussé
 la vigne a depuis quelques temps retrouvé sa vigueur et son ardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
 
+<!--
 ### [mardi 4 juillet 2017](#mardi-4-juillet-2017)
 
-avec les sauts d'humeur de la météo des ces derniers jours les différents traitements sont difficiles à programmer ceux-ci demandant un temps sec durant deux ou trois jours 
-mais la vigne adore ces écarts de température et surtout la pluie même orageuse lui a permis de s'épanouir
+[![grappe][i10]][i10]
+
+[i10]: ../images/cep-by-cep/2017-07-04-grappe-01.jpg
+
+avec les sauts d’humeur de la météo des ces derniers jours les différents traitements sont difficiles à programmer ceux-ci demandant un temps sec durant deux ou trois jours
+mais la vigne adore ces écarts de température et surtout la pluie même orageuse lui a permis de s’épanouir
 on profite des passages entre les ceps pour attacher les sarments afin de les maintenir et de les diriger en hauteur pour faciliter le passage pour les prochaines visites
+
+[![attache][i11]][i11]
+
+[i11]: ../images/cep-by-cep/2017-07-04-attache.jpg
+-->
+
