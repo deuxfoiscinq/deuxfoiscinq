@@ -123,7 +123,7 @@ il faut rebioler et attacher les sarments qui ont poussé
 la vigne a depuis quelques temps retrouvé sa vigueur et son ardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
 
 
-### [mardi 4 juillet 2017](#mardi-4-juillet-2017)
+### [mardi 20 juin 2017](#mardi-20-juin-2017)
 
 [![grappe][i10]][i10]
 
