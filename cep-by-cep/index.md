@@ -138,3 +138,13 @@ on profite des passages entre les ceps pour attacher les sarments afin de les ma
 [i11]: ../images/cep-by-cep/2017-07-04-attache.jpg
 
 
+### [jeudi 20 juillet 2017](#jeudi-20-juillet-2017)
+
+[i12]: ../images/cep-by-cep/2017-07-12egrappage.jpg
+
+on assiste à la **fermeture des grappes** c'est quand les grains se touchent tellement ils ont grossi
+on pratique **l'égrappage** c'est-à-dire que l'on coupe des grappes pour n'en laisser qu'une sur chaque sarment
+on a chaud, la vigne aussi et il faut faire attention aux **coups de soleil** ou jaunissement des feuilles et dessèchement des **rafles** ou **manches** petits rameaux qui relient les grains etla grappe 
+on a eu un peu de grêle *aux fosses* à *saint-saph* heureusement pas trop grave, mais cela mérite surveillance
+
+[i13]: ../images/cep-by-cep/2017-07-12grele2.jpg
