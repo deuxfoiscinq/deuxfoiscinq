@@ -152,3 +152,18 @@ on a eu un peu de grêle *aux fosses* à *saint-saph* heureusement pas trop grav
 [![Grêle][i13]][i13]
 
 [i13]: ../images/cep-by-cep/2017-07-12grele2.jpg
+
+
+
+<!--
+
+### [dimanche 20 août 2017](#dimanche-20-août-2017)
+
+[![Label de l’image][i14]][i14]
+
+[i12]: ../images/cep-by-cep/NOM_DE_L_IMAGE.jpg
+
+TEXTE À MODIFIER
+
+-->
+
