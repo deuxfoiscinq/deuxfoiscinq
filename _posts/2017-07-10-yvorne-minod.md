@@ -55,7 +55,7 @@ un grand vin, rond, plaisant et un rien enchanteur qui t’oblige vite à faire 
 > Éric Minod
 > Les Renauds 1
 > 1853 Yvorne
-> 024  466 53 89 – 079 329 65 78 - info@yvornedillet.ch- www.yvornedillet.ch
+> 024  466 53 89 – 079 329 65 78 - [info@yvornedillet.ch](mailto:info@yvornedillet.ch) - [www.yvornedillet.ch](http://www.yvornedillet.ch)
 
 ## y aller
 quand tu vas de *villeneuve* à *aigle*, tout à coup sur ta gauche, au pied de la montagne il y a un magnifique village entouré de vignobles

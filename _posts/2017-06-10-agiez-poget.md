@@ -50,7 +50,7 @@ il est intéressant de noter ici (et c’est le professeur ès raisins qui t’e
 > Cave Mirabilis
 > Route de Bretonnières 16A
 > 1352 Agiez
-> 024 441 43 21 – 079 320 85 09 – pypoget@vins-poget.ch – [www.vins-poget.ch](http://www.vins-poget.ch/)
+> 024 441 43 21 – 079 320 85 09 – [pypoget@vins-poget.ch](mailto:pypoget@vins-poget.ch) – [www.vins-poget.ch](http://www.vins-poget.ch/)
 
 ## y aller
 sur l’autoroute qui te mène de *lausanne* à *yverdon-les-bains*, tu sors à *chavornay* et prends la direction d’*orbe* par la route cantonale
