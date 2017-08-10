@@ -1,0 +1,43 @@
+# Site wide configuration
+
+title: Deux fois cinq
+locale: fr_CH
+description: "à la découverte des bons vins de suisse romande en flacon de 5 dl"
+logo: divers-images/site-logo.png
+search: false
+url: http://deuxfoiscinq.ch
+# url: https://deuxfoiscinq.github.io/deuxfoiscinq-tests/
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  input: GFM
+  hard_wrap: true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: jissé
+  avatar: divers-images/jisse.jpg
+  email: jisse@deuxfoiscinq.ch
+  facebook: 2x5dl

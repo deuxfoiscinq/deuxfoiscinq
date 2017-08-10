@@ -1,0 +1,11 @@
+<div class="facebook">
+{% capture page-url %}{{ page.url | replace:'index.html','' | prepend: site.url }}{% endcapture %}
+<a href="http://www.facebook.com/sharer.php?u={{ page-url }}&#038;t={{ description-courte | uri_escape  }}"
+class="social-share-link"
+title="partager cet article sur Facebook"
+data-network-name="facebook"
+data-share-title="{{ description-courte | uri_escape  }}"
+data-share-url="{{ page-url }}">
+<i class="fa fa-facebook-square fa-2x"></i>
+</a>
+</div>
