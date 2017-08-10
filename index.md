@@ -44,7 +44,6 @@ image:
 {% endfor %}
 </ul>
 
----
 
 
 

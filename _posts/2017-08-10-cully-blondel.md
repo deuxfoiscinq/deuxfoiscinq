@@ -49,7 +49,7 @@ son *dézaley* prestige blanc 2015
 et pour le fun
 sa dôle d’épesses, surprenante appellation pour un vaudois !
 il faut savoir que ce vin provient d’un cépage cultivé à épesses depuis plus de cent cinquante ans, soit avant que l’appellation « dôle du valais » apparaisse
-mais… y en a point comme nous
+mais y en a point comme nous
 
 ## qui ?
 > Domaine Blondel
