@@ -8,7 +8,7 @@ mots-cles: [Cully, Lavaux, vigneron]
 categories: blog
 date:     2017-08-10T14:00:00+02:00
 modified: 2017-08-10T14:00:00+02:00
-published: false
+published: true
 
 
 image:
