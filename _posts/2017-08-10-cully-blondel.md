@@ -6,9 +6,9 @@ etiquette: /images/2017-08-10-blondel/epessebl-550x950.jpg
 teaser: "...c’est que c’est un amoureux fou du chasselas et que ce dernier le lui rend bien"
 mots-cles: [Cully, Lavaux, vigneron]
 categories: blog
-date:     2010-08-10T14:00:00+02:00
-modified: 2010-08-10T14:00:00+02:00
-published: false
+date:     2017-08-10T14:00:00+02:00
+modified: 2017-08-10T14:00:00+02:00
+published: true
 image:
   feature: /images/2017-08-10-blondel/entreecavebl-1900x800.jpg
   credit: jissé
