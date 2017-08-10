@@ -1,3 +1,0 @@
-# deuxfoiscinq
-
-<http://deuxfoiscinq.ch/>
