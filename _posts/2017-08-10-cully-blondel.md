@@ -15,7 +15,6 @@ image:
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-
 ![Jean-Luc Blondel – Cully – Domaine Blondel][i1]{: style="width:50%; margin-left:25%;" }
 
 [i1]: ../../images/2017-08-10-blondel/blondelpapa-1200x1600.jpg
