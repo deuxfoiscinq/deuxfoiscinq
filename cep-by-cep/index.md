@@ -153,17 +153,17 @@ on a eu un peu de grêle *aux fosses* à *saint-saph* heureusement pas trop grav
 
 [i13]: ../images/cep-by-cep/2017-07-12grele2.jpg
 
-
-
-<!--
-
 ### [dimanche 20 août 2017](#dimanche-20-août-2017)
 
-[![Label de l’image][i14]][i14]
+[![veraison][i14]][i14]
 
-[i12]: ../images/cep-by-cep/NOM_DE_L_IMAGE.jpg
+[i14]: ../images/cep-by-cep/2017-08-20veraison.jpg
 
-TEXTE À MODIFIER
+on enlève les feuilles du branches
+la veraison -*période où les baies virent au rouge*- est bien avancée, comme le sera la période des vendanges
+on égrappe afin de conserver une grappe par sarment et on finit les traitements, notamment avec la bouillie bordelaise -*composée de sulfate de cuivre et de chaux*- de couleur bleu turquoise
+l'hélicoptère fait ses dernières rondes, on laisse la nature faire son travail, mais celui du vigneron est loin d'être fini
 
--->
+[![hélicoptère][i15]][i15]
 
+[i15]: ../images/cep-by-cep/2017-08-20helico.jpg
