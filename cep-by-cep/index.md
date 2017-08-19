@@ -29,7 +29,7 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 
 ### [mercredi 8 février 2017](#mercredi-8-février-2017)
 
-[![fevrier][i1]][i1]
+[![vigne de février][i1]][i1]
 
 [i1]: ../images/cep-by-cep/2017-02-08.jpg
 
@@ -44,7 +44,7 @@ on prend la sonde et on prélève un peu du travail accompli
 
 ### [vendredi 10 février 2017](#vendredi-10-février-2017)
 
-[![hommerouge3][i2]][i2]
+[![vigneron au travail][i2]][i2]
 
 [i2]: ../images/cep-by-cep/2017-02-10.jpg
 
@@ -54,7 +54,7 @@ il coupe les vieux sarments, j’enlève les bois, on nettoie les branches à fr
 
 ### [mardi 11 avril 2017](#mardi-11-avril-2017)
 
-[![attachemai][i3]][i3]
+[![attache vigne][i3]][i3]
 
 [i3]: ../images/cep-by-cep/2017-04-11.jpg
 
@@ -64,7 +64,7 @@ profitant de ces premiers jours de beaux il est décidé d’**épianer** la vig
 
 ### [jeudi 20 avril 2017](#jeudi-20-avril-2017)
 
-[![cagrimpe][i4]][i4]
+[![vigne qui grimpe][i4]][i4]
 
 [i4]: ../images/cep-by-cep/2017-04-20.jpg
 
@@ -74,7 +74,7 @@ heureusement pas de dégâts du côté de *saint-saph*
 
 ### [mercredi 3 mai 2017](#mercredi-3-mai-2017)
 
-[![attache][i5]][i5]
+[![attache jeune sarment][i5]][i5]
 
 [i5]: ../images/cep-by-cep/2017-05-03.jpg
 
@@ -83,7 +83,7 @@ avec la sécheresse, la vigne a eu soif, elle n’est pas la seule d’ailleurs,
 
 ### [lundi 15 mai 2017](#lundi-15-mai-2017)
 
-[![traitement1][i6]][i6]
+[![traitement des vignes][i6]][i6]
 
 [i6]: ../images/cep-by-cep/2017-05-15.jpg
 
@@ -94,7 +94,7 @@ on attache les sarments qui ont poussé depuis la dernière fois
 
 ### [mardi 22 mai 2017](#mardi-22-mai-2017)
 
-[![effeuille1][i7]][i7]
+[![effeuillage des vignes][i7]][i7]
 
 [i7]: ../images/cep-by-cep/2017-05-22.jpg
 
@@ -103,7 +103,7 @@ la semaine prochaine il faudra rebioler, entretemps, place à l’atomiseur
 
 ### [lundi 29 mai 2017](#lundi-29-mai-2017)
 
-[![travailleurs2][i8]][i8]
+[![travailleurs dans les vignes][i8]][i8]
 
 [i8]: ../images/cep-by-cep/2017-05-29.jpg
 
@@ -114,7 +114,7 @@ le long des murs les fleurs du merlot ont éclos
 
 ### [mardi 6 juin 2017](#mardi-6-juin-2017)
 
-[![rivaz2][i9]][i9]
+[![vignes de Rivaz][i9]][i9]
 
 [i9]: ../images/cep-by-cep/2017-06-06.jpg
 
@@ -122,10 +122,9 @@ après un week end de la pentecôte avec des orages et des rayons de soleil, nou
 il faut rebioler et attacher les sarments qui ont poussé
 la vigne a depuis quelques temps retrouvé sa vigueur et son ardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
 
-
 ### [mardi 20 juin 2017](#mardi-20-juin-2017)
 
-[![grappe][i10]][i10]
+[![grappe de raisin][i10]][i10]
 
 [i10]: ../images/cep-by-cep/2017-07-04-grappe-01.jpg
 
@@ -133,14 +132,13 @@ avec les sauts d’humeur de la météo des ces derniers jours les différents t
 mais la vigne adore ces écarts de température et surtout la pluie même orageuse lui a permis de s’épanouir
 on profite des passages entre les ceps pour attacher les sarments afin de les maintenir et de les diriger en hauteur pour faciliter le passage pour les prochaines visites
 
-[![attache][i11]][i11]
+[![attache vignes][i11]][i11]
 
 [i11]: ../images/cep-by-cep/2017-07-04-attache.jpg
 
-
 ### [jeudi 20 juillet 2017](#jeudi-20-juillet-2017)
 
-[![Grappage][i12]][i12]
+[![égrappage des vignes][i12]][i12]
 
 [i12]: ../images/cep-by-cep/2017-07-12egrappage.jpg
 
@@ -149,12 +147,11 @@ on pratique **l’égrappage** c’est-à-dire que l’on coupe des grappes pour
 on a chaud, la vigne aussi et il faut faire attention aux **coups de soleil** ou jaunissement des feuilles et dessèchement des **rafles** ou **manches** petits rameaux qui relient les grains et la grappe
 on a eu un peu de grêle *aux fosses* à *saint-saph* heureusement pas trop grave, mais cela mérite surveillance
 
-[![Grêle][i13]][i13]
+[![grêle sur les vignes][i13]][i13]
 
 [i13]: ../images/cep-by-cep/2017-07-12grele2.jpg
 
-
-### [dimanche 20 août 2017](#dimanche-20-août-2017)
+### [dimanche 20 août 2017](#dimanche-20-aout-2017)
 
 [![veraison][i14]][i14]
 
@@ -165,6 +162,6 @@ la veraison – *période où les baies virent au rouge* – est bien avancée, 
 on égrappe afin de conserver une grappe par sarment et on finit les traitements, notamment avec la bouillie bordelaise – *composée de sulfate de cuivre et de chaux* – de couleur bleu turquoise
 l’hélicoptère fait ses dernières rondes, on laisse la nature faire son travail, mais celui du vigneron est loin d’être fini
 
-[![hélicoptère][i15]][i15]
+[![vue d’hélicoptère sur les vignes][i15]][i15]
 
 [i15]: ../images/cep-by-cep/2017-08-20helico.jpg
