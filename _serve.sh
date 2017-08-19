@@ -52,4 +52,4 @@ more $CONFIG_DEV
 
 
 # Démarre Jekyll
-bundle exec jekyll serve --config _config.yml,_config_dev.yml --incremental
+bundle exec jekyll serve --config _config.yml,_config_dev.yml --incremental --watch
