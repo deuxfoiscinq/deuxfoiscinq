@@ -17,7 +17,7 @@ image:
 
 ![Marylène et Louis Bovard-Chervet – Praz – Château de Praz][i1]{: style="width:50%; margin-left:25%;" }
 
-[i1]: ../../images/2017-09-10-praz/prazg&m-1200x1600.jpg
+[i1]: ../../images/2017-09-10-praz/praz-vignerons1200x1500.jpg
 
 ## le vigneron
 alors là je dis attention
