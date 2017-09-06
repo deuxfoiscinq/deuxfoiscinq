@@ -37,7 +37,7 @@ fruité, un bon goût de chasselas
 idéal à l’apéro ou avec un poisson du lac
 
 ### chasselas vieilles vignes
-un vrai régal ! chaque lampée t’apporte son lot de surprises : gras avec du fruit, de la longueur… du plaisir
+un vrai régal ! chaque lampée t’apporte son lot de surprises : gras avec du fruit, de la longueur… du plaisir
 à l’apéro ou avec un ragoût d’asperges et une mayonnaise au citron vert et gingembre
 
 ### pinot gris
