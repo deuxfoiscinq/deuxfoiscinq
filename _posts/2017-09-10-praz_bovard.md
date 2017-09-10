@@ -26,7 +26,7 @@ lui, *louis bovard*, vient de chez nous – d’*epesses* – s’occupe des vig
 elle, *marylène bovard-chervet*, vient de là-bas – de *praz* – s’occupe du vin
 ils se sont rencontrés à *changins*
 le château, construit en 1521, est propriété de la famille *chervet* depuis 1905
-leurs vins méritent qu’on les mérite, oublie-les quelques temps ils n’en seront que plus enchanteurs
+leurs vins méritent qu’on les mérite, oublie-les quelque temps ils n’en seront que plus enchanteurs
 
 
 ## déguster
@@ -46,11 +46,11 @@ un bon pinot, du velours qui siéra aux palais délicats de ces dames
 
 ### gamaret 2016
 parfait, équilibré, goûteux, un bon rouge costaud qui ne craint pas les épices
-avec un chili délicieux et à l’aveugle tu ne croiras pas tes yeux en voyant l’étiquette
+avec un chili délicieux et à l’aveugle, tu ne croiras pas tes yeux en voyant l’étiquette
 
 ## découvrir
 tous leurs vins sont des monocépages
-sa *réserve blanche 2016 chasselas sur lie* suprendra par son ampleur et son fruité
+sa *réserve blanche 2016 chasselas sur lie* surprendra par son ampleur et son fruité
 un vrai vin de gastronomie (seulement en 75 cl)
 et grain sur le *gâteau du vully*, son *freiburger 2016* aussi appelé *freisamer* (croisement entre un *sylvaner* et un *pinot gris*), cépage très rare en *suisse* (seulement en 75 cl)
 
@@ -64,8 +64,9 @@ et grain sur le *gâteau du vully*, son *freiburger 2016* aussi appelé *freisam
 ## y aller
 sur ton *gps*, tu tapes d’abord *vallamand*, et tu vas te retrouver entre les pentes et les vignes du *mont vully* et les rives du *lac de morat*
 une enfilade de vieilles maisons et de parchets dont les ceps sont plus grands que ceux de chez nous et te voilà dans le *canton de fribourg* à traverser *môtier* et tu arrives à *praz*
-vas et découvre les terroirs de ces vignobles que tu savais pas qu’ils existaient ou que tu pensais un peu trop qu’« il n’y en a point comme nous »
-note de l’auteur : il faut que je t’explique, je suis vaudois
+vas, et découvre les terroirs de ces vignobles que tu savais pas qu’ils existaient ou que tu pensais un peu trop qu’« il n’y en a point comme nous »
+
+> note de l’auteur : « il faut que je t’explique, je suis vaudois »
 
 
 ## le resto
