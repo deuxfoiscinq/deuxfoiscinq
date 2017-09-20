@@ -174,13 +174,13 @@ l’hélicoptère fait ses dernières rondes, on laisse la nature faire son trav
 
 déjà quelques flocons se sont posés sur le haut du gramont
 à quelques jours des vendanges, la fièvre monte alors que la température nous rappelle que nous sommes bientôt en automne
-il y a quelques jours, on a enlevé les feuilles jaunies qui empèchent jean rosset de déposer sa poudre d'or sur les grains dont l'embonpoint nous réjouit
+il y a peu, on a enlevé les feuilles jaunies qui empèchent jean rosset de déposer sa poudre d'or sur les grains dont l'embonpoint nous réjouit
 
 [![grappe][i17]][i17]
 
 [i17]: ../images/cep-by-cep/2017-09-20grappe20.09-1000x500.jpg
 
-les grappes de rouge ont enfilé leur habit blanc pour échapper à la suzukii
+les grappes de rouge ont enfilé leur habit blanc pour échapper à la suzukii qui voit que rouge
 
 [![grappe][i18]][i18]
 
