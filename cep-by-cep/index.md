@@ -165,3 +165,26 @@ l’hélicoptère fait ses dernières rondes, on laisse la nature faire son trav
 [![vue d’hélicoptère sur les vignes][i15]][i15]
 
 [i15]: ../images/cep-by-cep/2017-08-20helico.jpg
+
+### [mercredi 20 septembre 2017](#mercredi-20-septembre-2017)
+
+[![tracasset][i16]][i16]
+
+[i16]: ../images/cep-by-cep/2017-09-20chariot-1000x500.jpg
+
+déjà quelques flocons se sont posés sur le haut du gramont
+à quelques jours des vendanges, la fièvre monte alors que la température nous rappelle que nous sommes bientôt en automne
+il y a quelques jours, on a enlevé les feuilles jaunies qui empèchent jean rosset de déposer sa poudre d'or sur les grains dont l'embonpoint nous réjouit
+
+[![grappe][i17]][i17]
+
+[i17]: ../images/cep-by-cep/2017-09-20grappe20.09-1000x500.jpg
+
+les grappes de rouge ont enfilé leur habit blanc pour échapper à la suzukii
+
+[![grappe][i18]][i18]
+
+[i18]: ../images/cep-by-cep/2017-09-20rouge20-1000x500.jpg
+
+le vigneron, pour cacher son inquiétude, consulte plus que d'habitude la météo sur son portable et prépare sa cave pour recevoir la vendange en nettoyant précautionneusement les cuves et le pressoir
+ça doit être nickel pour accueillir le nectar
