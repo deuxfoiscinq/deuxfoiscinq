@@ -6,6 +6,7 @@
         "URL": "http://deuxfoiscinq.ch/blog/rivaz-cave-des-dolles/",
         "VINS": [
             {
+                "REFERENCE": "imhof saint-saphorin les déserts 2016",
                 "AOC": "×",
                 "CEPAGE": "saint-saphorin",
                 "NOM": "les déserts",
@@ -17,6 +18,7 @@
                 "PRIX": "10.00"
             },
             {
+                "REFERENCE": "imhof pinot noir 2016",
                 "AOC": "×",
                 "CEPAGE": "pinot noir",
                 "NOM": "\u2013",
@@ -28,6 +30,7 @@
                 "PRIX": "10.00"
             },
             {
+                "REFERENCE": "imhof saint-saphorin gamaret-garanoir 2016",
                 "AOC": "×",
                 "CEPAGE": "saint-saphorin",
                 "NOM": "\u2013",
@@ -47,6 +50,7 @@
         "URL": "http://deuxfoiscinq.ch/blog/bagnoud-vins/",
         "VINS": [
             {
+                "REFERENCE": "bagnoud pinot gris coteaux de sierre 2015",
                 "AOC": "×",
                 "CEPAGE": "pinot gris",
                 "NOM": "coteaux de sierre",
@@ -58,6 +62,7 @@
                 "PRIX": "10.50"
             },
             {
+                "REFERENCE": "bagnoud chenin blanc coteaux de sierre 2015",
                 "AOC": "×",
                 "CEPAGE": "chenin blanc",
                 "NOM": "coteaux de sierre",
@@ -69,6 +74,7 @@
                 "PRIX": "10.50"
             },
             {
+                "REFERENCE": "bagnoud cornalin coteaux de sierre 2015",
                 "AOC": "×",
                 "CEPAGE": "cornalin",
                 "NOM": "coteaux de sierre",
