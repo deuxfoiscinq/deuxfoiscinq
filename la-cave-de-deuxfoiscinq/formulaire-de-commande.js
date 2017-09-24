@@ -131,7 +131,7 @@ function displayJSONinHTML()
         <p style="margin:0px; line-height: 15px">les prix sont indiqués en CHF et TVA 8% incluse</p>
         <p style="margin:0px; line-height: 15px">frais d’emballage et de livraison ${ fraisDePort } CHF</p>
         <p style="margin:0px; line-height: 15px">les marchandises vendues ne sont ni reprises ni échangées</p>
-        <p style="margin:0px; line-height: 15px">le for juridique pour toute réclamation en relation avec votre commande est Lausanne en Suisse</p>
+        <p style="margin:0px; line-height: 15px">le for juridique en cas de litige est Lausanne en Suisse</p>
       </div>
     </div>
 
