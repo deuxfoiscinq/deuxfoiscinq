@@ -195,7 +195,7 @@ function displayJSONinHTML()
 
     <div class="row" style="margin-top:60px;">
 
-      <div class="col-xs-12" style="margin: 12px 0 4px"><p><small class="text-muted">je vous enverrai un email de confirmation de réception de votre commande dans les 24 h ouvrables</small></p></div>
+      <div class="col-xs-12" style="margin: 12px 0 4px"><p class="text-center"><small class="text-muted">je vous enverrai un email de confirmation de réception de votre commande dans les 24 h ouvrables</small></p></div>
       <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1" style="margin-top: 3px;">
         <button type="submit" class="btn btn-block" style="height:50px;">ENVOYER LA COMMANDE</button>
       </div>
