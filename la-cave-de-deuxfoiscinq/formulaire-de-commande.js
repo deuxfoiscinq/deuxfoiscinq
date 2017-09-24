@@ -123,6 +123,7 @@ function displayJSONinHTML()
       <div class="col-xs-12" style="border-bottom: 4px solid"><h3>conditions de vente</h3></div>
       <div class="col-xs-12" style="margin-top: 10px;">
         <p style="margin:0px; line-height: 15px">livraison en Suisse uniquement</p>
+        <p style="margin:0px; line-height: 15px">livraison dans la mesure des disponibilités</p>
         <p style="margin:0px; line-height: 15px">paiement sur facture à 10 jours net</p>
         <p style="margin:0px; line-height: 15px">commande minimum de 3 bouteilles</p>
         <p style="margin:0px; line-height: 15px">emballage de 3, 6 ou 12 bouteilles</p>
@@ -228,5 +229,5 @@ function calculTotal()
     prixTotal += prix * bouteilles[ i ].value;
   }
   total1.innerHTML = prixTotal.toFixed( 2 );
-  total2.innerHTML = (prixTotal + fraisDePort).toFixed( 2 );;
+  total2.innerHTML = "<strong>" + (prixTotal + fraisDePort).toFixed( 2 ) + "</strong>";
 }
