@@ -6,40 +6,37 @@
         "URL": "http://deuxfoiscinq.ch/blog/rivaz-cave-des-dolles/",
         "VINS": [
             {
-                "REFERENCE": "imhof saint-saphorin les déserts 2016",
-                "AOC": "×",
-                "CEPAGE": "saint-saphorin",
-                "NOM": "les déserts",
-                "CEPAGE_2": "chasselas",
+                "REFERENCE_MAIL": "vin 1",
+                "APPELLATION": "saint-saphorin",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
                 "COULEUR": "blanc",
-                "REGION": "lavaux",
-                "ANNEE": 2016,
-                "INFORMATIONS_COMPLEMENTAIRES": "",
-                "PRIX": "10.00"
+                "PRIX": "",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": "disponible en 70cl"
             },
             {
-                "REFERENCE": "imhof pinot noir 2016",
-                "AOC": "×",
+                "REFERENCE_MAIL": "vin 2",
+                "APPELLATION": "saint-saphorin",
                 "CEPAGE": "pinot noir",
-                "NOM": "\u2013",
-                "CEPAGE_2": "pinot noir",
-                "COULEUR": "rouge",
-                "REGION": "lavaux",
                 "ANNEE": 2016,
-                "INFORMATIONS_COMPLEMENTAIRES": "",
-                "PRIX": "10.00"
+                "COULEUR": "blanc",
+                "PRIX": "10.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
             },
             {
-                "REFERENCE": "imhof saint-saphorin gamaret-garanoir 2016",
-                "AOC": "×",
-                "CEPAGE": "saint-saphorin",
-                "NOM": "\u2013",
-                "CEPAGE_2": "gamaret-garanoir",
-                "COULEUR": "rouge",
-                "REGION": "lavaux",
+                "REFERENCE_MAIL": "vin 3",
+                "APPELLATION": "saint-saphorin",
+                "CEPAGE": "gamaret-garanoir",
                 "ANNEE": 2016,
-                "INFORMATIONS_COMPLEMENTAIRES": "élevé en fût",
-                "PRIX": "13.00"
+                "COULEUR": "blanc",
+                "PRIX": "13.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": "élevé en fût"
             }
         ]
     },
@@ -50,40 +47,431 @@
         "URL": "http://deuxfoiscinq.ch/blog/bagnoud-vins/",
         "VINS": [
             {
-                "REFERENCE": "bagnoud pinot gris coteaux de sierre 2015",
-                "AOC": "×",
+                "REFERENCE_MAIL": "vin 4",
+                "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "pinot gris",
-                "NOM": "coteaux de sierre",
-                "CEPAGE_2": "pinot gris",
-                "COULEUR": "blanc",
-                "REGION": "coteaux de sierre",
                 "ANNEE": 2015,
-                "INFORMATIONS_COMPLEMENTAIRES": "",
-                "PRIX": "10.50"
+                "COULEUR": "blanc",
+                "PRIX": "10.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
             },
             {
-                "REFERENCE": "bagnoud chenin blanc coteaux de sierre 2015",
-                "AOC": "×",
-                "CEPAGE": "chenin blanc",
-                "NOM": "coteaux de sierre",
-                "CEPAGE_2": "chenin",
-                "COULEUR": "blanc",
-                "REGION": "coteaux de sierre",
+                "REFERENCE_MAIL": "vin 5",
+                "APPELLATION": "coteaux de sierre",
+                "CEPAGE": "chenin",
                 "ANNEE": 2015,
-                "INFORMATIONS_COMPLEMENTAIRES": "",
-                "PRIX": "10.50"
+                "COULEUR": "blanc",
+                "PRIX": "10.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
             },
             {
-                "REFERENCE": "bagnoud cornalin coteaux de sierre 2015",
-                "AOC": "×",
+                "REFERENCE_MAIL": "vin 6",
+                "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "cornalin",
-                "NOM": "coteaux de sierre",
-                "CEPAGE_2": "cornalin",
-                "COULEUR": "rouge",
-                "REGION": "coteaux de sierre",
                 "ANNEE": 2015,
-                "INFORMATIONS_COMPLEMENTAIRES": "",
-                "PRIX": "16.00"
+                "COULEUR": "blanc",
+                "PRIX": "16.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "dully",
+        "CAVE": "parfum de vigne",
+        "NOM": "jean-jacques steiner",
+        "URL": "http://deuxfoiscinq.ch/blog/parfum-de-vigne/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 7",
+                "APPELLATION": "la côte",
+                "CEPAGE": "chasselas grain blanc",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "7.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 8",
+                "APPELLATION": "la côte",
+                "CEPAGE": "œil-de-perdrix",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 9",
+                "APPELLATION": "la côte",
+                "CEPAGE": "château de vincy",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "10.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "saillon",
+        "CAVE": "cave des amandiers",
+        "NOM": "alexandre deletraz",
+        "URL": "http://deuxfoiscinq.ch/blog/saillon-cavedesamandiers/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 10",
+                "APPELLATION": "fully",
+                "CEPAGE": "petite arvine de seyes",
+                "ANNEE": 2014,
+                "COULEUR": "blanc",
+                "PRIX": "20.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": "élevé en fût"
+            },
+            {
+                "REFERENCE_MAIL": "vin 11",
+                "APPELLATION": "fully",
+                "CEPAGE": "amigne",
+                "ANNEE": 2014,
+                "COULEUR": "blanc",
+                "PRIX": "",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 12",
+                "APPELLATION": "fully",
+                "CEPAGE": "gamay vieilles vignes",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "13.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "concise",
+        "CAVE": "cave du pasquier",
+        "NOM": "martial du pasquier",
+        "URL": "http://deuxfoiscinq.ch/blog/concise-dupasquier/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 13",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "7.90",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 14",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "chasselas vieilles vignes",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 15",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "pinot gris",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.10",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 16",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "œil de pedrix",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "11.10",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "agiez",
+        "CAVE": "cave mirabilis",
+        "NOM": "pierre-yves poget",
+        "URL": "http://deuxfoiscinq.ch/blog/agiez-poget/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 17",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "6.90",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 18",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "9.40",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 19",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "gamaret-garanoir",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "yvorne",
+        "CAVE": "domaine dillet",
+        "NOM": "eric minod",
+        "URL": "http://deuxfoiscinq.ch/blog/yvorne-minod/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 20",
+                "APPELLATION": "yvorne",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.40",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 21",
+                "APPELLATION": "yvorne",
+                "CEPAGE": "œil-de-perdrix",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "11.30",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 22",
+                "APPELLATION": "yvorne",
+                "CEPAGE": "yvorne spécialité",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "17.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "cully",
+        "CAVE": "domaine blondel",
+        "NOM": "jean-luc et louis blondel",
+        "URL": "http://deuxfoiscinq.ch/blog/cully-blondel/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 23",
+                "APPELLATION": "villette champ-noé",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "10.10",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 24",
+                "APPELLATION": "épesses",
+                "CEPAGE": "la perle",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "10.90",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 25",
+                "APPELLATION": "calamin",
+                "CEPAGE": "blanc d'arpège",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.70",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 26",
+                "APPELLATION": "dézaley",
+                "CEPAGE": "côtes des abbayes",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "14.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 27",
+                "APPELLATION": "épesses",
+                "CEPAGE": "rosé la ronde",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "11.60",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 28",
+                "APPELLATION": "vully",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "8.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "vully",
+        "CAVE": "château de praz",
+        "NOM": "marylène et louis bovard-chervet",
+        "URL": "http://deuxfoiscinq.ch/blog/praz_bovard/",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 29",
+                "APPELLATION": "vully",
+                "CEPAGE": "œil-de-perdrix",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 30",
+                "APPELLATION": "vully",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 31",
+                "APPELLATION": "vully",
+                "CEPAGE": "gamaret",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "",
+        "CAVE": "",
+        "NOM": "",
+        "URL": "",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 32",
+                "APPELLATION": "peissy",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "6.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 33",
+                "APPELLATION": "peissy",
+                "CEPAGE": "peissy fruité",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "7.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 34",
+                "APPELLATION": "peissy",
+                "CEPAGE": "aligoté",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 35",
+                "APPELLATION": "peissy",
+                "CEPAGE": "œil-de-perdrix",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 36",
+                "APPELLATION": "peissy",
+                "CEPAGE": "gondebaud",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "8.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
             }
         ]
     }

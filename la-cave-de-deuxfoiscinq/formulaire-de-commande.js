@@ -2,7 +2,7 @@
 
 var url = "carte-des-vins.json";
 var xhr = new XMLHttpRequest();
-var debug = false;
+var debug = true;
 var fraisDePort = 12;
 
 main();
@@ -28,23 +28,28 @@ function displayJSONInConsole( responseJSON )
   {
     let vigneron = responseJSON[ i ];
     console.log( vigneron );
-    console.log( vigneron.DOMAINE  + " | " + vigneron.CAVE  + " | " + vigneron.NOM );
-    for( let j=0; j<vigneron.VINS.length; j++ )
-    {
-      let vin = vigneron.VINS[ i ];
-      console.log( vin );
-      console.log(
-                  vin.AOC
-        + " | " + vin.CEPAGE
-        + " | " + vin.NOM
-        + " | " + vin.CEPAGE_2
-        + " | " + vin.COULEUR
-        + " | " + vin.REGION
-        + " | " + vin.ANNEE
-        + " | " + vin.INFORMATIONS_COMPLEMENTAIRES
-        + " | " + vin.PRIX
-      );
-    }
+    console.log( vigneron.DOMAINE + " | " + vigneron.CAVE + " | " + vigneron.NOM + " | " + vigneron.URL );
+    console.log( vigneron.VINS );
+    console.log( vigneron.VINS.length );
+    // if( vigneron.VINS != undefined )
+    // {
+      for( let j=0; j<vigneron.VINS.length; j++ )
+      {
+        let vin = vigneron.VINS[ j ];
+        console.log( vin );
+        console.log(
+                    vin.REFERENCE_MAIL
+          + " | " + vin.APPELLATION
+          + " | " + vin.CEPAGE
+          + " | " + vin.ANNEE
+          + " | " + vin.COULEUR
+          + " | " + vin.PRIX
+          + " | " + vin.QUANTITE
+          + " | " + vin.DISPONIBLE
+          + " | " + vin.REMARQUES
+        );
+      }
+    // }
   }
 }
 
@@ -55,7 +60,6 @@ function displayJSONinHTML()
   if( debug )
     displayJSONInConsole( responseJSON );
   let htmlTarget = document.getElementById( "formulaire" );
-  let cptVins = 0;
   try
   {
     var htmlElems = '<div class="container-fluid">';
@@ -72,41 +76,41 @@ function displayJSONinHTML()
           </div>
         `;
 
+      let cptVins = 0;
       for( let j=0; j<vigneron.VINS.length; j++ )
       {
         let vin = vigneron.VINS[ j ];
-        let aoc = "—";
-        if( vin.AOC != "" )
-          aoc = "AOC&nbsp";
-        let backColor = "white";
-        if( j % 2 ) backColor = "#EEE";
-        cptVins += 1;
-        let nomInput = vin.REFERENCE + " | " + vin.PRIX;
+        if( vin.DISPONIBLE !== "" )
+        {
+          let backColor = "white";
+          if( cptVins % 2 ) backColor = "#EEE";
+          cptVins += 1;
+          let nomInput = vin.REFERENCE_MAIL + " | " + vin.PRIX;
+          let remarques = "";
+          if( vin.REMARQUES !== "" ) {
+            remarques = `<div class="col-xs-12 col-sm-12"  > <small class="text-muted">${ vin.REMARQUES }&nbsp;</small></div>`;
+          }
 
-        htmlElems += `
-          <div class="row" style="margin-top:5px; background-color: ${ backColor };">
-            <div class="col-xs-8 col-sm-10">
-              <div class="row">
-                  <div class="col-xs-6                 col-sm-4                "> <em>${ vin.CEPAGE }</em></div>
-                  <div class="col-xs-6                 col-sm-4                "> <em>${ vin.NOM }</em></div>
-                  <div class="col-xs-6                 col-sm-4                "> ${ vin.CEPAGE_2 }</div>
-                  <div class="col-xs-6                 col-sm-4                "> ${ vin.REGION }</div>
-                  <div class="col-xs-6                 col-sm-2                "> ${ vin.ANNEE }</div>
-                  <div class="col-xs-6                 col-sm-2                "> ${ vin.COULEUR }</div>
-                  <div class="col-xs-6 col-xs-offset-6 col-sm-4 col-sm-offset-0"> ${ vin.PRIX } CHF</div>
-                  <div class="col-xs-6                 col-sm-12               "  > <small class="text-muted">${ aoc } ${ vin.INFORMATIONS_COMPLEMENTAIRES }&nbsp;</small></div>
+          htmlElems += `
+            <div class="row" style="margin-top:5px; background-color: ${ backColor };">
+              <div class="col-xs-10 col-sm-10">
+                <div class="row" style="padding: 8px 0;">
+                    <div class="col-xs-12 col-sm-9"> <em>${ vin.APPELLATION } &#10687; ${ vin.CEPAGE } &#10687; ${ vin.ANNEE }&nbsp;&#10687;&nbsp;${ vin.COULEUR }</em></div>
+                    <div class="col-xs-12 col-sm-3 text-right"> ${ vin.PRIX } CHF</div>
+                    ${ remarques }
+                </div>
+              </div>
+              <div class="col-xs-2 col-sm-2" style="padding: 4px;">
+                  <input name="${ nomInput }" type="number" min="0" class="text-center cptBouteilles" onchange="calculTotal()" />
               </div>
             </div>
-            <div class="col-xs-4 col-sm-2" style="margin-top:15px">
-                <input name="${ nomInput }" type="number" min="0" class="text-center cptBouteilles" onchange="calculTotal()" />
-            </div>
-          </div>
-        `;
+          `;
+        }
       }
     }
 
     htmlElems +=`
-    <div class="row">
+    <div class="row" style="margin-top: 20px;">
       <div class="col-xs-8  col-sm-10 text-right">total des bouteilles commandées (CHF)</div>
       <div class="col-xs-4  col-sm-2  text-center"><p style="padding-right:30px;" id="total1" class="text-right">0.00</p></div>
     </div>
