@@ -65,7 +65,7 @@ coup qui tu pourras déguster en prenant place à la grande table à l’entrée
 il fait frais, c’est agréable, comme son vin
 
 ## sympa
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>et si tu vas à rivaz et que tu te promènes sur les falaises du dezaley tu trouveras sa capite où s'arrête le petit train de vignes et tu pourras même déguster un moût 2017 grand crû de saint saphorin !</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>et si tu vas à rivaz et que tu te promènes sur les falaises du dezaley tu trouveras sa capite où s'arrête le petit train des vignes et tu pourras même déguster un moût 2017 *grand crû de saint saphorin* !</span>
 
 ## le resto
 > Auberge de Rivaz
