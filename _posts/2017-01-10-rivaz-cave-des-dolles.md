@@ -8,7 +8,7 @@ description-courte: "Didier Imhof — Vigneron — Rivaz"
 mots-cles: [saint-saphorin 2015, pinot noir 2015, gamaret–garanoir 2015]
 categories: blog
 date:     2017-01-10T14:00:00+01:00
-modified: 2017-02-20T09:23:00+01:00
+modified: 2017-10-04T09:23:00+01:00
 notif-modifs: true
 published: true
 image:
