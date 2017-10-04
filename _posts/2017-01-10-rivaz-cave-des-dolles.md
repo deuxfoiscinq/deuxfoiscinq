@@ -9,7 +9,7 @@ mots-cles: [saint-saphorin 2015, pinot noir 2015, gamaret–garanoir 2015]
 categories: blog
 date:     2017-01-10T14:00:00+01:00
 modified: 2017-02-20T09:23:00+01:00
-notif-modifs: false
+notif-modifs: true
 published: true
 image:
   feature: /images/2017-01-10-rivaz-cave-des-dolles/cave-dolles-1900x800.jpg
@@ -32,14 +32,14 @@ un rude gaillard qui aime ce qu’il fait et qu’il le fait bien
 
 ## déguster
 
-### saint-saphorin 2015
+### saint-saphorin 2016
 *un vrai saint-saph qui sent bon le terroir et le soleil et qui se plaira aussi bien à l’apéro ou comme rincette*
 
-### pinot noir 2015
+### pinot noir 2016
 *plaisant et rond, dont les saveurs riches et longues séduiront aussi le palais de ces dames
 rafraîchi, il accompagnera très bien vos grillades cet été*
 
-### gamaret–garanoir 2015
+### gamaret–garanoir 2016
 *digne des grands crus, s’imposera facilement sur une viande rouge ou un plat épicé
 un vin qui en redemande et dont les arômes subtils et ronds t’enchanteront
 un grand vin qui supportera quelques années de garde*
@@ -65,13 +65,9 @@ coup qui tu pourras déguster en prenant place à la grande table à l’entrée
 il fait frais, c’est agréable, comme son vin
 
 ## sympa
-et si tu as peur de n’avoir pas suffisamment soif pour une dégust, alors descends du train à *cully* et par les vignes et un panorama magnifiiiiique tu arriveras à *rivaz* par le haut en passant par la capite de *didier* et tu pourras déjà faire connaissance avec son vin avant le coup à la cave
-après quelques verres tu descendras à la gare de *rivaz* où il y a des trains qui passent et qui s’arrêtent ou comme le bateau qui fait escale aussi là… en saison
+et si tu vas à rivaz et que tu te promènes sur les falaises du dezaley tu trouveras sa capite où s'arrête le petit train de vignes et tu pourras même déguster un moût 2017 grand crû de saint saphorin !
 
 ## le resto
-…et si tu veux combler une carie, arrêtes-toi à l’*auberge de rivaz* en bas-dessous la dérupe après « tournez tout de suite à gauche » tout droit en direction de *vevey*
-à gauche après la terrasse ombragée où s’affaire déjà un personnel attentionné et sympa, comme le patron qui propose une bonne carte des vins de la région …et italiens et une carte des mets bien maîtrisée par son chef
-
 > Auberge de Rivaz
 > 021 946 10 55
 > [aubergederivaz.ch](http://www.aubergederivaz.ch)
