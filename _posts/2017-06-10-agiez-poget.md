@@ -7,7 +7,8 @@ teaser: "...ben lui, *pierre-yves poget* a gagné : son merlot 2015 a reçu la 
 mots-cles: [Côtes de l’Orbe, Agiez, vigneron]
 categories: blog
 date:     2017-06-10T14:00:00+02:00
-modified: 2017-06-10T14:00:00+02:00
+modified: 2017-08-10T14:00:00+02:00
+notif-modifs: true
 published: true
 image:
   feature: /images/2017-06-10-poget/distinctions-1900x800.jpg
@@ -34,10 +35,12 @@ acidité et maturité font ici bon ménage et donnent une élégance à ce vin q
 
 ### pinot noir 2016
 un vrai pinot vaudois, équilibré et très sympa
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>mondial du pinot noir 2017 médaille d'or</span>
 
 ### gamaret – garanoir 2015
 la surprise de cette première dégustation
 quelle saveur et quelle envie de prolonger la dégustation
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>diplôme millésime d'argent 2017</span>
 
 ## découvrir
 bien entendu son *merlot barrique 2015* (seulement en 70 cl)
