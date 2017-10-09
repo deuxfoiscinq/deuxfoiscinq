@@ -7,7 +7,8 @@ teaser: "...c’est que c’est un amoureux fou du chasselas et que ce dernier l
 mots-cles: [Cully, Lavaux, vigneron]
 categories: blog
 date:     2017-08-10T14:00:00+02:00
-modified: 2017-08-10T14:00:00+02:00
+modified: 2017-10-09T14:00:00+02:00
+notif-modifs: true
 published: true
 image:
   feature: /images/2017-08-10-blondel/entreecavebl-1900x800.jpg
@@ -28,19 +29,24 @@ c’est que c’est un amoureux fou du *chasselas* et que ce dernier le lui rend
 ### villette champ-noé 2016
 si comme *jean-luc* tu veux tomber amoureux du *chasselas*, bois cette potion qui a un goût de reviens-y
 à l’apéro même sans avoir soif ou avec des filets de perches au citron vert et cinq-épices
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
 
 ### épesses la perle 2016
 t’as plein la bouche de fruits et de soleil, un régal et un apéritif réussi à coup sûr
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
 
 ### calamin blanc l’arpège 2016
 oh lala, ça c’est quelque chose, une réussite et qui attendra facilement que t’aies fini le 2015 ! un *calamin* jouissif
 ce nectar appréciera un saucisson de volaille aux poireaux et curry
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
 
 ### dézaley blanc côtes des abbayes 2016
 une explosion de saveurs, excellent avec un saumon aux lentilles à l’aigre-doux
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*sélection des vins vaudois - médaille d'or*</span>
 
 ### épesses rosé la ronde 2016
 bien en bouche, enchanteur et festif qui te fera vite oublier le temps maussade et la pluie
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
 
 ## découvrir
 son *dézaley prestige blanc 2015*
