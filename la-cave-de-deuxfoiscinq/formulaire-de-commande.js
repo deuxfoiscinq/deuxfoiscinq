@@ -3,7 +3,7 @@
 var url = "carte-des-vins.json";
 var xhr = new XMLHttpRequest();
 var debug = true;
-var fraisDePort = 12;
+var fraisDePort = 15;
 
 main();
 
@@ -126,16 +126,12 @@ function displayJSONinHTML()
     <div class="row" style="margin-top:30px;">
       <div class="col-xs-12" style="border-bottom: 4px solid"><h3>conditions de vente</h3></div>
       <div class="col-xs-12" style="margin-top: 10px;">
-        <p style="margin:0px; line-height: 15px">livraison en Suisse uniquement</p>
-        <p style="margin:0px; line-height: 15px">livraison dans la mesure des disponibilités</p>
-        <p style="margin:0px; line-height: 15px">paiement sur facture à 10 jours net</p>
-        <p style="margin:0px; line-height: 15px">commande minimum de 3 bouteilles</p>
-        <p style="margin:0px; line-height: 15px">emballage de 3, 6 ou 12 bouteilles</p>
-        <p style="margin:0px; line-height: 15px">panachage possible</p>
-        <p style="margin:0px; line-height: 15px">les prix sont indiqués en CHF et TVA 8% incluse</p>
-        <p style="margin:0px; line-height: 15px">frais d’emballage et de livraison ${ fraisDePort } CHF</p>
-        <p style="margin:0px; line-height: 15px">les marchandises vendues ne sont ni reprises ni échangées</p>
-        <p style="margin:0px; line-height: 15px">le for juridique en cas de litige est Lausanne en Suisse</p>
+        <p style="margin:0px; line-height: 15px">commande minimum de 3 bouteilles de 50 cl (panachage possible)</p>
+        <p style="margin:0px; line-height: 15px">emballage de 3, 8 ou 15 bouteilles</p>
+        <p style="margin:0px; line-height: 15px">paiement sur facture à 10 jours net – prix indiqués en CHF, TVA 8% comprise, départ cave</p>
+        <p style="margin:0px; line-height: 15px">frais d’emballage et de livraison CHF 15.– TTC</p>
+        <p style="margin:0px; line-height: 15px">livraison en suisse</p>
+        <p style="margin:0px; line-height: 15px">offre valable jusqu’au 31 janvier 2018</p>
       </div>
     </div>
 
@@ -194,12 +190,12 @@ function displayJSONinHTML()
 
     <div class="row" style="margin-top:30px;">
       <div class="col-xs-12" style="border-bottom: 4px solid"><h3>renseignements</h3></div>
-      <div class="col-xs-12" style="margin: 12px 0 0px"><p class="text-center">si vous avez des questions concernant votre commande, vous pouvez me contacter à l’adresse <a href="mailto:jisse@deuxfoiscinq.ch">jisse@deuxfoiscinq.ch</a></p></div>
+      <div class="col-xs-12" style="margin: 12px 0 0px"><p class="text-center">si tu as des questions concernant ta commande, tu peux me contacter à l’adresse <a href="mailto:jisse@deuxfoiscinq.ch">jisse@deuxfoiscinq.ch</a></p></div>
     </div>
 
     <div class="row" style="margin-top:60px;">
 
-      <div class="col-xs-12" style="margin: 12px 0 4px"><p class="text-center"><small class="text-muted">je vous enverrai un email de confirmation de réception de votre commande dans les 24 h ouvrables</small></p></div>
+      <div class="col-xs-12" style="margin: 12px 0 4px"><p class="text-center"><small class="text-muted">je t’enverrai un email de confirmation dans les 24 h ouvrables</small></p></div>
       <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1" style="margin-top: 3px;">
         <button type="submit" class="btn btn-block" style="height:50px;">ENVOYER LA COMMANDE</button>
       </div>
