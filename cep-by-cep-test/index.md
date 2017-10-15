@@ -29,10 +29,10 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 
 ### [mercredi 8 février 2017](#mercredi-8-février-2017)
 
-![vigne de février][i1]
+![vigne de février](../images/cep-by-cep/2017-02-08.jpg)
 
-[i1]: ../images/cep-by-cep/2017-02-08.jpg
 
+---
 
 ---
 
