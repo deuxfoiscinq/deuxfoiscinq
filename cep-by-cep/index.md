@@ -188,3 +188,7 @@ les grappes de rouge ont enfilé leur habit blanc pour échapper à la suzukii q
 
 le vigneron, pour cacher son inquiétude, consulte plus que d'habitude la météo sur son portable et prépare sa cave pour recevoir la vendange en nettoyant précautionneusement les cuves et le pressoir
 ça doit être nickel pour accueillir le nectar
+
+
+{: .align-center }
+❧
