@@ -155,7 +155,7 @@ le vigneron, pour cacher son inquiétude, consulte plus que d'habitude la mété
 
 ### [vendredi 20 octobre 2017](#vendredi-20-octobre-2017)
 
-
+<p><a href="../images/cep-by-cep/2017-10-20fouloir500x300.jpg"><img src="../images/cep-by-cep/2017-10-20fouloir500x300.jpg" alt="grappe" /></a></p>
 
 les grappes de raisin blanc récoltées sont versées dans le **fouloir** et prennent le chemin
 du pressoir qui les transforment en moût qui sera mis en cuve
@@ -171,7 +171,7 @@ travailler, période où l’on va abaisser la température de la cave à 0°
 … et ce sera la mise en bouteilles en général entre décembre et avril
 … et enfin on pourra le déguster ce 2017
 
-
+<p><a href="../images/cep-by-cep/2017-10-20fouloir500x300.jpg"><img src="../images/cep-by-cep/2017-10-20fouloir500x300.jpg" alt="fouloir" /></a></p>
 
 pour le vin rouge, on égrappe et on met les grains dans le cuvage accompagnés de  levures
 sélectionnées et naturelles
@@ -182,7 +182,7 @@ la cave est chauffée à 20° durant six à huit semaines
 et selon, après six, huit ou douze mois voire dix-huit mois on passe à la mise en bouteille et
 en verres au carnotzet
 
-
+<p><a href="../images/cep-by-cep/2017-10-20cuve500x300.jpg"><img src="../images/cep-by-cep/2017-10-20cuve500x300.jpg" alt="fouloir" /></a></p>
 
 durant tous ces jours de la grappe à la bouteille, le vigneron passera tout son temps à
 surveiller les cuves ou les barriques, vérifier la température ou soigner l’évolution de ce vin
@@ -191,6 +191,7 @@ afin de metrre un point final à l’histoire du grain au verre !
 c’est l’histoire d’un *autre grain et d’un autre verre*
 santé ! conservation et …dans quinze jours pour un nouveau blog
 
+<p><a href="../images/cep-by-cep/2017-10-20cuverouge500x300.jpg"><img src="../images/cep-by-cep/2017-10-20cuverouge500x300.jpg" alt="fouloir" /></a></p>
 
 {: .align-center }
 ❧ ❧ ❧
