@@ -153,6 +153,44 @@ les grappes de rouge ont enfilé leur habit blanc pour échapper à la suzukii q
 le vigneron, pour cacher son inquiétude, consulte plus que d'habitude la météo sur son portable et prépare sa cave pour recevoir la vendange en nettoyant précautionneusement les cuves et le pressoir
 ça doit être nickel pour accueillir le nectar
 
+### [vendredi 20 octobre 2017](#vendredi-20-octobre-2017)
+
+
+
+les grappes de raisin blanc récoltées sont versées dans le **fouloir** et prennent le chemin
+du pressoir qui les transforment en moût qui sera mis en cuve
+on débourbe la cuve *(action de rendre le moût plus propre)* le moût est transféré
+dans une autre cuve qui va recevoir des levures sélectionnées et naturelles qui vont
+provoquer la **fermentation alcoolique** (FA)
+les cuves sont surveillées régulièrement tous les jours ainsi que la température qui ne doit
+pas dépasser 13° et cela peut durer cinq à six semaines
+une fois terminée, on recape les cuves et on chauffe la cave à 20° pour lancer la
+**fermentation malolactique** (malo)
+en principe, la malo est terminée à fin décembre … enfin si le vin veut bien se mettre à
+travailler, période où l’on va abaisser la température de la cave à 0°
+… et ce sera la mise en bouteilles en général entre décembre et avril
+… et enfin on pourra le déguster ce 2017
+
+
+
+pour le vin rouge, on égrappe et on met les grains dans le cuvage accompagnés de  levures
+sélectionnées et naturelles
+après une semaine environ, on presse la masse et le jus attend durant une semaine dans une
+cuve pour permettre aux lies de se déposer sur le fond
+puis soit ce moût reste en cuve, soit il passe en barriques
+la cave est chauffée à 20° durant six à huit semaines
+et selon, après six, huit ou douze mois voire dix-huit mois on passe à la mise en bouteille et
+en verres au carnotzet
+
+
+
+durant tous ces jours de la grappe à la bouteille, le vigneron passera tout son temps à
+surveiller les cuves ou les barriques, vérifier la température ou soigner l’évolution de ce vin
+afin de metrre un point final à l’histoire du grain au verre !
+… et pendant ce temps, la vigne se repose, s’endormira et repartira de plus belle… mais ça
+c’est l’histoire d’un *autre grain et d’un autre verre*
+santé ! conservation et …dans quinze jours pour un nouveau blog
+
 
 {: .align-center }
 ❧ ❧ ❧
