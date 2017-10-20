@@ -155,18 +155,18 @@ le vigneron, pour cacher son inquiétude, consulte plus que d'habitude la mété
 
 ### [vendredi 20 octobre 2017](#vendredi-20-octobre-2017)
 
-<p><a href="../images/cep-by-cep/2017-10-20fouloir2-1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20fouloir2-1000x500" alt="fouloir2" /></a></p>
+<p><a href="../images/cep-by-cep/2017-10-20fouloir2-1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20fouloir2-1000x500.jpg" alt="fouloir2" /></a></p>
 
 les grappes de raisin blanc récoltées sont versées dans le **fouloir** et prennent le chemin
 du pressoir qui les transforment en moût qui sera mis en cuve
 
-<p><a href="../images/cep-by-cep/2017-10-20moutpresse.1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20moutpresse.1000x500" alt="mout" /></a></p>
+<p><a href="../images/cep-by-cep/2017-10-20moutpresse.1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20moutpresse.1000x500.jpg" alt="mout" /></a></p>
 
 on débourbe la cuve *(action de rendre le moût plus propre)* le moût est transféré
 dans une autre cuve qui va recevoir des levures sélectionnées et naturelles qui vont
 provoquer la **fermentation alcoolique** (FA)
 
-<p><a href="../images/cep-by-cep/2017-10-20cuve1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20cuve1000x500" alt="cuve" /></a></p>
+<p><a href="../images/cep-by-cep/2017-10-20cuve1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20cuve1000x500.jpg" alt="cuve" /></a></p>
 
 les cuves sont surveillées régulièrement tous les jours ainsi que la température qui ne doit
 pas dépasser 13° et cela peut durer cinq à six semaines
@@ -177,7 +177,7 @@ travailler, période où l’on va abaisser la température de la cave à 0°
 … et ce sera la mise en bouteilles en général entre décembre et avril
 … et enfin on pourra le déguster ce 2017
 
-<p><a href="../images/cep-by-cep/2017-10-20cuverouge1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20cuverouge1000x500" alt="cuverouge" /></a></p>
+<p><a href="../images/cep-by-cep/2017-10-20cuverouge1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20cuverouge1000x500.jpg" alt="cuverouge" /></a></p>
 
 pour le vin rouge, on égrappe et on met les grains dans le cuvage accompagnés de  levures
 sélectionnées et naturelles
@@ -188,7 +188,7 @@ la cave est chauffée à 20° durant six à huit semaines
 et selon, après six, huit ou douze mois voire dix-huit mois on passe à la mise en bouteille et
 en verres au carnotzet
 
-<p><a href="../images/cep-by-cep/2017-10-20barrique1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20barrique1000x500" alt="barrique" /></a></p>
+<p><a href="../images/cep-by-cep/2017-10-20barrique1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20barrique1000x500.jpg" alt="barrique" /></a></p>
 
 durant tous ces jours de la grappe à la bouteille, le vigneron passera tout son temps à
 surveiller les cuves ou les barriques, vérifier la température ou soigner l’évolution de ce vin
@@ -199,4 +199,4 @@ santé ! conservation et …dans quinze jours pour un nouveau blog
 
 
 {: .align-center }
-❧ ❧ ❧
+❧
