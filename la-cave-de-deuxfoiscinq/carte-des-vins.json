@@ -24,7 +24,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -199,7 +199,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.10",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -355,18 +355,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "11.60",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "REFERENCE_MAIL": "vin 28",
-                "APPELLATION": "vully",
-                "CEPAGE": "chasselas",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "8.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -377,6 +366,17 @@
         "NOM": "marylène et louis bovard-chervet",
         "URL": "http://deuxfoiscinq.ch/blog/praz_bovard/",
         "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 28",
+                "APPELLATION": "vully",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "8.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
             {
                 "REFERENCE_MAIL": "vin 29",
                 "APPELLATION": "vully",
@@ -407,68 +407,57 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
     },
     {
-        "DOMAINE": "",
-        "CAVE": "",
-        "NOM": "",
-        "URL": "",
+        "DOMAINE": "aigle",
+        "CAVE": "domaine de la baudeliere",
+        "NOM": "christine et stéphanie delarze",
+        "URL": "http://www.labaudeliere.ch/site/FR/domaine.html",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 32",
-                "APPELLATION": "peissy",
-                "CEPAGE": "chasselas",
+                "REFERENCE_MAIL": "vin 37",
+                "APPELLATION": "aigle",
+                "CEPAGE": "chasselas grand cru",
                 "ANNEE": 2016,
                 "COULEUR": "blanc",
-                "PRIX": "6.50",
+                "PRIX": "11.00",
                 "QUANTITE": "",
                 "DISPONIBLE": "×",
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 33",
-                "APPELLATION": "peissy",
-                "CEPAGE": "peissy fruité",
+                "REFERENCE_MAIL": "vin 37",
+                "APPELLATION": "aigle",
+                "CEPAGE": "yvorne grand cru",
                 "ANNEE": 2016,
                 "COULEUR": "blanc",
-                "PRIX": "7.00",
+                "PRIX": "11.70",
                 "QUANTITE": "",
                 "DISPONIBLE": "×",
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 34",
-                "APPELLATION": "peissy",
-                "CEPAGE": "aligoté",
+                "REFERENCE_MAIL": "vin 38",
+                "APPELLATION": "aigle",
+                "CEPAGE": "trois roses",
                 "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "8.00",
+                "COULEUR": "rouge",
+                "PRIX": "12.80",
                 "QUANTITE": "",
                 "DISPONIBLE": "×",
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 35",
-                "APPELLATION": "peissy",
-                "CEPAGE": "œil-de-perdrix",
+                "REFERENCE_MAIL": "vin 39",
+                "APPELLATION": "aigle",
+                "CEPAGE": "riesling les vigneronnes",
                 "ANNEE": 2016,
                 "COULEUR": "blanc",
-                "PRIX": "8.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "REFERENCE_MAIL": "vin 36",
-                "APPELLATION": "peissy",
-                "CEPAGE": "gondebaud",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "8.50",
+                "PRIX": "18.00",
                 "QUANTITE": "",
                 "DISPONIBLE": "×",
                 "REMARQUES": ""
