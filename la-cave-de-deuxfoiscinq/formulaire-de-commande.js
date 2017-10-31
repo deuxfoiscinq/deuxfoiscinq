@@ -138,7 +138,6 @@ function displayJSONinHTML()
     <div class="row" style="margin-top:30px;">
       <div class="row" style="margin:15px 0;">
         <div class="col-xs-12" style="border-bottom: 4px solid;"><h3>adresse de facturation</h3></div>
-        <div class="col-xs-12" style="margin: 12px 0 4px"><p><small class="text-muted">à remplir uniquement si l’adresse de facturation est différente de&nbsp;l’adresse de livraison</small></p></div>
       </div>
       <div class="row" style="margin-top:5px;">
         <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>nom et prénom</label></div>
@@ -165,6 +164,7 @@ function displayJSONinHTML()
     <div class="row" style="margin-top:30px;">
       <div class="row" style="margin:15px 0;">
         <div class="col-xs-12" style="border-bottom: 4px solid;"><h3>adresse de livraison</h3></div>
+        <div class="col-xs-12" style="margin: 12px 0 4px"><p><small class="text-muted">à remplir uniquement si l’adresse de livraison est différente de&nbsp;l’adresse de facturation</small></p></div>
       </div>
       <div class="row" style="margin-top:5px;">
         <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>nom et prénom</label></div>
