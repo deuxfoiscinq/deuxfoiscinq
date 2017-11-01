@@ -2,7 +2,7 @@
 
 var url = "carte-des-vins.json";
 var xhr = new XMLHttpRequest();
-var debug = true;
+var debug = false;
 var fraisDePort = 15;
 
 main();
