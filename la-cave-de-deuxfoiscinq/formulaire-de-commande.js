@@ -137,34 +137,7 @@ function displayJSONinHTML()
 
     <div class="row" style="margin-top:30px;">
       <div class="row" style="margin:15px 0;">
-        <div class="col-xs-12" style="border-bottom: 4px solid;"><h3>adresse de livraison</h3></div>
-      </div>
-      <div class="row" style="margin-top:5px;">
-        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>nom et prénom</label></div>
-        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-nom" type="text" class="" /></div>
-      </div>
-      <div class="row" style="margin-top:5px;">
-        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>rue</label></div>
-        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-rue" type="text" class="" /></div>
-      </div>
-      <div class="row" style="margin-top:5px;">
-        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>npa et localité</label></div>
-        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-npa-localite" type="text" class="" /></div>
-      </div>
-      <div class="row" style="margin-top:5px;">
-        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>no de téléphone</label></div>
-        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-telephone" type="text" class="" /></div>
-      </div>
-      <div class="row" style="margin-top:5px;">
-        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>adresse email</label></div>
-        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="_replyto" type="email" class="" /></div>
-      </div>
-    </div>
-
-    <div class="row" style="margin-top:30px;">
-      <div class="row" style="margin:15px 0;">
         <div class="col-xs-12" style="border-bottom: 4px solid;"><h3>adresse de facturation</h3></div>
-        <div class="col-xs-12" style="margin: 12px 0 4px"><p><small class="text-muted">à remplir uniquement si l’adresse de facturation est différente de&nbsp;l’adresse de livraison</small></p></div>
       </div>
       <div class="row" style="margin-top:5px;">
         <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>nom et prénom</label></div>
@@ -185,6 +158,33 @@ function displayJSONinHTML()
       <div class="row" style="margin-top:5px;">
         <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>adresse email</label></div>
         <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-facturation-mail" type="email" class="" /></div>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top:30px;">
+      <div class="row" style="margin:15px 0;">
+        <div class="col-xs-12" style="border-bottom: 4px solid;"><h3>adresse de livraison</h3></div>
+        <div class="col-xs-12" style="margin: 12px 0 4px"><p><small class="text-muted">à remplir uniquement si l’adresse de livraison est différente de&nbsp;l’adresse de facturation</small></p></div>
+      </div>
+      <div class="row" style="margin-top:5px;">
+        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>nom et prénom</label></div>
+        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-nom" type="text" class="" /></div>
+      </div>
+      <div class="row" style="margin-top:5px;">
+        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>rue</label></div>
+        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-rue" type="text" class="" /></div>
+      </div>
+      <div class="row" style="margin-top:5px;">
+        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>npa et localité</label></div>
+        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-npa-localite" type="text" class="" /></div>
+      </div>
+      <div class="row" style="margin-top:5px;">
+        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>no de téléphone</label></div>
+        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="adresse-livraison-telephone" type="text" class="" /></div>
+      </div>
+      <div class="row" style="margin-top:5px;">
+        <div class="col-sm-4 col-xs-12" style="margin: 0px;"><label>adresse email</label></div>
+        <div class="col-sm-8 col-xs-12" style="margin: 0px;"><input name="_replyto" type="email" class="" /></div>
       </div>
     </div>
 
