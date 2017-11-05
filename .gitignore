@@ -8,3 +8,6 @@ node_modules
 .jekyll-metadata
 _config_dev.yml
 Gemfile.lock
+~*
+*nogit*
+# *-min.css

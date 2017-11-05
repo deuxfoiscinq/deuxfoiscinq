@@ -91,7 +91,7 @@
                 "REFERENCE_MAIL": "vin 7",
                 "APPELLATION": "la côte",
                 "CEPAGE": "chasselas grain blanc",
-                "ANNEE": 2015,
+                "ANNEE": 2016,
                 "COULEUR": "blanc",
                 "PRIX": "7.50",
                 "QUANTITE": "",
@@ -102,7 +102,7 @@
                 "REFERENCE_MAIL": "vin 8",
                 "APPELLATION": "la côte",
                 "CEPAGE": "œil-de-perdrix",
-                "ANNEE": 2015,
+                "ANNEE": 2016,
                 "COULEUR": "rosé",
                 "PRIX": "9.50",
                 "QUANTITE": "",
@@ -113,7 +113,7 @@
                 "REFERENCE_MAIL": "vin 9",
                 "APPELLATION": "la côte",
                 "CEPAGE": "château de vincy",
-                "ANNEE": 2015,
+                "ANNEE": 2016,
                 "COULEUR": "rouge",
                 "PRIX": "10.50",
                 "QUANTITE": "",
@@ -136,7 +136,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "20.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": "élevé en fût"
             },
             {
@@ -154,7 +154,7 @@
                 "REFERENCE_MAIL": "vin 12",
                 "APPELLATION": "fully",
                 "CEPAGE": "gamay vieilles vignes",
-                "ANNEE": 2015,
+                "ANNEE": 2016,
                 "COULEUR": "rouge",
                 "PRIX": "13.00",
                 "QUANTITE": "",
@@ -352,7 +352,7 @@
                 "APPELLATION": "épesses",
                 "CEPAGE": "rosé la ronde",
                 "ANNEE": 2016,
-                "COULEUR": "rosé",
+                "COULEUR": "blanc",
                 "PRIX": "11.60",
                 "QUANTITE": "",
                 "DISPONIBLE": "",
@@ -413,6 +413,69 @@
         ]
     },
     {
+        "DOMAINE": "peissy",
+        "CAVE": "domaine des trois étoiles",
+        "NOM": "jean-charles crousaz",
+        "URL": "http://www.trois-etoiles.ch",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 32",
+                "APPELLATION": "peissy",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "6.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 33",
+                "APPELLATION": "peissy",
+                "CEPAGE": "peissy fruité",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "7.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 34",
+                "APPELLATION": "peissy",
+                "CEPAGE": "aligoté",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 35",
+                "APPELLATION": "peissy",
+                "CEPAGE": "œil-de-perdrix",
+                "ANNEE": 2016,
+                "COULEUR": "rosé",
+                "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 36",
+                "APPELLATION": "peissy",
+                "CEPAGE": "gondebaud",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "8.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
         "DOMAINE": "aigle",
         "CAVE": "domaine de la baudeliere",
         "NOM": "christine et stéphanie delarze",
@@ -458,6 +521,113 @@
                 "ANNEE": 2016,
                 "COULEUR": "blanc",
                 "PRIX": "18.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "DOMAINE": "soral",
+        "CAVE": "domaine de la mermière",
+        "NOM": "yves batardon",
+        "URL": "http://www.mermiere.ch",
+        "VINS": [
+            {
+                "REFERENCE_MAIL": "vin 40",
+                "APPELLATION": "soral",
+                "CEPAGE": "chasselas vielles vignes",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "6.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 41",
+                "APPELLATION": "soral",
+                "CEPAGE": "pinot blanc ",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 42",
+                "APPELLATION": "soral",
+                "CEPAGE": "kern blanc",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 43",
+                "APPELLATION": "soral",
+                "CEPAGE": "soir d'été",
+                "ANNEE": 2016,
+                "COULEUR": "rosé",
+                "PRIX": "7.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 44",
+                "APPELLATION": "soral",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2015,
+                "COULEUR": "rouge",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 45",
+                "APPELLATION": "soral",
+                "CEPAGE": "rouge-terre",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "10.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 46",
+                "APPELLATION": "soral",
+                "CEPAGE": "noir désir",
+                "ANNEE": 2015,
+                "COULEUR": "rouge",
+                "PRIX": "13.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 47",
+                "APPELLATION": "soral",
+                "CEPAGE": "gamaret",
+                "ANNEE": 2015,
+                "COULEUR": "rouge",
+                "PRIX": "13.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "×",
+                "REMARQUES": ""
+            },
+            {
+                "REFERENCE_MAIL": "vin 48",
+                "APPELLATION": "soral",
+                "CEPAGE": "gamay",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "8.50",
                 "QUANTITE": "",
                 "DISPONIBLE": "×",
                 "REMARQUES": ""
