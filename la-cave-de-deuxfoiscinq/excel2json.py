@@ -1,4 +1,4 @@
-#!/anaconda3/bin/python
+#!/Users/steiner/anaconda3/bin/python
 # -*- coding: utf-8 -*-
 """
 Created on Sun Nov  5 18:44:02 2017
