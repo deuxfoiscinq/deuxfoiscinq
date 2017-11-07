@@ -38,7 +38,7 @@ function displayJSONInConsole( responseJSON )
         let vin = vigneron.VINS[ j ];
         console.log( vin );
         console.log(
-                    vin.REFERENCE_MAIL
+                    vin.ID_VIN
           + " | " + vin.APPELLATION
           + " | " + vin.CEPAGE
           + " | " + vin.ANNEE
@@ -85,14 +85,14 @@ function displayJSONinHTML()
           let backColor = "white";
           if( cptVins % 2 ) backColor = "#EEE";
           cptVins += 1;
-          let nomInput = vin.REFERENCE_MAIL + " | " + vin.PRIX;
+          let nomInput = vin.ID_VIN + " | " + vin.PRIX;
           let remarques = "";
           if( vin.REMARQUES !== "" ) {
             remarques = `<div class="col-xs-12 col-sm-12"  > <small class="text-muted">${ vin.REMARQUES }&nbsp;</small></div>`;
           }
 
           htmlElems += `
-            <div id="${ vin.REFERENCE_MAIL }" class="row" style="margin-top:5px; background-color: ${ backColor };">
+            <div id="vin-${ vin.ID_VIN }" class="row" style="margin-top:5px; background-color: ${ backColor };">
               <div class="col-xs-10 col-sm-10">
                 <div class="row" style="padding: 8px 0;">
                     <div class="col-xs-12 col-sm-9"> <em>${ vin.APPELLATION } &#10687; ${ vin.CEPAGE } &#10687; ${ vin.ANNEE }&nbsp;&#10687;&nbsp;${ vin.COULEUR }</em></div>

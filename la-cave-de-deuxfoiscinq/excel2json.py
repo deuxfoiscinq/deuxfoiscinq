@@ -49,7 +49,7 @@ for i_, r_ in vignerons.loc[vignerons.ID_VIGNERON > 0].iterrows():
     li_v = []
     for j_, k_ in vins.loc[vins.ID_VIGNERON.isin([r_.ID_VIGNERON])].iterrows():
         li_v.append(('            {\n' +
-                     '                "REFERENCE_MAIL": "%s",\n' +
+                     '                "ID_VIN": "%s",\n' +
                      '                "APPELLATION": "%s",\n' +
                      '                "CEPAGE": "%s",\n' +
                      '                "ANNEE": %s,\n' +
@@ -58,7 +58,7 @@ for i_, r_ in vignerons.loc[vignerons.ID_VIGNERON > 0].iterrows():
                      '                "QUANTITE": "%s",\n' +
                      '                "DISPONIBLE": "%s",\n' +
                      '                "REMARQUES": "%s"\n            }'
-                     ) % (k_.REFERENCE_MAIL,
+                     ) % (k_.ID_VIN,
                           k_.APPELLATION,
                           k_.CEPAGE,
                           k_.ANNEE,
