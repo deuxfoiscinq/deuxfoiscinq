@@ -1,12 +1,13 @@
 [
     {
+        "ID_VIGNERON": "1",
         "DOMAINE": "rivaz",
         "CAVE": "cave des dolles",
         "NOM": "didier imhof",
         "URL": "http://deuxfoiscinq.ch/blog/rivaz-cave-des-dolles/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 1",
+                "REFERENCE_MAIL": "vin-1",
                 "APPELLATION": "saint-saphorin",
                 "CEPAGE": "chasselas",
                 "ANNEE": 2016,
@@ -17,7 +18,7 @@
                 "REMARQUES": "disponible en 70cl"
             },
             {
-                "REFERENCE_MAIL": "vin 2",
+                "REFERENCE_MAIL": "vin-2",
                 "APPELLATION": "saint-saphorin",
                 "CEPAGE": "pinot noir",
                 "ANNEE": 2016,
@@ -28,7 +29,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 3",
+                "REFERENCE_MAIL": "vin-3",
                 "APPELLATION": "saint-saphorin",
                 "CEPAGE": "gamaret-garanoir",
                 "ANNEE": 2016,
@@ -41,13 +42,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "2",
         "DOMAINE": "flanthey",
         "CAVE": "bagnoud vins",
         "NOM": "nicolas bagnoud",
         "URL": "http://deuxfoiscinq.ch/blog/bagnoud-vins/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 4",
+                "REFERENCE_MAIL": "vin-4",
                 "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "pinot gris",
                 "ANNEE": 2015,
@@ -58,7 +60,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 5",
+                "REFERENCE_MAIL": "vin-5",
                 "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "chenin",
                 "ANNEE": 2015,
@@ -69,7 +71,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 6",
+                "REFERENCE_MAIL": "vin-6",
                 "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "cornalin",
                 "ANNEE": 2015,
@@ -82,13 +84,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "3",
         "DOMAINE": "dully",
         "CAVE": "parfum de vigne",
         "NOM": "jean-jacques steiner",
         "URL": "http://deuxfoiscinq.ch/blog/parfum-de-vigne/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 7",
+                "REFERENCE_MAIL": "vin-7",
                 "APPELLATION": "la côte",
                 "CEPAGE": "chasselas grain blanc",
                 "ANNEE": 2016,
@@ -99,7 +102,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 8",
+                "REFERENCE_MAIL": "vin-8",
                 "APPELLATION": "la côte",
                 "CEPAGE": "œil-de-perdrix",
                 "ANNEE": 2016,
@@ -110,7 +113,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 9",
+                "REFERENCE_MAIL": "vin-9",
                 "APPELLATION": "la côte",
                 "CEPAGE": "château de vincy",
                 "ANNEE": 2016,
@@ -123,13 +126,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "4",
         "DOMAINE": "saillon",
         "CAVE": "cave des amandiers",
         "NOM": "alexandre deletraz",
         "URL": "http://deuxfoiscinq.ch/blog/saillon-cavedesamandiers/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 10",
+                "REFERENCE_MAIL": "vin-10",
                 "APPELLATION": "fully",
                 "CEPAGE": "petite arvine de seyes",
                 "ANNEE": 2014,
@@ -140,7 +144,7 @@
                 "REMARQUES": "élevé en fût"
             },
             {
-                "REFERENCE_MAIL": "vin 11",
+                "REFERENCE_MAIL": "vin-11",
                 "APPELLATION": "fully",
                 "CEPAGE": "amigne",
                 "ANNEE": 2014,
@@ -151,7 +155,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 12",
+                "REFERENCE_MAIL": "vin-12",
                 "APPELLATION": "fully",
                 "CEPAGE": "gamay vieilles vignes",
                 "ANNEE": 2016,
@@ -164,13 +168,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "5",
         "DOMAINE": "concise",
         "CAVE": "cave du pasquier",
         "NOM": "martial du pasquier",
         "URL": "http://deuxfoiscinq.ch/blog/concise-dupasquier/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 13",
+                "REFERENCE_MAIL": "vin-13",
                 "APPELLATION": "bonvillars",
                 "CEPAGE": "chasselas",
                 "ANNEE": 2016,
@@ -181,7 +186,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 14",
+                "REFERENCE_MAIL": "vin-14",
                 "APPELLATION": "bonvillars",
                 "CEPAGE": "chasselas vieilles vignes",
                 "ANNEE": 2016,
@@ -192,7 +197,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 15",
+                "REFERENCE_MAIL": "vin-15",
                 "APPELLATION": "bonvillars",
                 "CEPAGE": "pinot gris",
                 "ANNEE": 2016,
@@ -203,7 +208,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 16",
+                "REFERENCE_MAIL": "vin-16",
                 "APPELLATION": "bonvillars",
                 "CEPAGE": "œil de pedrix",
                 "ANNEE": 2016,
@@ -216,13 +221,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "6",
         "DOMAINE": "agiez",
         "CAVE": "cave mirabilis",
         "NOM": "pierre-yves poget",
         "URL": "http://deuxfoiscinq.ch/blog/agiez-poget/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 17",
+                "REFERENCE_MAIL": "vin-17",
                 "APPELLATION": "côtes de l'orbe",
                 "CEPAGE": "chasselas",
                 "ANNEE": 2016,
@@ -233,7 +239,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 18",
+                "REFERENCE_MAIL": "vin-18",
                 "APPELLATION": "côtes de l'orbe",
                 "CEPAGE": "pinot noir",
                 "ANNEE": 2016,
@@ -244,7 +250,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 19",
+                "REFERENCE_MAIL": "vin-19",
                 "APPELLATION": "côtes de l'orbe",
                 "CEPAGE": "gamaret-garanoir",
                 "ANNEE": 2016,
@@ -257,13 +263,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "7",
         "DOMAINE": "yvorne",
         "CAVE": "domaine dillet",
         "NOM": "eric minod",
         "URL": "http://deuxfoiscinq.ch/blog/yvorne-minod/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 20",
+                "REFERENCE_MAIL": "vin-20",
                 "APPELLATION": "yvorne",
                 "CEPAGE": "chasselas",
                 "ANNEE": 2016,
@@ -274,7 +281,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 21",
+                "REFERENCE_MAIL": "vin-21",
                 "APPELLATION": "yvorne",
                 "CEPAGE": "œil-de-perdrix",
                 "ANNEE": 2016,
@@ -285,7 +292,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 22",
+                "REFERENCE_MAIL": "vin-22",
                 "APPELLATION": "yvorne",
                 "CEPAGE": "yvorne spécialité",
                 "ANNEE": 2016,
@@ -298,13 +305,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "8",
         "DOMAINE": "cully",
         "CAVE": "domaine blondel",
         "NOM": "jean-luc et louis blondel",
         "URL": "http://deuxfoiscinq.ch/blog/cully-blondel/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 23",
+                "REFERENCE_MAIL": "vin-23",
                 "APPELLATION": "villette champ-noé",
                 "CEPAGE": "chasselas",
                 "ANNEE": 2016,
@@ -315,7 +323,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 24",
+                "REFERENCE_MAIL": "vin-24",
                 "APPELLATION": "épesses",
                 "CEPAGE": "la perle",
                 "ANNEE": 2016,
@@ -326,7 +334,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 25",
+                "REFERENCE_MAIL": "vin-25",
                 "APPELLATION": "calamin",
                 "CEPAGE": "blanc d'arpège",
                 "ANNEE": 2016,
@@ -337,7 +345,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 26",
+                "REFERENCE_MAIL": "vin-26",
                 "APPELLATION": "dézaley",
                 "CEPAGE": "côtes des abbayes",
                 "ANNEE": 2016,
@@ -348,7 +356,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 27",
+                "REFERENCE_MAIL": "vin-27",
                 "APPELLATION": "épesses",
                 "CEPAGE": "rosé la ronde",
                 "ANNEE": 2016,
@@ -361,13 +369,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "9",
         "DOMAINE": "vully",
         "CAVE": "château de praz",
         "NOM": "marylène et louis bovard-chervet",
         "URL": "http://deuxfoiscinq.ch/blog/praz_bovard/",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 28",
+                "REFERENCE_MAIL": "vin-28",
                 "APPELLATION": "vully",
                 "CEPAGE": "chasselas",
                 "ANNEE": 2016,
@@ -378,7 +387,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 29",
+                "REFERENCE_MAIL": "vin-29",
                 "APPELLATION": "vully",
                 "CEPAGE": "œil-de-perdrix",
                 "ANNEE": 2016,
@@ -389,7 +398,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 30",
+                "REFERENCE_MAIL": "vin-30",
                 "APPELLATION": "vully",
                 "CEPAGE": "pinot noir",
                 "ANNEE": 2016,
@@ -400,7 +409,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 31",
+                "REFERENCE_MAIL": "vin-31",
                 "APPELLATION": "vully",
                 "CEPAGE": "gamaret",
                 "ANNEE": 2016,
@@ -413,13 +422,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "11",
         "DOMAINE": "aigle",
         "CAVE": "domaine de la baudeliere",
         "NOM": "christine et stéphanie delarze",
         "URL": "http://www.labaudeliere.ch/site/FR/domaine.html",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 37",
+                "REFERENCE_MAIL": "vin-37",
                 "APPELLATION": "aigle",
                 "CEPAGE": "chasselas grand cru",
                 "ANNEE": 2016,
@@ -430,7 +440,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 37",
+                "REFERENCE_MAIL": "vin-37",
                 "APPELLATION": "aigle",
                 "CEPAGE": "yvorne grand cru",
                 "ANNEE": 2016,
@@ -441,7 +451,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 38",
+                "REFERENCE_MAIL": "vin-38",
                 "APPELLATION": "aigle",
                 "CEPAGE": "trois roses",
                 "ANNEE": 2016,
@@ -452,7 +462,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 39",
+                "REFERENCE_MAIL": "vin-39",
                 "APPELLATION": "aigle",
                 "CEPAGE": "riesling les vigneronnes",
                 "ANNEE": 2016,
@@ -465,13 +475,14 @@
         ]
     },
     {
+        "ID_VIGNERON": "12",
         "DOMAINE": "soral",
         "CAVE": "domaine de la mermière",
         "NOM": "yves batardon",
         "URL": "http://www.mermiere.ch",
         "VINS": [
             {
-                "REFERENCE_MAIL": "vin 40",
+                "REFERENCE_MAIL": "vin-40",
                 "APPELLATION": "soral",
                 "CEPAGE": "chasselas vielles vignes",
                 "ANNEE": 2016,
@@ -482,7 +493,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 41",
+                "REFERENCE_MAIL": "vin-41",
                 "APPELLATION": "soral",
                 "CEPAGE": "pinot blanc ",
                 "ANNEE": 2016,
@@ -493,7 +504,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 42",
+                "REFERENCE_MAIL": "vin-42",
                 "APPELLATION": "soral",
                 "CEPAGE": "kern blanc",
                 "ANNEE": 2016,
@@ -504,7 +515,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 43",
+                "REFERENCE_MAIL": "vin-43",
                 "APPELLATION": "soral",
                 "CEPAGE": "soir d'été",
                 "ANNEE": 2016,
@@ -515,7 +526,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 44",
+                "REFERENCE_MAIL": "vin-44",
                 "APPELLATION": "soral",
                 "CEPAGE": "pinot noir",
                 "ANNEE": 2015,
@@ -526,7 +537,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 45",
+                "REFERENCE_MAIL": "vin-45",
                 "APPELLATION": "soral",
                 "CEPAGE": "rouge-terre",
                 "ANNEE": 2016,
@@ -537,7 +548,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 46",
+                "REFERENCE_MAIL": "vin-46",
                 "APPELLATION": "soral",
                 "CEPAGE": "noir désir",
                 "ANNEE": 2015,
@@ -548,7 +559,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 47",
+                "REFERENCE_MAIL": "vin-47",
                 "APPELLATION": "soral",
                 "CEPAGE": "gamaret",
                 "ANNEE": 2015,
@@ -559,7 +570,7 @@
                 "REMARQUES": ""
             },
             {
-                "REFERENCE_MAIL": "vin 48",
+                "REFERENCE_MAIL": "vin-48",
                 "APPELLATION": "soral",
                 "CEPAGE": "gamay",
                 "ANNEE": 2016,

@@ -67,7 +67,7 @@ function displayJSONinHTML()
     {
       let vigneron = responseJSON[ i ];
       htmlElems += `
-          <div class="row " style="border-bottom: 4px solid; margin-top: 20px; font-size: 16pt; font-style: italic">
+          <div id="vigneron-${ vigneron.ID_VIGNERON }" class="row " style="border-bottom: 4px solid; margin-top: 20px; font-size: 16pt; font-style: italic">
             <a href="${ vigneron.URL }" target="_blank" title="${ vigneron.DOMAINE }">
               ${ vigneron.DOMAINE } &bull;
               ${ vigneron.CAVE } &bull;
@@ -92,7 +92,7 @@ function displayJSONinHTML()
           }
 
           htmlElems += `
-            <div class="row" style="margin-top:5px; background-color: ${ backColor };">
+            <div id="${ vin.REFERENCE_MAIL }" class="row" style="margin-top:5px; background-color: ${ backColor };">
               <div class="col-xs-10 col-sm-10">
                 <div class="row" style="padding: 8px 0;">
                     <div class="col-xs-12 col-sm-9"> <em>${ vin.APPELLATION } &#10687; ${ vin.CEPAGE } &#10687; ${ vin.ANNEE }&nbsp;&#10687;&nbsp;${ vin.COULEUR }</em></div>
@@ -111,6 +111,10 @@ function displayJSONinHTML()
 
     htmlElems +=`
     <div class="row" style="margin-top: 20px;">
+      <div class="col-xs-8  col-sm-10 text-right">nombre de bouteilles commandées</div>
+      <div class="col-xs-4  col-sm-2  text-center"><p style="padding-right:30px;" id="nbBouteilles" class="text-right">0</p></div>
+    </div>
+    <div class="row">
       <div class="col-xs-8  col-sm-10 text-right">total des bouteilles commandées (CHF)</div>
       <div class="col-xs-4  col-sm-2  text-center"><p style="padding-right:30px;" id="total1" class="text-right">0.00</p></div>
     </div>
@@ -221,13 +225,20 @@ function calculTotal()
   var bouteilles = document.getElementsByClassName( "cptBouteilles" );
   var total1 = document.getElementById( "total1" );
   var total2 = document.getElementById( "total2" );
+  var nbBouteilles = document.getElementById( "nbBouteilles" );
 
   let prixTotal = 0;
+  let nbBouteillesCpt = 0;
   for( let i=0; i<bouteilles.length; i++ )
   {
-    let prix = bouteilles[ i ].name.split( " | " )[ 1 ];
-    prixTotal += prix * bouteilles[ i ].value;
+    if( bouteilles[ i ].value != "" )
+    {
+      let prix = bouteilles[ i ].name.split( " | " )[ 1 ];
+      nbBouteillesCpt += parseInt( bouteilles[ i ].value );
+      prixTotal += prix * bouteilles[ i ].value;
+    }
   }
+  nbBouteilles.innerHTML = nbBouteillesCpt;
   total1.innerHTML = prixTotal.toFixed( 2 );
   total2.innerHTML = "<strong>" + (prixTotal + fraisDePort).toFixed( 2 ) + "</strong>";
 }

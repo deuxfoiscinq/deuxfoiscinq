@@ -15,7 +15,7 @@ import os
 scriptPath = os.path.dirname(__file__)
 os.chdir(scriptPath)
 
-excelFileName = 'carte-des-vins.xlsm'
+excelFileName = 'carte-des-vins.xlsx'
 jsonFileName = 'carte-des-vins.json'
 
 print('\n\n\nConversion de %s en %s' % (excelFileName, jsonFileName))
@@ -71,12 +71,13 @@ for i_, r_ in vignerons.loc[vignerons.ID_VIGNERON > 0].iterrows():
     v_ = ',\n'.join(li_v)
 
     li_s.append(('    {\n'
+                 '        "ID_VIGNERON": "%s",\n' +
                  '        "DOMAINE": "%s",\n' +
                  '        "CAVE": "%s",\n' +
                  '        "NOM": "%s",\n' +
                  '        "URL": "%s",\n' +
                  '        "VINS": [\n%s\n        ]\n    }'
-                 ) % (r_.DOMAINE, r_.CAVE, r_.NOM, r_.URL, v_))
+                 ) % (r_.ID_VIGNERON, r_.DOMAINE, r_.CAVE, r_.NOM, r_.URL, v_))
 
 
 s_ = '[\n' + ',\n'.join(li_s) + '\n]'
