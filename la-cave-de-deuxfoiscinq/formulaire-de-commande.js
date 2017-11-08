@@ -115,7 +115,7 @@ function displayJSONinHTML()
       <div class="col-xs-4  col-sm-2  text-center"><p style="padding-right:30px;" id="nbBouteilles" class="text-right">0</p></div>
     </div>
     <div class="row">
-      <div class="col-xs-8  col-sm-10 text-right">total des bouteilles commandées (CHF)</div>
+      <div class="col-xs-8  col-sm-10 text-right">total de la commande (CHF)</div>
       <div class="col-xs-4  col-sm-2  text-center"><p style="padding-right:30px;" id="total1" class="text-right">0.00</p></div>
     </div>
     <div class="row">
