@@ -458,7 +458,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "12.80",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -468,114 +468,6 @@
                 "ANNEE": 2015,
                 "COULEUR": "blanc",
                 "PRIX": "18.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            }
-        ]
-    },
-    {
-        "ID_VIGNERON": "12",
-        "DOMAINE": "soral",
-        "CAVE": "domaine de la mermière",
-        "NOM": "yves batardon",
-        "URL": "http://www.mermiere.ch",
-        "VINS": [
-            {
-                "ID_VIN": "41",
-                "APPELLATION": "soral",
-                "CEPAGE": "chasselas vielles vignes",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "6.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "42",
-                "APPELLATION": "soral",
-                "CEPAGE": "pinot blanc ",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "9.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "43",
-                "APPELLATION": "soral",
-                "CEPAGE": "kern blanc",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "12.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "44",
-                "APPELLATION": "soral",
-                "CEPAGE": "soir d'été",
-                "ANNEE": 2016,
-                "COULEUR": "rosé",
-                "PRIX": "7.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "45",
-                "APPELLATION": "soral",
-                "CEPAGE": "pinot noir",
-                "ANNEE": 2015,
-                "COULEUR": "rouge",
-                "PRIX": "9.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "46",
-                "APPELLATION": "soral",
-                "CEPAGE": "rouge-terre",
-                "ANNEE": 2016,
-                "COULEUR": "rouge",
-                "PRIX": "10.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "47",
-                "APPELLATION": "soral",
-                "CEPAGE": "noir désir",
-                "ANNEE": 2015,
-                "COULEUR": "rouge",
-                "PRIX": "13.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "48",
-                "APPELLATION": "soral",
-                "CEPAGE": "gamaret",
-                "ANNEE": 2015,
-                "COULEUR": "rouge",
-                "PRIX": "13.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "×",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "49",
-                "APPELLATION": "soral",
-                "CEPAGE": "gamay",
-                "ANNEE": 2016,
-                "COULEUR": "rouge",
-                "PRIX": "8.50",
                 "QUANTITE": "",
                 "DISPONIBLE": "×",
                 "REMARQUES": ""

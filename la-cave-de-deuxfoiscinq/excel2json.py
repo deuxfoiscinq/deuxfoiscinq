@@ -37,7 +37,7 @@ def nan2EmptyStringPrix(input):
 
 
 data = pd.read_excel(open(excelFileName, 'rb'),
-                     sheetname=['VIGNERONS', 'CARTE-DES-VINS'])
+                     sheet_name=['VIGNERONS', 'CARTE-DES-VINS'])
 
 vins = data['CARTE-DES-VINS']
 vignerons = data['VIGNERONS']
