@@ -199,7 +199,7 @@ santé ! conservation et …dans quinze jours pour un nouveau blog
 
 ### [lundi 20 novembre 2017](#lundi-20-novembre-2017)
 
-<p><a href="../images/cep-by-cep/2017-11-20couleur1000x500.jpg.jpg"><img src="../images/cep-by-cep/2017-11-20couleur1000x500.jpg.jpg" alt="couleur" /></a></p>
+<p><a href="../images/cep-by-cep/2017-11-20couleur1000x500.jpg"><img src="../images/cep-by-cep/2017-11-20couleur1000x500.jpg" alt="couleur" /></a></p>
 
 de la cave au verre !
 la vigne prend ses quartiers d’hier
@@ -209,7 +209,7 @@ cette explosion de couleurs
 c’est que maintenant dans l’antre de leur cave, ils sont préoccupés par l’explosion des
 saveurs
 
-<p><a href="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg.jpg"><img src="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg.jpg" alt="miseenbouteille" /></a></p>
+<p><a href="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg"><img src="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg" alt="miseenbouteille" /></a></p>
 
 le blanc a finit sa fermentation alcoolique après quinze jours de cuve
 on chauffe la cave à 20° pour aider au démarrage de la fermentation malolactique
@@ -222,6 +222,6 @@ ou le fût, mais non sans surveillance régulière
 
 pendant ce temps, la vigne s’endore
 
-<p><a href="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg.jpg"><img src="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg.jpg" alt="vignerepos" /></a></p>
+<p><a href="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg"><img src="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg" alt="vignerepos" /></a></p>
 {: .align-center }
 ❧
