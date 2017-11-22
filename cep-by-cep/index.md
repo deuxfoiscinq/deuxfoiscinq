@@ -197,6 +197,31 @@ afin de metrre un point final à l’histoire du grain au verre !
 c’est l’histoire d’un *autre grain et d’un autre verre*
 santé ! conservation et …dans quinze jours pour un nouveau blog
 
+### [lundi 20 novembre 2017](#lundi-20-novembre-2017)
 
+<p><a href="../images/cep-by-cep/2017-11-20couleur1000x500.jpg.jpg"><img src="../images/cep-by-cep/2017-11-20couleur1000x500.jpg.jpg" alt="couleur" /></a></p>
+
+de la cave au verre !
+la vigne prend ses quartiers d’hier
+les chemins entre les charmus sont parcourus par de très nombreux promeneurs qui pris
+d’iphomaniaqueriephotos pour ce paysage aux reflets d’or en oublient le labeur nécessaire à
+cette explosion de couleurs
+c’est que maintenant dans l’antre de leur cave, ils sont préoccupés par l’explosion des
+saveurs
+
+<p><a href="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg.jpg"><img src="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg.jpg" alt="miseenbouteille" /></a></p>
+
+le blanc a finit sa fermentation alcoolique après quinze jours de cuve
+on chauffe la cave à 20° pour aider au démarrage de la fermentation malolactique
+tous les jours, il faut soutirer au robinet dégustateur (ou guillon s’il est en bois)
+on vérifie du nez qu’il n’y a pas d’odeurs qui ne sont pas celles du raisin
+en chutant la cuve (en aérant le vin par transfert dans une autre cuve ou en diffusant un peu
+d’oxigène dedans)
+pendant ce temps, après chutage du rouge, celui-ci s’occupe et prend ses aises dans la cuve
+ou le fût, mais non sans surveillance régulière
+
+pendant ce temps, la vigne s’endore
+
+<p><a href="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg.jpg"><img src="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg.jpg" alt="vignerepos" /></a></p>
 {: .align-center }
 ❧
