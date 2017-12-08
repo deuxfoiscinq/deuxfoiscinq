@@ -39,7 +39,7 @@ les notes salines le destine à accompagner une terrine ou un poisson
 un assemblage de chasselas et de kerner qui rappelle qu'il n'y a pas que le sauternes pour enjoliver le foie gras, un bleu ou les célèbres bananes aux zestes de citron vert et d'orange de *girardet*
 
 ## oratoria 2014
-le gamaret et le garanoir font bon ménage
+le gamaret et le garanoir font bon ménage ici
 agréable, fruité, il tapisse bien et supportera le poivre vert ou les morilles
 
 
