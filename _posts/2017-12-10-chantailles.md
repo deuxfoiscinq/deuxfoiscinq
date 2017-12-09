@@ -2,7 +2,7 @@
 layout: post
 title: Tartegnin - Domaine des Chantailles
 vigneron: Jean-François Déruaz
-etiquette: /images/2017-11-15-mermiere/mermiereetiquette500x950.jpg
+etiquette: /images/2017-12-10-chantailles/etiquette500x950.jpg
 teaser: "*tout de suite quelqu'un de sympa, cordial, pas compliqué au look d'ingénieur et il l'est ingénieur de *changins*, sympa, cordial et pas compliqué"
 mots-cles: [tartegnin, la côte, domaine, vigneron]
 categories: blog
@@ -10,14 +10,14 @@ date:     2017-12-10T14:00:00+02:00
 modified: 2017-12-10T14:00:00+02:00
 published: false
 image:
-  feature: /images/2017-11-15-mermiere/mermierechateau1900x800-2.jpg
+  feature: /images/2017-12-10-chantailles/enseigne1900x1000.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
 ![Jean-François Déruaz – Tartegnin – Domaine des Chantailles][i1]{: style="width:50%; margin-left:25%;" }
 
-[i1]: ../../images/2017-11-15-mermiere/mermierevigneron1000x1800.jpg
+[i1]: ../../images/2017-12-10-chantailles/vigneron1000x1800.jpg
 
 ## le vigneron
 un vrai vigneron encaveur j’en ai rencontré un à tartegnin : jean-françois déruaz
@@ -64,12 +64,12 @@ par l’autoroute, tu sors à *rolle* et tu prends la direction de *bursins*
 au premier giratoire, tu tournes à gauche et tu vas en direction de *genève*
 quand tu vois un giratoire surmonté d’une gigantesque grappe de raisin soulignée du nom de *tartegnin* tu tournes à droite et t’es au *domaine des chantailles*
 
+/images/2017-12-10-chantailles/tartegnin1900x1000.jpg
 
 ## le resto
 > Café-Restaurant Le Serpolet
 > 1180 Tartegnin
 > 021.825 18 17
-
 
 ## sympa
 pour une soirée sympa, il y a une salle bien équipée où tu pourras recevoir tes amis comme à la maison au milieu des vignes et des bouteilles
