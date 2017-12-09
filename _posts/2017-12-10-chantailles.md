@@ -31,7 +31,7 @@ de ses 14 cépages, il fait 13 vins et il contrôle tout de la vigne à la boute
 frais minéral un bon goût de chasselas bien de chez nous
 à l'apéro ou avec un filet de perche du *serpolet*
 
-### pinot blanc 2016
+### sonate pinot blanc 2016
 bien équilibré, fruité, avec du caractère, un peu sec
 les notes salines le destine à accompagner une terrine ou un poisson
 
