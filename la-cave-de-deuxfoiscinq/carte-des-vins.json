@@ -458,7 +458,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "12.80",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             },
             {
@@ -500,7 +500,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "9.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -511,7 +511,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -533,7 +533,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "9.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -544,7 +544,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "10.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -577,7 +577,60 @@
                 "COULEUR": "rouge",
                 "PRIX": "8.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "ID_VIGNERON": "13",
+        "DOMAINE": "tartegnin",
+        "CAVE": "domaine des chantailles",
+        "NOM": "jean-françois déruaz",
+        "URL": "https://chantailles.ch",
+        "VINS": [
+            {
+                "ID_VIN": "50",
+                "APPELLATION": "tartegnin",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "7.20",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "50",
+                "APPELLATION": "tartegnin",
+                "CEPAGE": "sonate",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "10.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "50",
+                "APPELLATION": "tartegnin",
+                "CEPAGE": "romance",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "20.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "50",
+                "APPELLATION": "tartegnin",
+                "CEPAGE": "oratorio",
+                "ANNEE": 2014,
+                "COULEUR": "rouge",
+                "PRIX": "11.25",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             }
         ]
