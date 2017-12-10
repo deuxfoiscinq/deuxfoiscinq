@@ -3,7 +3,7 @@ layout: post
 title: Tartegnin - Domaine des Chantailles
 vigneron: Jean-François Déruaz
 etiquette: /images/2017-12-10-chantailles/etiquette500x950.jpg
-teaser: "*tout de suite quelqu'un de sympa, cordial, pas compliqué au look d'ingénieur et il l'est ingénieur de changins, sympa, cordial et pas compliqué"
+teaser: "tout de suite quelqu'un de sympa, cordial, pas compliqué au look d'ingénieur et il l'est ingénieur de *changins*, sympa, cordial et pas compliqué"
 mots-cles: [tartegnin, la côte, domaine, vigneron]
 categories: blog
 date:     2017-12-10T14:00:00+02:00
