@@ -1,4 +1,4 @@
-#!/Users/steiner/anaconda3/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 Created on Sun Nov  5 18:44:02 2017
@@ -10,11 +10,27 @@ Created on Sun Nov  5 18:44:02 2017
 """
 
 import pandas as pd
-
 import os
+from packaging import version
+import sys
+
 scriptPath = os.path.dirname(__file__)
 os.chdir(scriptPath)
 
+
+# %%
+PANDAS_MIN_VERSION = "0.21.0"
+if version.parse(pd.__version__) < version.parse(PANDAS_MIN_VERSION):
+    print("\n\nLa version de Pandas installée est %s" % (pd.__version__))
+    print("La version minimale est %s" % (PANDAS_MIN_VERSION))
+    print("Pour installer la dernière version de Pandas,")
+    print("utiliser la commande suivante :\n")
+    print("conda update pandas")
+    print("\n\n\n")
+    sys.exit()
+
+
+# %%
 excelFileName = 'carte-des-vins.xlsx'
 jsonFileName = 'carte-des-vins.json'
 
@@ -22,6 +38,7 @@ print('\n\n\nConversion de %s en %s' % (excelFileName, jsonFileName))
 print('\n\nENREGISTRE LE FICHIER EXCEL AVANT DE COMMENCER !\n\n')
 
 
+# %%
 def nan2EmptyString(input):
     if pd.isnull(input):
         return ''
@@ -29,6 +46,7 @@ def nan2EmptyString(input):
         return input
 
 
+# %%
 def nan2EmptyStringPrix(input):
     if pd.isnull(input):
         return ''
@@ -36,6 +54,7 @@ def nan2EmptyStringPrix(input):
         return '{:0.2f}'.format(input)
 
 
+# %%
 data = pd.read_excel(open(excelFileName, 'rb'),
                      sheet_name=['VIGNERONS', 'CARTE-DES-VINS'])
 
