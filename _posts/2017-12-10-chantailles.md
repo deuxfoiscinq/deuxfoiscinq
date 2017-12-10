@@ -3,7 +3,7 @@ layout: post
 title: Tartegnin - Domaine des Chantailles
 vigneron: Jean-François Déruaz
 etiquette: /images/2017-12-10-chantailles/etiquette500x950.jpg
-teaser: "*tout de suite quelqu'un de sympa, cordial, pas compliqué au look d'ingénieur et il l'est ingénieur de *changins*, sympa, cordial et pas compliqué"
+teaser: "*tout de suite quelqu'un de sympa, cordial, pas compliqué au look d'ingénieur et il l'est ingénieur de changins, sympa, cordial et pas compliqué"
 mots-cles: [tartegnin, la côte, domaine, vigneron]
 categories: blog
 date:     2017-12-10T14:00:00+02:00
@@ -22,7 +22,7 @@ image:
 ## le vigneron
 un vrai vigneron encaveur j’en ai rencontré un à tartegnin : jean-françois déruaz
 tout de suite, quelqu’un de sympa, cordial, pas compliqué au look d’ingénieur
-et il l’est ingénieur de changins, sympa, cordial et pas compliqué
+et il l’est ingénieur de *changins*, sympa, cordial et pas compliqué
 il aime ses vignes et ne confiera à personne leur destin
 de ses 14 cépages, il fait 13 vins et il contrôle tout de la vigne à la bouteille et tes papilles t’en redemanderont
 
@@ -42,7 +42,7 @@ un assemblage de chasselas et de kerner qui rappelle qu'il n'y a pas que le saut
 le gamaret et le garanoir font bon ménage ici
 agréable, fruité, il tapisse bien et supportera le poivre vert ou les morilles
 
-> Tu peux commander les vins ci-dessous dans la cave de [www.deuxfoiscinq](http://deuxfoiscinq.ch/la-cave-de-deuxfoiscinq/#vigneron-13)
+> Tu peux commander les vins ci-dessus dans la cave de [www.deuxfoiscinq](http://deuxfoiscinq.ch/la-cave-de-deuxfoiscinq/#vigneron-13)
 
 ## découvrir
 avec ton caddie, telle une gueule gargantuesque, tu te promènes au travers des étals du hypersuperplusmarché
