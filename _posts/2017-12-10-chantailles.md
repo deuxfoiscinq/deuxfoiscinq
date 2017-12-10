@@ -64,7 +64,9 @@ par l’autoroute, tu sors à *rolle* et tu prends la direction de *bursins*
 au premier giratoire, tu tournes à gauche et tu vas en direction de *genève*
 quand tu vois un giratoire surmonté d’une gigantesque grappe de raisin soulignée du nom de *tartegnin* tu tournes à droite et t’es au *domaine des chantailles*
 
-../../images/2017-12-10-chantailles/tartegnin1900x1000.jpg
+![rond-point – tartegnin – chantailles][i2]
+
+[i2]: ../../images/2017-12-10-chantailles/tartegnin1900x1000.jpg
 
 ## le resto
 > Café-Restaurant Le Serpolet
