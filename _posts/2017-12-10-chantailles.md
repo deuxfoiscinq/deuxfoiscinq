@@ -13,6 +13,7 @@ image:
   feature: /images/2017-12-10-chantailles/enseigne1900x1000.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
+redirect_from: "/blog/aigle-domaine-de-la-baudliere/"
 ---
 
 ![Jean-François Déruaz – Tartegnin – Domaine des Chantailles][i1]{: style="width:50%; margin-left:25%;" }
