@@ -3,7 +3,7 @@ layout: post
 title: Concise — Cave Du Pasquier
 vigneron: Martial Du Pasquier
 etiquette: /images/2017-05-10-dupasquier/etiquette-569x1000.jpg
-teaser: "...il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
+teaser: "...il y a quarante ans on disait que les blancs d’ici rayaient les vitres mais aujourd’hui, tu ne les railleras plus, ils sont bons, élégants et t’auras tant de plaisir à les déguster !"
 mots-cles: [Bonvillars, Concise, vigneron]
 categories: blog
 date:     2017-05-10T14:00:00+02:00
@@ -37,7 +37,7 @@ fruité, un bon goût de chasselas
 idéal à l’apéro ou avec un poisson du lac
 
 ### chasselas vieilles vignes
-un vrai régal ! chaque lampée t’apporte son lot de surprises : gras avec du fruit, de la longueur… du plaisir
+un vrai régal ! chaque lampée t’apporte son lot de surprises : gras avec du fruit, de la longueur… du plaisir
 à l’apéro ou avec un ragoût d’asperges et une mayonnaise au citron vert et gingembre
 
 ### pinot gris
@@ -55,7 +55,7 @@ plein de soleil, un vrai œil de perdrix digne des plus grands
 très sympa et surprenant
 plutôt pour finir un repas ou avec un dessert très doux
 
-## qui ?
+## qui ?
 > Cave
 > Martial Du Pasquier
 > Propriétaire encaveur

@@ -18,7 +18,7 @@ elle aime bien se faire dorloter et se laisser caresser par les doux rayons du s
 la journée vous les ne voyez pas, ils sont courbés dans leur vigne et disparaissent derrière les bois et les feuilles
 et le week-end ils sont dans les caveaux à votre disposition
 quand on longe les vignes, on ne voit personne sauf par temps de pluie où quelques points jaunes ou rouges te signalent qu’il y a un vigneron tout près dedans
-c’est vrai que pour le commun des mortels le vigneron regarde sa vigne pousser, mûrir ses raisins, déguste ses vins et vend ses bouteilles… bref il se les roule sauf les soirs d’orage et de grêle ou quand il chasse la suzuki
+c’est vrai que pour le commun des mortels le vigneron regarde sa vigne pousser, mûrir ses raisins, déguste ses vins et vend ses bouteilles… bref il se les roule sauf les soirs d’orage et de grêle ou quand il chasse la *suzuki*
 …et pis il y a les vendanges !
 
 ben c’est pas si simple
@@ -35,7 +35,7 @@ tout est gris
 personne dans la rue
 un bruit d’enfer un tracasset qui se met à l’abri
 il fait froid il pleuvine
-une porte grince la cave est presque vide
+une porte grince, la cave est presque vide
 les tonneaux semblent heureux de nous voir
 on prend la sonde et on prélève un peu du travail accompli
 …et c’est là que l’on peut enfin savoir
@@ -44,9 +44,10 @@ on prend la sonde et on prélève un peu du travail accompli
 
 <p><a href="../images/cep-by-cep/2017-02-10.jpg"><img src="../images/cep-by-cep/2017-02-10.jpg" alt="vigneron au travail" /></a></p>
 
-premiers travaux dans le **charmus** mis à ma disposition par didier imhof ([cf blog du 10.01.2017](../blog/rivaz-cave-des-dolles/)) domaine des *dolles* à *saint-saphorin* au lieu dit *les fosses*
-didier pratique la taille en **guyot** (cela consiste à laisser un seul sarment qui sera le porte-fruit lors du palissage) et un peu en **gobelet** (échalas)
-il coupe les vieux sarments, j’enlève les bois, on nettoie les branches à fruits, on **palisse** pas facile de plier les bois faut faire attention à ne pas les casser lorsqu’on les attache sur le fil porteur avec une espèce d’agrafeuse-dérouleuse de ruban
+premiers travaux dans le **charmus** mis à ma disposition par *didier imhof* ([cf. blog du 10.01.2017](../blog/rivaz-cave-des-dolles/)) domaine des *dolles* à *saint-saphorin* au lieu-dit *les fosses*
+*didier* pratique la taille en **guyot** (cela consiste à laisser un seul sarment qui sera le porte-fruit lors du palissage) et un peu en **gobelet** (échalas)
+il coupe les vieux sarments, j’enlève les bois, on nettoie les branches à fruits, on **palisse**
+pas facile de plier les bois faut faire attention à ne pas les casser lorsqu’on les attache sur le fil porteur avec une espèce d’agrafeuse-dérouleuse de ruban
 
 ### [mardi 11 avril 2017](#mardi-11-avril-2017)
 
@@ -68,14 +69,14 @@ heureusement pas de dégâts du côté de *saint-saph*
 
 <p><a href="../images/cep-by-cep/2017-05-03.jpg"><img src="../images/cep-by-cep/2017-05-03.jpg" alt="attache jeune sarment" /></a></p>
 
-on attache les jeunes sarments aux fils porteurs cette opération sera renouvellée dans quinze jours et suivie régulièrement tant que la vigne pousse
+on attache les jeunes sarments aux fils porteurs cette opération sera renouvelée dans quinze jours et suivie régulièrement tant que la vigne pousse
 avec la sécheresse, la vigne a eu soif, elle n’est pas la seule d’ailleurs, on a dû arroser principalement les jeunes pieds
 
 ### [lundi 15 mai 2017](#lundi-15-mai-2017)
 
 <p><a href="../images/cep-by-cep/2017-05-15.jpg"><img src="../images/cep-by-cep/2017-05-15.jpg" alt="traitement des vignes" /></a></p>
 
-tel une abeille, le vigneron va de cep en cep
+telle une abeille, le vigneron va de cep en cep
 on entend le bourdonnement de la machine qui applique le traitement contre le **mildiou** et l’**oïdium** et avec une oreille attentive, on entend plusieurs abeilles mais on les voit pas
 les coteaux ont changé de manteau : du brun pour la pluie, ils ont mis le loden vert
 on attache les sarments qui ont poussé depuis la dernière fois
@@ -100,9 +101,9 @@ le long des murs les fleurs du merlot ont éclos
 
 <p><a href="../images/cep-by-cep/2017-06-06.jpg"><img src="../images/cep-by-cep/2017-06-06.jpg" alt="vignes de Rivaz" /></a></p>
 
-après un week end de la pentecôte avec des orages et des rayons de soleil, nous revoilà au pied du charmus
+après un week-end de la *pentecôte* avec des orages et des rayons de soleil, nous revoilà au pied du charmus
 il faut rebioler et attacher les sarments qui ont poussé
-la vigne a depuis quelques temps retrouvé sa vigueur et son ardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
+la vigne a depuis quelque temps retrouvé sa vigueur et son ardeur qui nous motive sous une roille terrible d’autant plus effrayante qu’il fait presque nuit bien qu’on soit près des quatre chiffres ! trempés comme des soupes, on est bien content du travail accompli de nombreuses grappes portent déjà des fruits et que la **coulure** est faible (*en passant la petite grappe dans la main, seuls les fruits restent accrochés et des petits bouts de capuchons, d’étamines ou de pistils tombent et forment la coulure*)
 
 ### [mardi 20 juin 2017](#mardi-20-juin-2017)
 
@@ -140,25 +141,24 @@ l’hélicoptère fait ses dernières rondes, on laisse la nature faire son trav
 
 <p><a href="../images/cep-by-cep/2017-09-20chariot-1000x500.jpg"><img src="../images/cep-by-cep/2017-09-20chariot-1000x500.jpg" alt="tracasset" /></a></p>
 
-déjà quelques flocons se sont posés sur le haut du gramont
+déjà quelques flocons se sont posés sur le haut du *gramont*
 à quelques jours des vendanges, la fièvre monte alors que la température nous rappelle que nous sommes bientôt en automne
-il y a peu, on a enlevé les feuilles jaunies qui empèchent jean rosset de déposer sa poudre d'or sur les grains dont l'embonpoint nous réjouit
+il y a peu, on a enlevé les feuilles jaunies qui empêchent *jean rosset* de déposer sa poudre d’or sur les grains dont l’embonpoint nous réjouit
 
 <p><a href="../images/cep-by-cep/2017-09-20grappe20.09-1000x500.jpg"><img src="../images/cep-by-cep/2017-09-20grappe20.09-1000x500.jpg" alt="grappe" /></a></p>
 
-les grappes de rouge ont enfilé leur habit blanc pour échapper à la suzukii qui voit que rouge
+les grappes de rouge ont enfilé leur habit blanc pour échapper à la *suzuki* qui voit que rouge
 
 <p><a href="../images/cep-by-cep/2017-09-20rouge20-1000x500.jpg"><img src="../images/cep-by-cep/2017-09-20rouge20-1000x500.jpg" alt="grappe" /></a></p>
 
-le vigneron, pour cacher son inquiétude, consulte plus que d'habitude la météo sur son portable et prépare sa cave pour recevoir la vendange en nettoyant précautionneusement les cuves et le pressoir
+le vigneron, pour cacher son inquiétude, consulte plus que d’habitude la météo sur son portable et prépare sa cave pour recevoir la vendange en nettoyant précautionneusement les cuves et le pressoir
 ça doit être nickel pour accueillir le nectar
 
 ### [vendredi 20 octobre 2017](#vendredi-20-octobre-2017)
 
 <p><a href="../images/cep-by-cep/2017-10-20fouloir2-1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20fouloir2-1000x500.jpg" alt="fouloir2" /></a></p>
 
-les grappes de raisin blanc récoltées sont versées dans le **fouloir** et prennent le chemin
-du pressoir qui les transforment en moût qui sera mis en cuve
+les grappes de raisin blanc récoltées sont versées dans le **fouloir** et prennent le chemin du pressoir qui les transforme en moût qui sera mis en cuve
 
 <p><a href="../images/cep-by-cep/2017-10-20moutpresse.1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20moutpresse.1000x500.jpg" alt="mout" /></a></p>
 
@@ -168,60 +168,47 @@ provoquer la **fermentation alcoolique** (FA)
 
 <p><a href="../images/cep-by-cep/2017-10-20cuve1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20cuve1000x500.jpg" alt="cuve" /></a></p>
 
-les cuves sont surveillées régulièrement tous les jours ainsi que la température qui ne doit
-pas dépasser 13° et cela peut durer cinq à six semaines
-une fois terminée, on recape les cuves et on chauffe la cave à 20° pour lancer la
-**fermentation malolactique** (malo)
-en principe, la malo est terminée à fin décembre … enfin si le vin veut bien se mettre à
-travailler, période où l’on va abaisser la température de la cave à 0°
+les cuves sont surveillées régulièrement tous les jours ainsi que la température qui ne doit pas dépasser 13°C et cela peut durer cinq à six semaines
+une fois terminée, on recape les cuves et on chauffe la cave à 20°C pour lancer la **fermentation malolactique** (malo)
+en principe, la malo est terminée à fin décembre … enfin si le vin veut bien se mettre à travailler, période où l’on va abaisser la température de la cave à 0°C
 … et ce sera la mise en bouteilles en général entre décembre et avril
 … et enfin on pourra le déguster ce 2017
 
 <p><a href="../images/cep-by-cep/2017-10-20cuverouge1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20cuverouge1000x500.jpg" alt="cuverouge" /></a></p>
 
-pour le vin rouge, on égrappe et on met les grains dans le cuvage accompagnés de  levures
-sélectionnées et naturelles
-après une semaine environ, on presse la masse et le jus attend durant une semaine dans une
-cuve pour permettre aux lies de se déposer sur le fond
+pour le vin rouge, on égrappe et on met les grains dans le cuvage, accompagnés de levures sélectionnées et naturelles
+après une semaine environ, on presse la masse et le jus attend durant une semaine dans une cuve pour permettre aux lies de se déposer sur le fond
 puis soit ce moût reste en cuve, soit il passe en barriques
-la cave est chauffée à 20° durant six à huit semaines
-et selon, après six, huit ou douze mois voire dix-huit mois on passe à la mise en bouteille et
-en verres au carnotzet
+la cave est chauffée à 20°C durant six à huit semaines
+et selon, après six, huit ou douze mois, voire dix-huit mois on passe à la mise en bouteille et en verres au carnotzet
 
 <p><a href="../images/cep-by-cep/2017-10-20barrique1000x500.jpg"><img src="../images/cep-by-cep/2017-10-20barrique1000x500.jpg" alt="barrique" /></a></p>
 
-durant tous ces jours de la grappe à la bouteille, le vigneron passera tout son temps à
-surveiller les cuves ou les barriques, vérifier la température ou soigner l’évolution de ce vin
-afin de metrre un point final à l’histoire du grain au verre !
-… et pendant ce temps, la vigne se repose, s’endormira et repartira de plus belle… mais ça
-c’est l’histoire d’un *autre grain et d’un autre verre*
-santé ! conservation et …dans quinze jours pour un nouveau blog
+durant tous ces jours de la grappe à la bouteille, le vigneron passera tout son temps à surveiller les cuves ou les barriques, vérifier la température ou soigner l’évolution de ce vin afin de mettre un point final à l’histoire du grain au verre !
+… et pendant ce temps, la vigne se repose, s’endormira et repartira de plus belle… mais ça c’est l’histoire d’un *autre grain et d’un autre verre*
+santé ! conservation et …dans quinze jours pour un nouveau blog
 
 ### [lundi 20 novembre 2017](#lundi-20-novembre-2017)
 
 <p><a href="../images/cep-by-cep/2017-11-20couleur1000x500.jpg"><img src="../images/cep-by-cep/2017-11-20couleur1000x500.jpg" alt="couleur" /></a></p>
 
-de la cave au verre !
-la vigne prend ses quartiers d’hier
-les chemins entre les charmus sont parcourus par de très nombreux promeneurs qui pris
-d’iphomaniaqueriephotos pour ce paysage aux reflets d’or en oublient le labeur nécessaire à
-cette explosion de couleurs
-c’est que maintenant dans l’antre de leur cave, ils sont préoccupés par l’explosion des
-saveurs
+de la cave au verre !
+la vigne prend ses quartiers d’hiver
+les chemins entre les charmus sont parcourus par de très nombreux promeneurs qui pris d’iphomaniaqueriephotos pour ce paysage aux reflets d’or, en oublient le labeur nécessaire à cette explosion de couleurs
+c’est que maintenant dans l’antre de leur cave, ils sont préoccupés par l’explosion des saveurs
 
 <p><a href="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg"><img src="../images/cep-by-cep/2017-11-20miseenbouteille1000x500.jpg" alt="miseenbouteille" /></a></p>
 
-le blanc a finit sa fermentation alcoolique après quinze jours de cuve
-on chauffe la cave à 20° pour aider au démarrage de la fermentation malolactique
+le blanc a fini sa fermentation alcoolique après quinze jours de cuve
+on chauffe la cave à 20°C pour aider au démarrage de la fermentation malolactique
 tous les jours, il faut soutirer au robinet dégustateur (ou guillon s’il est en bois)
 on vérifie du nez qu’il n’y a pas d’odeurs qui ne sont pas celles du raisin
-en chutant la cuve (en aérant le vin par transfert dans une autre cuve ou en diffusant un peu
-d’oxigène dedans)
-pendant ce temps, après chutage du rouge, celui-ci s’occupe et prend ses aises dans la cuve
-ou le fût, mais non sans surveillance régulière
+en chutant la cuve (en aérant le vin par transfert dans une autre cuve ou en diffusant un peu d’oxygène dedans)
+pendant ce temps, après chutage du rouge, celui-ci s’occupe et prend ses aises dans la cuve ou le fût, mais non sans surveillance régulière
 
-pendant ce temps, la vigne s’endore
+pendant ce temps, la vigne s’endort
 
 <p><a href="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg"><img src="../images/cep-by-cep/2017-11-20vignerepos1000x500.jpg" alt="vignerepos" /></a></p>
+
 {: .align-center }
 ❧

@@ -47,7 +47,7 @@ un grand vin qui supportera quelques années de garde*
 ## découverte
 ah ! oui, il élabore aussi un excellent dézaley et un assemblage rouge de 4 cépages, mais seulement en 70cl…
 
-## qui ?
+## qui ?
 > Didier Imhof
 > Route de Groussaz
 > 1071 Rivaz
@@ -65,7 +65,7 @@ coup qui tu pourras déguster en prenant place à la grande table à l’entrée
 il fait frais, c’est agréable, comme son vin
 
 ## sympa
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>et si tu vas à rivaz et que tu te promènes sur les falaises du dezaley tu trouveras sa capite où s'arrête le petit train des vignes et tu pourras même déguster un moût 2017 *grand crû de saint saphorin* !</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>et si tu vas à rivaz et que tu te promènes sur les falaises du dezaley tu trouveras sa capite où s’arrête le petit train des vignes et tu pourras même déguster un moût 2017 *grand crû de saint saphorin* !</span>
 
 ## le resto
 > Auberge de Rivaz

@@ -36,11 +36,11 @@ reconnu, il mérite d’être connu, comme ses vins !
 ### chasselas grain blanc 2015
 *un tartegnin au bon goût de terroir, équilibré
 un vrai plaisir à l’apéritif ou comme rincette*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d'argent</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’argent</span>
 
 ### œil de perdrix rosé de pinot noir 2015
 *charmeur au possible, vous satisfera aussi bien à l’apéritif que sous la tonnelle, voire avec un curry*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d'or</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’or</span>
 
 ### pinot noir château de vincy 2015
 *de différentes sélections de pinot, bourgogne, servagnin, cortaillod
@@ -51,7 +51,7 @@ très sympa, léger pourrait satisfaire ceux qui préfèrent le rouge à l’ap�
 *on imagine des grains pleins de soleil qui explosent sur le palais
 du caractère, du fruit, s’exprime magnifiquement, rond et long en bouche
 parfait avec un poisson du lac ou un filet de féra fumé*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d'or</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’or</span>
 
 
 ## découvrir
@@ -59,7 +59,7 @@ parfait avec un poisson du lac ou un filet de féra fumé*
 *une merveille – exceptionnel, enchanteur et de caractère
 une grande réussite
 sera parfait avec des sushis*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d'or</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’or</span>
 
 ## qui ?
 > Jean-Jacques Steiner

@@ -56,9 +56,9 @@ pour finir un bon repas sur une touche élégante
 le passage en fût est très discret
 
 ### millésimes 2016
-j’ai eu le privilège de les déguster à la cuve : cela s’annonce rude de bien !
+j’ai eu le privilège de les déguster à la cuve : cela s’annonce rude de bien !
 
-## qui ?
+## qui ?
 
 > Alexandre Delétraz
 > Cave des Amandiers

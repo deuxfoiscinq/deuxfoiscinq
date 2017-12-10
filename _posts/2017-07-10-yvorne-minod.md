@@ -23,7 +23,7 @@ image:
 
 ## le vigneron
 après un repas avec un ami vigneron alors qu’on pedzait et batoillait, le cuisinier maître des lieux nous rejoint et dans ces joutes oratoires, lâcha le nom d’eric minod, vigneron à yvorne
-trois jours plus tard et un « emil », je le rencontrais dans sa cave
+trois jours plus tard et un « emil », je le rencontrais dans sa cave
 c’est pas en ville que tu vas croiser un gaillard comme lui, comme *eric minod*
 il exploite le domaine familial avec son épouse et ses enfants
 simplement, il fait des vins pour lui, pour toi, pour le plaisir, savoureux qui plaisent au palais et qui remplace bien le lait

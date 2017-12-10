@@ -35,19 +35,19 @@ acidité et maturité font ici bon ménage et donnent une élégance à ce vin q
 
 ### pinot noir 2016
 un vrai pinot vaudois, équilibré et très sympa
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*mondial du pinot noir 2017 médaille d'or*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*mondial du pinot noir 2017 médaille d’or*</span>
 
 ### gamaret – garanoir 2015
 la surprise de cette première dégustation
 quelle saveur et quelle envie de prolonger la dégustation
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*diplôme millésime d'argent 2017*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*diplôme millésime d’argent 2017*</span>
 
 ## découvrir
 bien entendu son *merlot barrique 2015* (seulement en 70 cl)
 ses vins d’appellation *côtes de l’orbe* te surprendront et t’enchanteront par leur élégance, leur équilibre et leur saveur
 il est intéressant de noter ici (et c’est le professeur ès raisins qui t’en verse une) que les *côtes de l’orbe* sont une des régions vinicoles les plus séches du canton
 
-## qui ?
+## qui ?
 > Pierre-Yves Poget
 > Vigneron-encaveur
 > Cave Mirabilis

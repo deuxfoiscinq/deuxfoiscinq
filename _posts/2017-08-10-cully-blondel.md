@@ -29,34 +29,34 @@ c’est que c’est un amoureux fou du *chasselas* et que ce dernier le lui rend
 ### villette champ-noé 2016
 si comme *jean-luc* tu veux tomber amoureux du *chasselas*, bois cette potion qui a un goût de reviens-y
 à l’apéro même sans avoir soif ou avec des filets de perches au citron vert et cinq-épices
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d’argent*</span>
 
 ### épesses la perle 2016
 t’as plein la bouche de fruits et de soleil, un régal et un apéritif réussi à coup sûr
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d’argent*</span>
 
 ### calamin blanc l’arpège 2016
 oh lala, ça c’est quelque chose, une réussite et qui attendra facilement que t’aies fini le 2015 ! un *calamin* jouissif
 ce nectar appréciera un saucisson de volaille aux poireaux et curry
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d’argent*</span>
 
 ### dézaley blanc côtes des abbayes 2016
 une explosion de saveurs, excellent avec un saumon aux lentilles à l’aigre-doux
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*sélection des vins vaudois - médaille d'or*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*sélection des vins vaudois - médaille d’or*</span>
 
 ### épesses rosé la ronde 2016
 bien en bouche, enchanteur et festif qui te fera vite oublier le temps maussade et la pluie
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d'argent*</span>
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*grand prix du vin suisse 2017 - médaille d’argent*</span>
 
 ## découvrir
 son *dézaley prestige blanc 2015*
 élevé en cuve ovoïde (genre amphore) qui donnera un faste particulier aux événements marquants de ta vie (seulement en 70 cl)
 et pour le fun
 sa dôle d’épesses, surprenante appellation pour un vaudois !
-il faut savoir que ce vin provient d’un cépage cultivé à *épesses* depuis plus de cent cinquante ans, soit avant que l’appellation « dôle du *valais* » apparaisse
+il faut savoir que ce vin provient d’un cépage cultivé à *épesses* depuis plus de cent cinquante ans, soit avant que l’appellation « dôle du *valais* » apparaisse
 mais y en a point comme nous
 
-## qui ?
+## qui ?
 > Domaine Blondel
 > Jean-Luc et Louis Blondel
 > Chemin du Vigny 12

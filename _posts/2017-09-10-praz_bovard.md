@@ -54,7 +54,7 @@ sa *réserve blanche 2016 chasselas sur lie* surprendra par son ampleur et son f
 un vrai vin de gastronomie (seulement en 75 cl)
 et grain sur le *gâteau du vully*, son *freiburger 2016* aussi appelé *freisamer* (croisement entre un *sylvaner* et un *pinot gris*), cépage très rare en *suisse* (seulement en 75 cl)
 
-## qui ?
+## qui ?
 > Château de Praz
 > Marylène et Louis Bovard-Chervet
 > Rue du Château 1
