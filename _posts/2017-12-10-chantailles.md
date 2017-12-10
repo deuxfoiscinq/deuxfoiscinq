@@ -8,7 +8,7 @@ mots-cles: [tartegnin, la côte, domaine, vigneron]
 categories: blog
 date:     2017-12-10T14:00:00+02:00
 modified: 2017-12-10T14:00:00+02:00
-published: false
+published: true
 image:
   feature: /images/2017-12-10-chantailles/enseigne1900x1000.jpg
   credit: jissé
