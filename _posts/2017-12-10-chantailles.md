@@ -43,7 +43,7 @@ un assemblage de *chasselas* et de *kerner* qui rappelle qu’il n’y a pas que
 le *gamaret* et le *garanoir* font bon ménage ici
 agréable, fruité, il tapisse bien et supportera le poivre vert ou les morilles
 
-> Tu peux commander les vins ci-dessus dans la cave de [www.deuxfoiscinq](http://deuxfoiscinq.ch/la-cave-de-deuxfoiscinq/#vigneron-13)
+> tu peux commander les vins ci-dessus dans la cave de [www.deuxfoiscinq](http://deuxfoiscinq.ch/la-cave-de-deuxfoiscinq/#vigneron-13)
 
 ## découvrir
 avec ton caddie, telle une gueule gargantuesque, tu te promènes au travers des étals du hypersuperplusmarché
