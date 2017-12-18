@@ -223,7 +223,7 @@ le cep taillé, on dirait une main qui sort de terre avec un doigt qui montre le
 porte fruits qui sera palissé en mars
 les sarments sont laissés à même le sol et serviront d’engrais
 
-<p><a href="../cep-by-cep/2017-12-20cataille1000x500.jpg"><img src="../cep-by-cep/2017-12-20cataille1000x500.jpg" alt="couleur" /></a></p>
+<p><a href="../cep-by-cep/2017-12-20cestcoupe1000x500.jpg"><img src="../cep-by-cep/2017-12-20cestcoupe1000x500.jpg" alt="couleur" /></a></p>
 
 plutôt que de se les geler dehors, le vigneron s’occupe dans sa cave maintenue à 20°
 jusqu’à la fin de la malo
