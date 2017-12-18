@@ -216,7 +216,7 @@ pendant ce temps, la vigne s’endort
 <p><a href="../cep-by-cep/2017-12-20cataille1000x500.jpg"><img src="../cep-by-cep/2017-12-20cataille1000x500.jpg" alt="couleur" /></a></p>
 
 on a refait les murs, on a remonté la terre
-la *pré-taille* a été faite (on coupe le haut des sarments à la hauteur des fils) et on commence
+la **pré-taille** a été faite (on coupe le haut des sarments à la hauteur des fils) et on commence
 la taille muni d’un secateur électrique
 mais certains attendront janvier ou mars pour le faire
 le cep taillé, on dirait une main qui sort de terre avec un doigt qui montre le ciel : c’est le
@@ -227,8 +227,8 @@ les sarments sont laissés à même le sol et serviront d’engrais
 
 plutôt que de se les geler dehors, le vigneron s’occupe dans sa cave maintenue à 20°
 jusqu’à la fin de la malo
-tous les jours on contrôle au nez *la franchise* des vins (on peut ainsi déceler les odeurs qui
-n’ont rien à faire dans un verre) et on fait régulièrement une *chroma* (on
+tous les jours on contrôle au nez **la franchise** des vins (on peut ainsi déceler les odeurs qui
+n’ont rien à faire dans un verre) et on fait régulièrement une **chroma** (on
 place deux gouttes de vin sur l’emplacement prévu  à cet effet sur le support de la
 chromatographie et on observe la tâche jaune – si celle-ci se trouve en haut du graphe, la
 malo est terminée – les numéros au bas correspondent aux cuves ou barriques)
