@@ -50,7 +50,7 @@
             {% when '11' %}novembre
             {% when '12' %}décembre
           {% endcase %} {{ page.date | date: '%Y' }}</time></span>
-        {% if page.modified %}<span title="date de modification" class="entry-date date modified"><time datetime="{{ page.modified | date_to_xmlschema }}"><i class="fa fa-pencil"></i> {{ page.modified | date: ' %-d' }} {% assign m = page.modified | date: "%-m" %}
+        {% if page.modified %}<span title="date de modification" class="entry-date date modified"><time datetime="{{ page.modified | date_to_xmlschema }}"><i class="fa fa-pencil"></i> {{ page.modified | date: ' %-d' }}&nbsp;{% assign m = page.modified | date: "%-m" %}
           {% case m %}
             {% when '1' %}janvier
             {% when '2' %}février
