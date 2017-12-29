@@ -36,7 +36,22 @@ image:
             {% when '10' %}octobre
             {% when '11' %}novembre
             {% when '12' %}décembre
-          {% endcase %}&#160;{{ post.date | date: '%Y' }}</time>{% if post.notif-modifs == true %}<br /><span class="notif-modifs">ARTICLE MIS À JOUR</span>{% endif %}</span>
+          {% endcase %}&#160;{{ post.date | date: '%Y' }}</time>{% if post.notif-modifs == true %}
+          <br /><span class="notif-modifs">ARTICLE MIS À JOUR<br/><time datetime="{{ post.modified | date_to_xmlschema }}">{{ post.modified | date: ' %-d' }}&#160;{% assign m = post.modified | date: "%-m" %}
+          {% case m %}
+            {% when '1' %}janvier
+            {% when '2' %}février
+            {% when '3' %}mars
+            {% when '4' %}avril
+            {% when '5' %}mai
+            {% when '6' %}juin
+            {% when '7' %}juillet
+            {% when '8' %}août
+            {% when '9' %}septembre
+            {% when '10' %}octobre
+            {% when '11' %}novembre
+            {% when '12' %}décembre
+          {% endcase %}&#160;{{ post.modified | date: '%Y' }}</time></span>{% endif %}</span>
           {% if post.vigneron %} <span class="vigneron">{{ post.vigneron | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
           {% if post.teaser %} <span class="teaser">{{ post.teaser | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}
           </a>
