@@ -37,7 +37,7 @@ image:
             {% when '11' %}novembre
             {% when '12' %}décembre
           {% endcase %}&#160;{{ post.date | date: '%Y' }}</time>{% if post.notif-modifs == true %}
-          <br /><span class="notif-modifs">ARTICLE MIS À JOUR<br/><time datetime="{{ post.modified | date_to_xmlschema }}">{{ post.modified | date: ' %-d' }}&#160;{% assign m = post.modified | date: "%-m" %}
+          <br /><span class="notif-modifs">MIS À JOUR LE&nbsp;<time datetime="{{ post.modified | date_to_xmlschema }}">{{ post.modified | date: ' %-d' }}&#160;{% assign m = post.modified | date: "%-m" %}
           {% case m %}
             {% when '1' %}janvier
             {% when '2' %}février
