@@ -52,7 +52,7 @@
                 "ID_VIN": "4",
                 "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "pinot gris",
-                "ANNEE": 2015,
+                "ANNEE": 2016,
                 "COULEUR": "blanc",
                 "PRIX": "10.50",
                 "QUANTITE": "",
@@ -74,7 +74,7 @@
                 "ID_VIN": "6",
                 "APPELLATION": "coteaux de sierre",
                 "CEPAGE": "cornalin",
-                "ANNEE": 2015,
+                "ANNEE": 2016,
                 "COULEUR": "rouge",
                 "PRIX": "16.00",
                 "QUANTITE": "",
@@ -120,7 +120,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "10.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -182,7 +182,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "7.90",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -246,7 +246,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "9.40",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -299,7 +299,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "17.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -319,7 +319,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.10",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -352,7 +352,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "14.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -405,7 +405,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "12.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -447,7 +447,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "11.70",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -458,7 +458,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "12.80",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -608,7 +608,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -629,6 +629,70 @@
                 "ANNEE": 2014,
                 "COULEUR": "rouge",
                 "PRIX": "11.25",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "ID_VIGNERON": "14",
+        "DOMAINE": "bofflens",
+        "CAVE": "nan",
+        "NOM": "christian dugon",
+        "URL": "https://www.dugon.ch",
+        "VINS": [
+            {
+                "ID_VIN": "51",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "symphonie",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "7.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "51",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "chardonnay",
+                "ANNEE": 2015,
+                "COULEUR": "blanc",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "51",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "rosé ",
+                "ANNEE": 2016,
+                "COULEUR": "rosé",
+                "PRIX": "7.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "51",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "arpège",
+                "ANNEE": 2015,
+                "COULEUR": "rouge",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "51",
+                "APPELLATION": "côtes de l'orbe",
+                "CEPAGE": "gamaret",
+                "ANNEE": 2014,
+                "COULEUR": "rouge",
+                "PRIX": "11.50",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
