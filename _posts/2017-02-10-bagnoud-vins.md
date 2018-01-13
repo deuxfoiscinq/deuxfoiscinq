@@ -8,7 +8,7 @@ description-courte: "Nicolas, Simon et Régis Bagnoud — Vignerons-encaveurs �
 mots-cles: [pinot gris 2015, chenin blanc 2015, pinot noir valençon 2015, pinot noir l’ormy 2015, cornalin 2015]
 categories: blog
 date:     2017-02-10T14:00:00+01:00
-modified: 2017-02-20T14:00:00+01:00
+modified: 2018-01-10T14:00:00+01:00
 published: true
 image:
   feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud-1900x800.jpg
@@ -35,20 +35,21 @@ et la satisfaction d’avoir échappé à cette route gloutonne d’amortisseurs
 *long en bouche, sans agressivité malgré son jeune âge, appelle un deuxième verre
 une harmonie magique : une sauce safranée ou un curry*
 
-### chenin blanc 2015
-*une surprise! subtil et long en bouche, vin de gastronomie
+### chenin blanc 2016
+*gras, fruité, frais, élégant et qui laisse un bon goût
 se mariera parfaitement avec une cuisine asiatique ou un fromage de caractère*
 
-### pinot noir valençon 2015
-*épaulé, légèrement corsé, puissant, de couleur sombre, un très bon pinot
+### pinot noir valençon 2016
+*nez plein de jeunesse, légèrement corsé, magnifique, un vrai goût de pinot noir
 agréable il te tapissera délicatement le palais et accompagnera un tartare*
 
-### pinot noir l’ormy 2015
-*magnifique goût de cerises noires, plaisant et long malgré une couleur légèrement pâle un peu plus féminin que son copain du dessus*
+### humagne rouge 2016
+*végétal, rustique, mais très sympa et agréable
+pourrait très bien convenir pour un apéro valaisan*
 
-### cornalin 2015
-*pour moi, incontestablement le meilleur *cornalin* du *valais* pour ne pas dire le meilleur du monde !
-une pure merveille qui sublimera tous les moments qu’on lui consacrera*
+### cornalin 2016
+*un vin qui a du volume et qui mérite d'atteindre
+pour moi, cela sera toujours le meilleur *cornalin* du *valais* pour ne pas dire le meilleur du monde !*
 
 ## qui ?
 > Nicolas, Simon et Régis Bagnoud
