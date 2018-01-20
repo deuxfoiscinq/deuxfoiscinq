@@ -27,7 +27,25 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 
 ## du grain au verre
 
+<!-- 17 ************************************************* -->
+### [coup à boire, coup d'espoir - 20 janvier 2018](#samedi-20-javnier-2018)
 
+<p><a href="../cep-by-cep/dezaley2001.jpg"><img src="../cep-by-cep/dezaley2001.jpg" alt="couleur" /></a></p>
+
+bonne année en tout cas celle de 2017 le sera !
+il fait froid, il pleut, il neige ces jours
+et pourtant notre ami vigneron ne cesse d'arpenter, de grimper, d'escalader, de couper, de
+creuser, de planter, de goûter, de regoûter, de goûter à nouveau, de porter et pas
+seulement les derniers cartons qu'il doit livrer
+il ne peut même pas se réchauiffer dans sa cave, celle-ci est maintenue à zero pour clamer le
+vin
+et puis il y a l'administration, celle sympathique de l'établissement des factures et celle
+rébarbative qui demande des chiffres pour faire des statistiques et encore des statistiques
+ce métier qui alie à la fois l'artiste, le sportif, le travailleur, le créateur et le critique est celui
+du vigneron encaveur
+oui, tu peux l'aider en appréciant ses vins, en les achetant et en les buvant en pensant qu'ils
+sont plus faciles à boire qu'à faire
+... et la vigne dort toujours...
 
 <!-- 16 ************************************************* -->
 ### [mercredi 20 décembre 2017](#mercredi-20-décembre-2017)
