@@ -67,7 +67,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -235,7 +235,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "7.10",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
