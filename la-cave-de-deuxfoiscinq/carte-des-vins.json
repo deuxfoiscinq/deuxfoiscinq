@@ -14,7 +14,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": "disponible en 70cl"
             },
             {
@@ -36,7 +36,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "13.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": "élevé en fût"
             }
         ]
@@ -56,7 +56,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -78,7 +78,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "16.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -98,7 +98,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "7.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -109,7 +109,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "9.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -162,7 +162,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "13.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -193,7 +193,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -215,7 +215,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "11.10",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -257,7 +257,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "11.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -277,7 +277,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.40",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -288,7 +288,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "11.30",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -330,7 +330,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.90",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -341,7 +341,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.70",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -383,7 +383,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "8.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -394,7 +394,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "11.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -436,7 +436,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "11.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -469,7 +469,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "18.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -489,7 +489,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "6.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -522,7 +522,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "7.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -555,7 +555,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "13.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -566,7 +566,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "13.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "×",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -597,7 +597,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "7.20",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -619,7 +619,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "20.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -630,7 +630,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "11.25",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -638,7 +638,7 @@
     {
         "ID_VIGNERON": "14",
         "DOMAINE": "bofflens",
-        "CAVE": "nan",
+        "CAVE": "domaine dugon",
         "NOM": "christian dugon",
         "URL": "https://www.dugon.ch",
         "VINS": [
@@ -693,6 +693,59 @@
                 "ANNEE": 2014,
                 "COULEUR": "rouge",
                 "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "ID_VIGNERON": "15",
+        "DOMAINE": "villeneuve",
+        "CAVE": "domaine du scex du châtelard",
+        "NOM": "daniel et marc allamand",
+        "URL": "http://www.scexduchatelard.ch",
+        "VINS": [
+            {
+                "ID_VIN": "52",
+                "APPELLATION": "domaine du scex du châtelard",
+                "CEPAGE": "chasslas",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "9.20",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "52",
+                "APPELLATION": "domaine du scex du châtelard",
+                "CEPAGE": "aligoté",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "10.40",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "52",
+                "APPELLATION": "domaine du scex du châtelard",
+                "CEPAGE": "viognier",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "12.70",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "52",
+                "APPELLATION": "domaine du scex du châtelard",
+                "CEPAGE": "gamay vieilles vignes",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "10.40",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
