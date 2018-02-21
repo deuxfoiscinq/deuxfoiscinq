@@ -35,8 +35,8 @@ un millésime 2017 magnifique de fraîcheur et de rondeur
 le rouge de son côté continue gentiment son évolution très prometteuse en cuve ou dans les barriques
 
 <p><a href="../cep-by-cep/doigtpointe0218.jpg"><img src="../cep-by-cep/doigtpointe0218.jpg" alt="couleur" /></a></p>
-on contrôle l'état des murs, on surveille les ceps et l'état général de la vignes
-on remonte la terre, la taille a commencé et en partant du cep on voit un bout de sament tel un grand doigt pointé vers le ciel, c'est la branche à fruits qui sera palissée prochainement
+on contrôle l'état des murs, on surveille les ceps et l'état général de la vigne
+on remonte la terre, la taille a commencé et en partant du cep on voit un bout de sarment tel un grand doigt pointé vers le ciel, c'est la branche à fruits qui sera palissée prochainement
 on enlève les bois (anciens sarments) qui sont brûlés ou jettés à même le sol ou contre le cep pour limiter l'érosion et pour se transformer en humus
 
 <p><a href="../cep-by-cep/sarmentcoupe0218.jpg"><img src="../cep-by-cep/sarmentcoupe0218.jpg" alt="couleur" /></a></p>
