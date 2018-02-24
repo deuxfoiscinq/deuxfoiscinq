@@ -47,7 +47,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "11.51",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -58,7 +58,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "11.52",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -89,7 +89,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "10.40",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -100,7 +100,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "12.70",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
