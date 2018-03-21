@@ -1,65 +1,43 @@
 [
     {
-        "ID_VIGNERON": "14",
-        "DOMAINE": "bofflens",
-        "CAVE": "domaine dugon",
-        "NOM": "christian dugon",
-        "URL": "https://www.dugon.ch",
+        "ID_VIGNERON": "1",
+        "DOMAINE": "rivaz",
+        "CAVE": "cave des dolles",
+        "NOM": "didier imhof",
+        "URL": "http://deuxfoiscinq.ch/blog/rivaz-cave-des-dolles/",
         "VINS": [
             {
-                "ID_VIN": "51",
-                "APPELLATION": "côtes de l'orbe",
-                "CEPAGE": "symphonie",
-                "ANNEE": 2016,
+                "ID_VIN": "1",
+                "APPELLATION": "saint-saphorin",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2017,
                 "COULEUR": "blanc",
-                "PRIX": "7.00",
+                "PRIX": "10.40",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
-                "REMARQUES": ""
+                "REMARQUES": "disponible en 70cl"
             },
             {
-                "ID_VIN": "51",
-                "APPELLATION": "côtes de l'orbe",
-                "CEPAGE": "chardonnay",
-                "ANNEE": 2015,
-                "COULEUR": "blanc",
-                "PRIX": "11.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "51",
-                "APPELLATION": "côtes de l'orbe",
-                "CEPAGE": "rosé ",
-                "ANNEE": 2016,
-                "COULEUR": "rosé",
-                "PRIX": "7.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "51",
-                "APPELLATION": "côtes de l'orbe",
-                "CEPAGE": "arpège",
-                "ANNEE": 2015,
+                "ID_VIN": "2",
+                "APPELLATION": "saint-saphorin",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2017,
                 "COULEUR": "rouge",
-                "PRIX": "11.51",
+                "PRIX": "10.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             },
             {
-                "ID_VIN": "51",
-                "APPELLATION": "côtes de l'orbe",
-                "CEPAGE": "gamaret",
-                "ANNEE": 2014,
+                "ID_VIN": "3",
+                "APPELLATION": "saint-saphorin",
+                "CEPAGE": "gamaret-garanoir",
+                "ANNEE": 2017,
                 "COULEUR": "rouge",
-                "PRIX": "11.52",
+                "PRIX": "13.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
-                "REMARQUES": ""
+                "DISPONIBLE": "x",
+                "REMARQUES": "élevé en fût"
             }
         ]
     },
