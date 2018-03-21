@@ -45,7 +45,7 @@ s’imposera facilement sur une viande rouge ou un plat épicé
 un grand vin en devenir (disponible début mai)*
 
 ## découverte
-son *dézaley* 2017 est un enchantement et son assemblage rouge de 4 cépages d'un équilibre et d'une fraîcheur, un rien féminin, mais déjà avec de belles épaules
+son *dézaley* 2017 est un enchantement et son *assemblage rouge de 4 cépages* d'un équilibre et d'une fraîcheur, un rien féminin, mais déjà avec de belles épaules
 (seulement en 75cl et disponible début mai)
 
 ## qui ?
@@ -62,14 +62,13 @@ après le long bout droit qui longe le *dézaley* le panneau *rivaz* supplanté 
 en face de la *cave du grillon chaudet* et tout de suite à ta gauche (eh j’ai dit tout de suite ! bon, pas de soucis ton gps te guidera) à angle droit, une grimpée digne du tourmalet qui, en quelque cinq cents mètres, t’amène au *domaine des dolles*
 il fait beau, l’endroit est beau et quand on regarde de cet endroit au loin, l’émotion te saisit et te sèche la gorge d’un seul coup
 coup qui tu pourras déguster en prenant place à la grande table à l’entrée de la cave à côté des fûts
-il fait frais, c’est agréable, comme son vin
 
 ## le resto
-> Hôtel restaurant des Trois Couronnes
+> Hôtel Restaurant des Trois Couronnes
 > Rue d'Italie 49
 > 1800 Vevey
 > 021 923 32 00
 > [info@hoteltroiscouronnes.ch](mailto:info@hoteltroiscouronnes.ch) - [www.hoteltroiscouronnes](http://www.hoteltroiscouronnes.ch/fr/)
 
 ## sympa
-et si tu vas à *rivaz* et que tu te promènes sur les *falaises du dezaley* tu trouveras sa capite où s’arrête le petit train des vignes et tu pourras éguster ses *grands crûs de saint saphorin* !
+et si tu vas à *rivaz* et que tu te promènes sur les *falaises du dezaley* tu trouveras sa capite où s’arrête le petit train des vignes et tu pourras déguster ses *grands crûs de saint saphorin* !
