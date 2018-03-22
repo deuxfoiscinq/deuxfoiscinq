@@ -19,7 +19,7 @@ image:
 
 [![Didier Imhof][i1]][i1]
 
-[i1]: ../../images/2017-01-10-rivaz-cave-des-dolles/imhof_2.jpg
+[i1]: ../../images/2017-01-10-rivaz-cave-des-dolles/vigneron-imhof.jpg
 
 
 ## le vigneron
