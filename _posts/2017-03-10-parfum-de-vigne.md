@@ -8,7 +8,7 @@ description-courte: "Parfum de vigne - Jean-Jacques Steiner"
 mots-cles: [Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot]
 categories: blog
 date:     2017-03-10T14:00:00+01:00
-modified: 2017-08-10T14:00:00+01:00
+modified: 2017-08-10T14:00:00+02:00
 notif-modifs: true
 published: true
 image:
