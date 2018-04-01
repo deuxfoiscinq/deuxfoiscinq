@@ -11,3 +11,8 @@ Gemfile.lock
 ~*
 *nogit*
 # *-min.css
+
+
+la-cave-de-deuxfoiscinq/build/
+la-cave-de-deuxfoiscinq/compile.sh
+la-cave-de-deuxfoiscinq/excel2json.spec
