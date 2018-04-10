@@ -42,59 +42,6 @@
         ]
     },
     {
-        "ID_VIGNERON": "15",
-        "DOMAINE": "villeneuve",
-        "CAVE": "domaine du scex du châtelard",
-        "NOM": "daniel et marc allamand",
-        "URL": "http://www.scexduchatelard.ch",
-        "VINS": [
-            {
-                "ID_VIN": "52",
-                "APPELLATION": "domaine du scex du châtelard",
-                "CEPAGE": "chasslas",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "9.20",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "52",
-                "APPELLATION": "domaine du scex du châtelard",
-                "CEPAGE": "aligoté",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "10.40",
-                "QUANTITE": "",
-                "DISPONIBLE": "",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "52",
-                "APPELLATION": "domaine du scex du châtelard",
-                "CEPAGE": "viognier",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "12.70",
-                "QUANTITE": "",
-                "DISPONIBLE": "",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "52",
-                "APPELLATION": "domaine du scex du châtelard",
-                "CEPAGE": "gamay vieilles vignes",
-                "ANNEE": 2016,
-                "COULEUR": "rouge",
-                "PRIX": "10.41",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            }
-        ]
-    },
-    {
         "ID_VIGNERON": "16",
         "DOMAINE": "anières",
         "CAVE": "domaine villard & fils",
@@ -163,6 +110,48 @@
                 "ANNEE": 2016,
                 "COULEUR": "rouge",
                 "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "ID_VIGNERON": "17",
+        "DOMAINE": "le landeron",
+        "CAVE": "chantal ritter cochand",
+        "NOM": "chantal ritter",
+        "URL": "http://www.vinsrittercochand.ch",
+        "VINS": [
+            {
+                "ID_VIN": "54",
+                "APPELLATION": "le landeron",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "7.20",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "54",
+                "APPELLATION": "non filtré",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "7.20",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "54",
+                "APPELLATION": "œil-de-perdrix",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2017,
+                "COULEUR": "rosé",
+                "PRIX": "11.30",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
