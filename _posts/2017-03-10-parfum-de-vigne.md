@@ -3,12 +3,12 @@ layout: post
 title: Dully — Parfum de Vigne
 vigneron: Jean-Jacques Steiner
 etiquette: /images/2017-03-10-parfum/etiquette-prix-parfum.jpg
-teaser: "un petit coup de blanc a sauvé plus de situations, a apporté plus de solutions que l’ensemble des échanges d’ « émiles » d’aujourd’hui et en plus ça faisait du bien !..."
+teaser: "un petit coup de blanc au lieu d'envoyer un @ « émiles » c'est tellement plus simple et en plus ça fait du bien !..."
 description-courte: "Parfum de vigne - Jean-Jacques Steiner"
 mots-cles: [Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot]
 categories: blog
 date:     2017-03-10T14:00:00+01:00
-modified: 2017-08-10T14:00:00+02:00
+modified: 2018-04-20T14:00:00+02:00
 notif-modifs: true
 published: true
 image:
@@ -24,42 +24,37 @@ image:
 
 
 ## le vigneron
-à l’époque où l’on était civilisé, très souvent les problèmes se discutaient à l’heure des quatre chiffres autour de deux fois trois, parfois même plus et trouvaient à chaque fois une solution *« on coupe la poire en deux »*
-un petit coup de blanc a sauvé plus de situations, a apporté plus de solutions que l’ensemble des échanges d’ *« émiles »* d’aujourd’hui et en plus ça faisait du bien !
-certes, certains petits coups de blanc ne faisaient pas que du bien et on disait à celui qui allait se délester de faire attention aux éclaboussures car il pourrait bien ressortir avec des sandales
-mais tout à changer et les *la côte* sont aujourd’hui souvent sur la plus haute marche de la hiérarchie des blancs d’ici et de *suisse romande*, ses vignerons ayant gardé la couleur et ajouté de la saveur et de la noblesse à leurs nectars
-au milieu de ce vignoble traverser chaque jour par des milliers de gens pressés et indifférents, il y a un petit village *dully*
-dans ce petit village un grand vigneron *jean-jacques steiner* dont les très nombreuses distinctions *(Grand Prix du Vin Suisse et Grand Or au Mondial du Pinot)* ne sont que le reflet modeste d’un travail acharné, minutieux et d’un amoureux de son métier qui a un grand respect et une grande connaissance de la vigne et du vin
+à l’époque où l’on était civilisé, les problèmes se résolvaient à l’heure des quatre chiffres autour de deux fois trois, parfois même plus et trouvaient chaque fois une solution *« on coupe la poire en deux »*
+un petit coup de blanc au lieu d'envoyer un @ « émiles » c'est tellement plus simple et en plus ça fait du bien !...
+certes, certains petits coups de blanc ne faisaient pas que du bien
+mais tout à changer et les *la côte* sont souvent sur la plus haute marche des blancs d’ici et d'ailleurs, ses vignerons en ayant gardé la couleur mais ajouté de la saveur et de la noblesse ...et de la sueur
+au milieu de ce vignoble traversé chaque jour par des milliers de gens pressés et indifférents, il y a un petit village *dully*
+dans ce petit village un grand vigneron *jean-jacques steiner* dont les très nombreuses distinctions ne sont que le reflet modeste d’un travail acharné, minutieux et d’un amoureux de son métier qui a un grand respect et une grande connaissance de la vigne et du vin
 reconnu, il mérite d’être connu, comme ses vins !
 
 ## déguster
-### chasselas grain blanc 2015
+### chasselas grain blanc 2017
 *un tartegnin au bon goût de terroir, équilibré
-un vrai plaisir à l’apéritif ou comme rincette*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’argent</span>
+un plaisir à l’apéritif mais comme rincette on en redemande*
 
-### œil de perdrix rosé de pinot noir 2015
-*charmeur au possible, vous satisfera aussi bien à l’apéritif que sous la tonnelle, voire avec un curry*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’or</span>
 
-### pinot noir château de vincy 2015
-*de différentes sélections de pinot, bourgogne, servagnin, cortaillod
-un vrai vaudois, léger, parfait avec vos grillades l’été prochain et se mariera très bien avec un filet de perche
-très sympa, léger pourrait satisfaire ceux qui préfèrent le rouge à l’apéro*
+### œil de perdrix rosé de pinot noir 2017
+*charmeur au possible, te satisfera aussi bien à l’apéritif que sous la tonnelle, et son côté corsé satisfera même un curry de madras*
 
-### pinot blanc 2015
-*on imagine des grains pleins de soleil qui explosent sur le palais
-du caractère, du fruit, s’exprime magnifiquement, rond et long en bouche
+
+### pinot noir château de vincy 2017
+*cépages de différentes sélections de pinot, bourgogne, servagnin et cortaillod
+un vrai vaudois parfait avec vos grillades de cet été et tout comme avec un filet de perche du lac
+léger il pourrait satisfaire ceux qui préfèrent le rouge à l’apéro*
+
+### pinot blanc 2017
+*du caractère, du fruit, s’exprime magnifiquement bien, rond et long en bouche
 parfait avec un poisson du lac ou un filet de féra fumé*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’or</span>
+
 
 
 ## découvrir
-### pinot gris 2015
-*une merveille – exceptionnel, enchanteur et de caractère
-une grande réussite
-sera parfait avec des sushis*
-<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>grand prix suisse du vin 2017 médaille d’or</span>
+*à côté du domaine, jean-jacques steiner sultive aussi un énorme verger dont les pommes sont aussi bonnes que son vin*
 
 ## qui ?
 > Jean-Jacques Steiner
@@ -71,16 +66,7 @@ sera parfait avec des sushis*
 ## y aller
 à la sortie de *rolle* suivre durant trois kilomètres la route cantonale en direction de *genève*
 alors que le *lac léman* te tend les bras à gauche et que le clocher de *bursinel* apparaît en haut de la colline,
-après le panneau *bursinel* il y en a un autre à droite qui te mènera au *domaine parfum de vigne*
-
-## sympa
-repas gastronomique le jeudi 4 mai au restaurant du *buffet de la gare à gland* accompagné des vins présentés par *jean-jacques steiner*
-
-> Buffet de la Gare
-> José et Clémentina Fernandes
-> Route de Begnins 2
-> 1196 Gland
-> 022 354 16 20 – [hotelglanis@bluewin.ch](mailto:hotelglanis@bluewin.ch) – [www.buffet-gland.ch](http://www.hotelglanis.com)
+après le panneau *bursinel* il y en a un autre à droite qui te mènera au *domaine parfum de vigne* vas-y, jean-jacques est très sympa
 
 ## le resto
 > Auberge Communale de Gilly
@@ -88,3 +74,12 @@ repas gastronomique le jeudi 4 mai au restaurant du *buffet de la gare à gland*
 > Sur la Place
 > 1182 Gilly
 > 021 824 12 08 – [aubergegilly.ch](https://aubergegilly.ch)
+
+## sympa
+régulièrement, il organise avec restaurant *buffet de la gare à gland* un repas accompagné de ses vins qu'il présente non sans fierté*
+
+> Buffet de la Gare
+> José et Clémentina Fernandes
+> Route de Begnins 2
+> 1196 Gland
+> 022 354 16 20 – [hotelglanis@bluewin.ch](mailto:hotelglanis@bluewin.ch) – [www.buffet-gland.ch](http://www.hotelglanis.com)
