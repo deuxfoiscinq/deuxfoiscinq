@@ -27,7 +27,7 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 
 ## du grain au verre
 <!-- 19 ************************************************* -->
-### [c'est palissé et ça pousse - 20 avril 2018](#samedi-20-avril-2018)
+### [c'est palissé et ça pousse - 20 avril 2018](#vendredi-20-avril-2018)
 
 <p><a href="../cep-by-cep/guyot04-1000x500.jpg"><img src="../cep-by-cep/guyot04-1000x500.jpg" alt="couleur" /></a></p>
 il y a l’herbe à couper avant que cela ne repousse
