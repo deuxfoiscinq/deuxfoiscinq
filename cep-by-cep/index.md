@@ -29,13 +29,13 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 <!-- 19 ************************************************* -->
 ### [c'est palissé et ça pousse - 20 avril 2018](#vendredi-20-avril-2018)
 
-<p><a href="../cep-by-cep/guyot04-1000x500.jpg"><img src="../cep-by-cep/guyot04-1000x500.jpg" alt="couleur" /></a></p>
+<p><a href="../images/cep-by-cep/guyot04-1000x500.jpg"><img src="../images/cep-by-cep/guyot04-1000x500.jpg" alt="couleur" /></a></p>
 il y a l’herbe à couper avant que cela ne repousse
 et il a fallu palisser pour les vignes plantées en guyot dont les ceps sont alignés l’un derrière l’autre entre des fils tenus par des piquets, on a coupé les sarments sauf la branche à fruits qu’il s’agit à présent de plier doucement afin que l’on puisse palisser ou l’attacher au fil du bas
 de ce sarment partiront les trois à quatre pousses qui porteront les grappes
 et puis il a fallu échalasser les minages (planter des échalas et de nouveaux petits ceps)
 
-<p><a href="../cep-by-cep/jeune04-1000x500.jpg"><img src="../cep-by-cep/jeune04-1000x500.jpg" alt="couleur" /></a></p>
+<p><a href="../images/cep-by-cep/jeune04-1000x500.jpg"><img src="../images/cep-by-cep/jeune04-1000x500.jpg" alt="couleur" /></a></p>
 on continue les mises en bouteilles et on prépare les dégustations de ce nouveau millésime
 qui s’annonce déjà magnifique excellent
 on a aussi arraché les ceps foutus et planté des jeunes pousses que l’on protège avec des
