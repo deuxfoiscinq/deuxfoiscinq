@@ -2,7 +2,7 @@
 layout: page
 title: "deuxfoiscinq.ch — À la découverte des bons vins en flacon de 5 dl de la Suisse romande"
 image:
-  feature: /images/2017-00-10-vigne/fleur5-1900x800.jpg
+  feature: /images/cep-by-cep/cepbycep04-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
