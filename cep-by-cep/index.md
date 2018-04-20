@@ -26,6 +26,24 @@ bien au contraire le travail de la vigne est très exigeant et demande beaucoup 
 tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
 
 ## du grain au verre
+<!-- 19 ************************************************* -->
+### [c'est palissé et ça pousse - 20 avril 2018](#samedi-20-avril-2018)
+
+<p><a href="../cep-by-cep/guyot04-1000x500.jpg"><img src="../cep-by-cep/guyot04-1000x500.jpg" alt="couleur" /></a></p>
+il y a l’herbe à couper avant que cela ne repousse
+et il a fallu palisser
+pour les vignes plantées en guyot dont les ceps sont alignés l’un derrière l’autre entre des
+fils tenus par des piquets, on a coupé les sarments sauf la branche à fruits qu’il s’agit à
+présent de plier doucement afin que l’on puisse palisser ou l’attacher au fil du bas
+de ce sarment partiront les trois à quatre pousses qui porteront les grappes
+
+<p><a href="../cep-by-cep/jeune04-1000x500.jpg"><img src="../cep-by-cep/jeune04-1000x500.jpg" alt="couleur" /></a></p>
+on continue les mises en bouteilles et on prépare les dégustations de ce nouveau millésime
+qui s’annonce déjà magnifique excellent
+on a aussi arraché les ceps foutus et planter des jeunes pousses que l’on protège avec des
+espèces de sac pour éviter qu’elles soient boussées par des bestioles ou abîmées par la
+désherbeuse ou arrosée par un produit pas tout à fait destinée aux jeunes pousses
+
 <!-- 18 ************************************************* -->
 ### ['y a encore du boulot - 20 février 2018](#mardi-20-février-2018)
 
