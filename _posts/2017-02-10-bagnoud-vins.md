@@ -8,7 +8,7 @@ description-courte: "Nicolas, Simon et Régis Bagnoud — Vignerons-encaveurs �
 mots-cles: [pinot gris 2015, chenin blanc 2015, pinot noir valençon 2015, pinot noir l’ormy 2015, cornalin 2015]
 categories: blog
 date:     2017-02-10T14:00:00+01:00
-modified: 2018-01-10T14:00:00+01:00
+modified: 2018-04-30T14:00:00+01:00
 notif-modifs: true
 published: true
 image:
