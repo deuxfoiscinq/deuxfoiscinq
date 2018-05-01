@@ -13,7 +13,7 @@ modified: 2018-04-30T14:00:00+01:00
 notif-modifs: true
 published: true
 image:
-  feature: /images/2017-02-10-bagnoud-vins/bagnoud-enseigne2018-1900x800.jpg
+  feature: /images/2017-02-10-bagnoud-vins/bagnoud-enseigne2018-1900x1000.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
