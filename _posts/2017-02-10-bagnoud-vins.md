@@ -2,7 +2,7 @@
 layout: post
 title: Flanthey — Bagnoud vins
 vigneron: Nicolas Bagnoud
-etiquette: /images/2017-02-10-bagnoud-vins/bagnoud-enseigne2018-1900x1000.jpg
+etiquette: /images/2017-02-10-bagnoud-vins/etiquette-bagnoud.jpg
 teaser: "avec toi il partage le bonheur de déguster son vin et de raconter sa vigne
 et *nicolas* sait conter ses vins et sa vigne"
 description-courte: "Nicolas, Simon et Régis Bagnoud — Vignerons-encaveurs — Flanthey"
@@ -13,7 +13,7 @@ modified: 2018-04-30T14:00:00+01:00
 notif-modifs: true
 published: true
 image:
-  feature: /images/2017-02-10-bagnoud-vins/domaine2-bagnoud-1900x800.jpg
+  feature: /images/2017-02-10-bagnoud-vins/bagnoud-enseigne2018-1900x800.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
