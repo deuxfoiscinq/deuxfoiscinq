@@ -2,8 +2,9 @@
 layout: post
 title: Flanthey — Bagnoud vins
 vigneron: Nicolas Bagnoud
-etiquette: /images/2017-02-10-bagnoud-vins/etiquette-bagnoud.jpg
-teaser: "il y a quelques années, avec un ami, nous commandions des cartons de dégustation à quelques vignerons valaisans car nous cherchions des cépages purs tels syrah, humagne, cornalin et pinot noir entre autres merveilles nous avons découvert le cornalin..."
+etiquette: /images/2017-02-10-bagnoud-vins/bagnoud-enseigne2018-1900x1000.jpg
+teaser: "avec toi il partage le bonheur de déguster son vin et de raconter sa vigne
+et *nicolas* sait conter ses vins et sa vigne"
 description-courte: "Nicolas, Simon et Régis Bagnoud — Vignerons-encaveurs — Flanthey"
 mots-cles: [pinot gris 2015, chenin blanc 2015, pinot noir valençon 2015, pinot noir l’ormy 2015, cornalin 2015]
 categories: blog
@@ -64,14 +65,16 @@ au nez puissant et rès long en bouche... une merveille
 ## y aller
 un vrai parcours du combattant, mais quelle récompense à l’arrivée
 à la sortie de l’autoroute *sion est* tu prends la route direction *brigue* et tu longes les vignes avec le train à droite
-après *st-léonard* tu prends à gauche en direction de *lens* et tu attaques la montée qui sinue entre les ceps et au bout d’un moment tu voit le panneau d’un bled que l’orthographe, tu savais pas qu’elle existait : *vaas* et en face, deux autres dont l’un indique *valençon st-clément* et tu crois que t’es arrivé mais pas du tout du tout
-tu continues sur cette grimpée que tu te crois sur une route de l’impossible et quand tu vois des toits en bas dessous à droite t’es presque arrivé
+après *st-léonard* tu continue de ramer et à gauche en direction de *lens* tu attaques la montée qui sinue entre les ceps
+au bout d’un moment tu vois le panneau d’un bled que l’orthographe, tu savais pas qu’elle existait : *vaas* et en face, deux autres dont l’un indique *valençon st-clément* et tu crois que t’es arrivé mais pas du tout du tout
+tu continues sur cette grimpée que tu te crois sur une *route de l’impossible* et quand tu vois des toits en bas dessous à droite t’es presque arrivé
 ’y a un petit panneau *bagnoud vins* qui te dirige à droite, mais attention, si t’as pas une bagnole à grandes pattes tu risques de ramasser le seuil de cette vertigineuse petite dérupe
 et là, au bout à droite, ton *gps* va te dire merci
 
 ## le resto
-
-> Café *Cher-Mignon*
+> Café Cher-Mignon
+> Tsanveulle 16
+> 3971 Chermignon
 > 027 483 25 96
 > [www.cafechermignon.ch](http://www.cafechermignon.ch/)
 
