@@ -26,6 +26,16 @@ bien au contraire le travail de la vigne est très exigeant et demande beaucoup 
 tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
 
 ## du grain au verre
+<!-- 20 ************************************************* -->
+### [on piane - 1er mai 2018](#mardi-1-mai-2018)
+encore un mot *barbare* pour une tâche qui demande beaucoup de souplesse du dos  et de délicatesse des doigt
+la **piane** aussi appelée **éplanage** ou **ébourgeonnage** ailleurs où c’est qui parle un autre français et une opération qui consiste à enlever les petites pousses le long du *porte-fruit* pour n'en laisser que quatre ou cinq qui deviendront les sarments porteurs des grappes de raisin
+et ce travail se fait pour chaque cep
+de celui-ci dépend la qualité qui sera récoltée aux vendanges
+et il n’y a pas de machines assez habiles pour le faire
+on devine déjà les futures grappes qui n’ont pas besoin des abeilles, les fleurs *s’auto-pollinisent*...!
+la vigne commence a avoir soif, surtout les **barbues** (très jeunes pieds de vigne enrobés de leur botte protectrice)
+
 <!-- 19 ************************************************* -->
 ### [c'est palissé et ça pousse - 20 avril 2018](#vendredi-20-avril-2018)
 
