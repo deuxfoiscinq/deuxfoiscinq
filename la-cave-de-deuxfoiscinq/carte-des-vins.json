@@ -56,7 +56,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "7.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             },
             {
@@ -67,7 +67,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "9.70",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             },
             {
@@ -78,7 +78,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "10.70",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             }
         ]
@@ -94,9 +94,9 @@
                 "ID_VIN": "53",
                 "APPELLATION": "domaine villard & fils",
                 "CEPAGE": "chasselas",
-                "ANNEE": 2016,
+                "ANNEE": 2017,
                 "COULEUR": "blanc",
-                "PRIX": "6.00",
+                "PRIX": "6.50",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
@@ -105,18 +105,7 @@
                 "ID_VIN": "53",
                 "APPELLATION": "domaine villard & fils",
                 "CEPAGE": "chardonnay",
-                "ANNEE": 2016,
-                "COULEUR": "blanc",
-                "PRIX": "8.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "muscadet sec",
-                "ANNEE": 2016,
+                "ANNEE": 2017,
                 "COULEUR": "blanc",
                 "PRIX": "9.00",
                 "QUANTITE": "",
@@ -126,10 +115,21 @@
             {
                 "ID_VIN": "53",
                 "APPELLATION": "domaine villard & fils",
+                "CEPAGE": "muscadet sec",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "10.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "53",
+                "APPELLATION": "domaine villard & fils",
                 "CEPAGE": "rosé",
-                "ANNEE": 2016,
+                "ANNEE": 2017,
                 "COULEUR": "rosé",
-                "PRIX": "6.00",
+                "PRIX": "7.00",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
@@ -138,9 +138,9 @@
                 "ID_VIN": "53",
                 "APPELLATION": "domaine villard & fils",
                 "CEPAGE": "gamay",
-                "ANNEE": 2016,
+                "ANNEE": 2017,
                 "COULEUR": "rouge",
-                "PRIX": "6.00",
+                "PRIX": "6.50",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
@@ -149,9 +149,9 @@
                 "ID_VIN": "53",
                 "APPELLATION": "domaine villard & fils",
                 "CEPAGE": "pinot noir",
-                "ANNEE": 2016,
+                "ANNEE": 2017,
                 "COULEUR": "rouge",
-                "PRIX": "8.00",
+                "PRIX": "9.50",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
