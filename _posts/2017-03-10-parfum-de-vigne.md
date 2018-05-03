@@ -34,23 +34,23 @@ reconnu, il mérite d’être connu, comme ses vins !
 
 ## déguster
 ### chasselas grain blanc 2017
-*un tartegnin au bon goût de terroir, équilibré
-un plaisir à l’apéritif mais comme rincette on en redemande*
+un tartegnin au bon goût de terroir, équilibré
+un plaisir à l’apéritif mais comme rincette on en redemande
 
 ### œil de perdrix rosé de pinot noir 2017
-*charmeur au possible, te satisfera aussi bien à l’apéritif que sous la tonnelle, et son côté corsé satisfera même un curry de madras*
+charmeur au possible, te satisfera aussi bien à l’apéritif que sous la tonnelle, et son côté corsé satisfera même un curry de madras
 
 ### pinot noir château de vincy 2017
-*cépages de différentes sélections de pinot, bourgogne, servagnin et cortaillod
+cépages de différentes sélections de pinot, bourgogne, servagnin et cortaillod
 un vrai vaudois parfait avec vos grillades de cet été et tout comme avec un filet de perche du lac
-léger il pourrait satisfaire ceux qui préfèrent le rouge à l’apéro*
+léger il pourrait satisfaire ceux qui préfèrent le rouge à l’apéro
 
 ### pinot gris 2017
-*du caractère, du fruit, s’exprime magnifiquement bien, rond et long en bouche
-parfait avec un poisson du lac ou un filet de féra fumé*
+du caractère, du fruit, s’exprime magnifiquement bien, rond et long en bouche
+parfait avec un poisson du lac ou un filet de féra fumé
 
 ## découvrir
-*à côté du domaine, jean-jacques steiner sultive aussi un énorme verger dont les pommes sont aussi bonnes que son vin*
+*à côté du domaine, jean-jacques steiner cultive aussi un énorme verger dont les pommes sont aussi bonnes que son vin*
 
 ## qui ?
 > Jean-Jacques Steiner
