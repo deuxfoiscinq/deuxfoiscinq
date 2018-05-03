@@ -28,8 +28,8 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 ## du grain au verre
 <!-- 20 ************************************************* -->
 ### [on piane - 1er mai 2018](#mardi-1-mai-2018)
-encore un mot *barbare* pour une tâche qui demande beaucoup de souplesse du dos  et de délicatesse des doigt
-la **piane** aussi appelée **éplanage** ou **ébourgeonnage** ailleurs où c’est qui parle un autre français et une opération qui consiste à enlever les petites pousses le long du *porte-fruit* pour n'en laisser que quatre ou cinq qui deviendront les sarments porteurs des grappes de raisin
+encore un mot *barbare* pour une tâche qui demande beaucoup de souplesse du dos  et de délicatesse des doigts
+la **piane** aussi appelée **éplanage** ou **ébourgeonnage** ailleurs où c’est qui parle un autre français est une opération qui consiste à enlever les petites pousses le long du *porte-fruit* pour n'en laisser que quatre ou cinq qui deviendront les sarments porteurs des grappes de raisin
 et ce travail se fait pour chaque cep
 de celui-ci dépend la qualité qui sera récoltée aux vendanges
 et il n’y a pas de machines assez habiles pour le faire
