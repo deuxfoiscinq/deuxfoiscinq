@@ -199,5 +199,58 @@
                 "REMARQUES": ""
             }
         ]
+    },
+    {
+        "ID_VIGNERON": "18",
+        "DOMAINE": "saint-prex",
+        "CAVE": "domaine terre-neuve",
+        "NOM": "david kind",
+        "URL": "http://www.terreneuve.ch/index.php/fr/",
+        "VINS": [
+            {
+                "ID_VIN": "55",
+                "APPELLATION": "blanc de lys",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "7.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "55",
+                "APPELLATION": "rosalys",
+                "CEPAGE": "rosé de gamay",
+                "ANNEE": 2017,
+                "COULEUR": "rosé",
+                "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "55",
+                "APPELLATION": "gamalys",
+                "CEPAGE": "gamay",
+                "ANNEE": 2017,
+                "COULEUR": "rouge",
+                "PRIX": "8.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "55",
+                "APPELLATION": "noir de lys",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2017,
+                "COULEUR": "rouge",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
     }
 ]
