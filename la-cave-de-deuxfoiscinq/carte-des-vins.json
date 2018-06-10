@@ -252,5 +252,58 @@
                 "REMARQUES": ""
             }
         ]
+    },
+    {
+        "ID_VIGNERON": "19",
+        "DOMAINE": "ollon",
+        "CAVE": "domaine la combaz",
+        "NOM": "emile blum",
+        "URL": "http://deuxfoiscinq.ch/blog/combaz/",
+        "VINS": [
+            {
+                "ID_VIN": "56",
+                "APPELLATION": "ollon",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "10.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "56",
+                "APPELLATION": "ollon",
+                "CEPAGE": "œil de perdrix",
+                "ANNEE": 2017,
+                "COULEUR": "rosé",
+                "PRIX": "10.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "56",
+                "APPELLATION": "ollon",
+                "CEPAGE": "viognier",
+                "ANNEE": 2016,
+                "COULEUR": "blanc",
+                "PRIX": "19.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "56",
+                "APPELLATION": "ollon",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2017,
+                "COULEUR": "rouge",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
     }
 ]
