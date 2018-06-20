@@ -31,7 +31,7 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 <p><a href="../images/cep-by-cep/les grains06.jpg"><img src="../images/cep-by-cep/les grains06.jpg" alt="couleur" /></a></p>
 après les effeuilles, on *rebiole* c’est-à-dire qu’on enlève les jeunes pousses qui sont apparues après le passage d’il y a deux semaines
 les grappes sont de plus en plus grandes et laissent apparaître de petits grains de raisin qui ressemblent à une tête d’épingle et qui sont l'espoir et l'inquiétude de la réussite de cette saison
-les sarments aussi ont grandi et il faut *passer les bois dans les fils* et déjà couper ceux qui dépassent la hauteur d’un homme
+les sarments aussi ont grandi et il faut *passer les bois dans les fils* et déjà *cisailler* ceux qui dépassent la hauteur d’un homme
 et puis il y a l’herbe entre les lignes qu’il faut couper
 cela se présente bien, mais il y a tant de choses qui peuvent intervenir d’ici la vendange…
 et surtout il reste encore beaucoup de boulot à effectuer durant les cent jours qui nous séparent maintenant de la vendange
