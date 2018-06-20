@@ -26,6 +26,15 @@ bien au contraire le travail de la vigne est très exigeant et demande beaucoup 
 tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
 
 ## du grain au verre
+<!-- 21 ************************************************* -->
+### [ça fleurit et ça pousse ! - 20 juin 2018](#mercredi-20-juin-2018)
+après les effeuilles, on *rebiole* c’est-à-dire qu’on enlève les jeunes pousses qui sont apparues après le passage d’il y a deux semaines
+les grappes sont de plus en plus grandes et laissent apparaître de petits grains de raisin qui ressemblent à une tête d’épingle et qui sont l'espoir et l'inquiétude de la réussite de cette saison
+les sarments aussi ont grandi et il faut *passer les bois dans les fils* et déjà couper ceux qui dépassent la hauteur d’un homme
+et puis il y a l’herbe entre les lignes qu’il faut couper
+cela se présente bien, mais il y a tant de choses qui peuvent intervenir d’ici la vendange…
+et surtout il reste encore beaucoup de boulot à effectuer durant les cent jours qui nous séparent maintenant de la vendange
+
 <!-- 20 ************************************************* -->
 ### [on piane - 1er mai 2018](#mardi-1-mai-2018)
 encore un mot *barbare* pour une tâche qui demande beaucoup de souplesse du dos  et de délicatesse des doigts
