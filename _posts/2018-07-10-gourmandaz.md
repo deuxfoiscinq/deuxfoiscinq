@@ -1,80 +1,65 @@
 ---
 layout: post
-title: Ollon — Domaine la Combaz
-vigneron: Emile Blum
+title: Corcelles-Concise — Domaine de Gourmandaz
+vigneron: Didier Bourgeois
 etiquette: /images/2018-06-10-blum/blum-etiquette500x950.jpg
-teaser: "emile blum parle doucement pour ne pas déranger sa vigne ni troubler son vin "
-mots-cles: [ollon, chablais, vaud, vigneronne, vigneron, vin, non filtré, cépage, cave, bouteille, terroir, degustation, 5dl, 7dl, 50cl, 70cl, 75cl]
+teaser: "sa modestie lui fait oublier toutes les distinctions qui confirment la qualité de son travail"
+mots-cles: [concise, bonvillars, vaud, vigneronne, vigneron, vin, non filtré, cépage, cave, bouteille, terroir, degustation, 5dl, 7dl, 50cl, 70cl, 75cl]
 categories: blog
-date:     2018-06-10T14:00:00+01:00
-modified: 2018-06-10T14:00:00+01:00
+date:     2018-07-10T14:00:00+01:00
+modified: 2018-0-10T14:00:00+01:00
 published: true
 
 image:
-  feature: /images/2018-06-10-blum/glanzi-enseinge2-1900x1000.jpg
+  feature: /images/2018-07-10-gourmandaz/gourmandaz-enseigne.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![Emile Blum][i1]{: style="width:50%; margin-left:25%;" }
+![Didier Bourgeois][i1]{: style="width:50%; margin-left:25%;" }
 
-[i1]: ../../images/2018-06-10-blum/blum-vigneron2-1000x1800.jpg
+[i1]: ../../images/2018-07-10-gourmandaz/gourmandaz-vigneron.jpg
 
 ## le vigneron
-des yeux malicieux et rieurs derrière des lunettes sévères *emile blum* parle doucement pour ne pas déranger ses vignes ni troubler son vin
-et il t’en parle d’une façon paternelle et réussit tout de même à te placer une bonne définition de son rosé en le gratifiant *d’envie de chaise longue*
-il dit s’amuser à trouver les bons assemblages qu’il adore sans oublier de parler de sa fille *laurine* dont il est fier qu’elle reprenne le flambeau
-une autre bâtisse abrite son chais dont la porte est décorée d’une fresque de *giovanni lanzi*
+« *didier bourgeois* à l’appareil, ah, vous êtes là, j’arrive »
+pas d’accent trainard, mais des mots qui se suivent telles les lettres d’une machine à écrire
+en trois mots il résume les neuf générations qui se sont succédées sur le domaine qu’il dirige depuis 1982 et il est pas peu fier de t’annoncer que son fils *valentin* va reprendre le flambeau
+il se dit impatient, mais cela ne paraît pas tant il prend le temps de te raconter des choses sur son expérience, sa vigne, son vin et son futur et sa modestie lui fait oublier toutes les distinctions qui confirment la qualité de son travail
 
 ## déguster
-### chasselas ollon 2017
-frais, minéral, un bon goût de chasselas qui tapisse agréablement le fond de bouche
-pour un apéro sympa qui doit durer, durer
+### chasselas 2016
+légèrement minéral et floral, un bon goût de terroir, typé bonvillars
+un bon apéro
 
-### œil de perdrix 2017
-une pointe d’acidité pour ce rosé de saignée riche, agréable avec un nez magnifique
-une folle envie de cuisine asiatique ou de chaise longue comme le qualifie emile
+### garanoir 2016
+rond, plaisant, délicat, une belle réussite
+un vin d’été, frais pourrait bien passer à l’apéro
 
-### pinot noir 2017
-un nez et un goût de cerises noires parfait la rondeur de ce bon pinot
-agréable en bouche
-avec une viande rouge il sera parfait
-
-### viognier 2016
-un beau nez accompagne ce vin élevé en amphore et en barrique
-très prometteur il accompagnera à merveille vitello tonato ou curry
+### gamaret 2016
+peu de nez mais quel coffre ! fruits mûrs, reste bien en bouche et longtemps
+oh ! la belle côte de bœuf qui se dessine…
 
 ## découvrir
-*les ballades dans le vignoble ollon* les 8 et 9 septembre
-chez chaque vigneron participant, une proposition de repas originale – [www.vin-ollon.ch](http://vin-ollon.ch/bienvenue-2/balades-dans-le-vignoble/)
-et puis une autre fois, ne manque pas, le château de la roche [www.chateaudela roche-ollon.ch](http://chateau-ollon.ch)
+son vin doux le passerillé a obtenu la médaille d’or au grand prix du vin suisse tout comme son rosé alors que son pinot noir qui compte plusieurs souches différentes dont des bourguignonnes et des qui ont plus de cinquante ans a reçu l’argent
 
 ## qui ?
-Domaine la Combaz
-Emile Blum
-Chemin de la Combe 1
-Les Fontaines
-1867 Ollon
-079 213 57 29 - 024 499 21 47  - [emblum@bluewin.ch](mailto:emblum@bluewin.ch)
+> Domaine de Gourmandaz
+> Didier Bourgeois
+> L’Argilleuse 20
+> 1426  Corcelles-Concise
+079.679 40 68 – [d-bourgeois@bluewin.ch](mailto:d-bourgeois@bluewin.ch) - [www.gourmandaz.ch](http://www.gourmandaz.ch)
 
-## y aller
-si le spectacle époustouflant du site en vaut la peine, et c’est pas sans peine
-aller jusqu’à *ollon*, et au milieu du village la route tourne légèrement à droite
-puis en face un panneau t’indique *villars 10km* tourne alors à angle droit à droite et descends dans le vieux village par une espèce de ruelle qui porte des marques de quatre quatre de chaque côté
-après une centaine de mètres, l’étroite ruelle s’élargit et tu te trouves de nouveau dans la civilisation avec des habitations modernes
-à droite de l’herbe et des vaches et à gauche de la vigne
-la route se rétrécit à nouveau et tu te crois en train de participer à la course ollon-villars
-tu montes, tu descends, tu passes un panneau *bien vivre à villy* et t’y crois pas
-tu continues en longeant une forêt puis tu vois une grange en haut dessus au bout d’une grimpée si raide que quand tu la descendras t’auras l’impression d’être debout sur tes pédales
-enfin *le domaine la combaz*
-incroyable que le site est beau tu es au milieu d’un énorme cirque de vignes que tu peux pas voir de loin de la route cantonale car caché par des arbres
+## aller
+sur l’autoroute d’*yverdon-les-bains* à *neuchâtel*, tu sors à *3-Grandson* et tu prends la direction *neuchâtel/concise* au rond point et ce deux fois de suite
+puis, après *onnens*, à l’entrée du village de corcelles, après les feux, tu tires légèrement sur ta gauche et au bout de cette rue à gauche *l’arguilleuse* c'est le nom de la maison de *didier bourgeois*
 
 ## le resto
-Restaurant de l’Hôtel de Ville
-Place de l’Hôtel de Ville
-1867 Ollon
-024.499 19 22 - [www.resthotelollon.ch](http://www.resthotelollon.ch)
+> Double R
+> Rue du Collège 4
+> 1400 Yverdon-Les-Bains
+> 079.464 77 95 –
 
-
-## sympa
-sur demande, tu peux louer sa magnifique terrasse avec possibilité de grillades de piscine et de chaises longues
+sympa
+à côté de son domaine qui s’étend sur une ancienne moraine du *glacier du rhône* qui venait jusque là il y a pas mal de temps, tu peux voir un autre vestige de ces temps reculés : des menhirs qui ont résisté même à charles le téméraire
+[www.archeoplus.ch](http://www.archeoplus.ch/fr/archeo/corcelles-co/corcelles-co-fr-index.htm)
+mais tu as aussi une vue magnifique sur le lac et les alpes bernoises et même un bout du *moléson*
