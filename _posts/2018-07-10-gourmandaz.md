@@ -7,7 +7,7 @@ teaser: "sa modestie lui fait oublier toutes les distinctions qui confirment la 
 mots-cles: [concise, bonvillars, vaud, vigneronne, vigneron, vin, non filtré, cépage, cave, bouteille, terroir, degustation, 5dl, 7dl, 50cl, 70cl, 75cl]
 categories: blog
 date:     2018-07-10T14:00:00+01:00
-modified: 2018-0-10T14:00:00+01:00
+modified: 2018-07-10T14:00:00+01:00
 published: true
 
 image:
