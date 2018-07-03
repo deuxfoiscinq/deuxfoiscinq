@@ -8,7 +8,7 @@ mots-cles: [concise, bonvillars, vaud, vigneronne, vigneron, vin, non filtré, c
 categories: blog
 date:     2018-07-10T14:00:00+01:00
 modified: 2018-0-10T14:00:00+01:00
-published: true
+published: false
 
 image:
   feature: /images/2018-07-10-gourmandaz/gourmandaz-enseigne.jpg
