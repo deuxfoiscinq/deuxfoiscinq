@@ -84,123 +84,6 @@
         ]
     },
     {
-        "ID_VIGNERON": "16",
-        "DOMAINE": "anières",
-        "CAVE": "domaine villard & fils",
-        "NOM": "philippe villard",
-        "URL": "https://www.geneveterroir.ch/fr/domaine-villard-fils/4498",
-        "VINS": [
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "chasselas",
-                "ANNEE": 2017,
-                "COULEUR": "blanc",
-                "PRIX": "6.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "chardonnay",
-                "ANNEE": 2017,
-                "COULEUR": "blanc",
-                "PRIX": "9.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "muscadet sec",
-                "ANNEE": 2017,
-                "COULEUR": "blanc",
-                "PRIX": "10.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "rosé",
-                "ANNEE": 2017,
-                "COULEUR": "rosé",
-                "PRIX": "7.00",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "gamay",
-                "ANNEE": 2017,
-                "COULEUR": "rouge",
-                "PRIX": "6.51",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "53",
-                "APPELLATION": "domaine villard & fils",
-                "CEPAGE": "pinot noir",
-                "ANNEE": 2017,
-                "COULEUR": "rouge",
-                "PRIX": "9.50",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            }
-        ]
-    },
-    {
-        "ID_VIGNERON": "17",
-        "DOMAINE": "le landeron",
-        "CAVE": "chantal ritter cochand",
-        "NOM": "chantal ritter",
-        "URL": "http://www.vinsrittercochand.ch",
-        "VINS": [
-            {
-                "ID_VIN": "54",
-                "APPELLATION": "le landeron",
-                "CEPAGE": "chasselas",
-                "ANNEE": 2017,
-                "COULEUR": "blanc",
-                "PRIX": "7.20",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "54",
-                "APPELLATION": "non filtré",
-                "CEPAGE": "chasselas",
-                "ANNEE": 2017,
-                "COULEUR": "blanc",
-                "PRIX": "7.21",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            },
-            {
-                "ID_VIN": "54",
-                "APPELLATION": "œil-de-perdrix",
-                "CEPAGE": "pinot noir",
-                "ANNEE": 2017,
-                "COULEUR": "rosé",
-                "PRIX": "11.30",
-                "QUANTITE": "",
-                "DISPONIBLE": "x",
-                "REMARQUES": ""
-            }
-        ]
-    },
-    {
         "ID_VIGNERON": "18",
         "DOMAINE": "saint-prex",
         "CAVE": "domaine terre-neuve",
@@ -300,6 +183,59 @@
                 "ANNEE": 2017,
                 "COULEUR": "rouge",
                 "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "ID_VIGNERON": "20",
+        "DOMAINE": "bonvillars",
+        "CAVE": "domaine de gourmandaz",
+        "NOM": "didier bourgeois",
+        "URL": "http://www.gourmandaz.ch",
+        "VINS": [
+            {
+                "ID_VIN": "57",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "chasselas",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "7.20",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "57",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "gamaret",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "9.90",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "57",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "garanoir",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "9.91",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "57",
+                "APPELLATION": "bonvillars",
+                "CEPAGE": "pinot noir",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "9.92",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
