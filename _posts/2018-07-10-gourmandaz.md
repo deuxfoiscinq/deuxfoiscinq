@@ -27,7 +27,8 @@ en trois mots il résume les neuf générations qui se sont succédées sur le d
 il se dit impatient, mais cela ne paraît pas tant il prend le temps de te raconter des choses sur son expérience, sa vigne, son vin et son futur et sa modestie lui fait oublier toutes les distinctions qui confirment la qualité de son travail
 
 ## déguster
-### chasselas 2016
+### chasselas 2017
+médaille d'or à la sélection des vins vaudois 2017
 légèrement minéral et floral, un bon goût de terroir, typé bonvillars
 un bon apéro
 
@@ -40,7 +41,7 @@ peu de nez mais quel coffre ! fruits mûrs, reste bien en bouche et longtemps
 oh ! la belle côte de bœuf qui se dessine…
 
 ## découvrir
-son vin doux le passerillé a obtenu la médaille d’or au grand prix du vin suisse tout comme son rosé alors que son pinot noir qui compte plusieurs souches différentes dont des bourguignonnes et des qui ont plus de cinquante ans a reçu l’argent
+son vin doux le passerillé a obtenu la médaille d’or au grand prix du vin suisse tout comme son rosé alors que son pinot noir a reçu l’argent et qui compte plusieurs sélections dont des bourguignonnes et des qui ont plus de cinquante ans
 
 ## qui ?
 > Domaine de Gourmandaz
@@ -51,7 +52,7 @@ son vin doux le passerillé a obtenu la médaille d’or au grand prix du vin su
 
 ## aller
 sur l’autoroute d’*yverdon-les-bains* à *neuchâtel*, tu sors à *3-Grandson* et tu prends la direction *neuchâtel/concise* au rond point et ce deux fois de suite
-puis, après *onnens*, à l’entrée du village de corcelles, après les feux, tu tires légèrement sur ta gauche et au bout de cette rue à gauche *l’arguilleuse* c'est le nom de la maison de *didier bourgeois*
+puis, après *onnens*, à l’entrée du village de corcelles, après les feux, tu tires légèrement sur ta gauche et au bout de cette rue à gauche *l’argilleuse* c'est le nom de la maison de *didier bourgeois*
 
 ## le resto
 > Double R
