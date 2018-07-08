@@ -2,7 +2,7 @@
 layout: post
 title: Corcelles-Concise — Domaine de Gourmandaz
 vigneron: Didier Bourgeois
-etiquette: /images/2018-06-10-blum/blum-etiquette500x950.jpg
+etiquette: /images/2018-07-10-gourmandaz/etiquette.jpg
 teaser: "sa modestie lui fait oublier toutes les distinctions qui confirment la qualité de son travail"
 mots-cles: [concise, bonvillars, vaud, vigneronne, vigneron, vin, non filtré, cépage, cave, bouteille, terroir, degustation, 5dl, 7dl, 50cl, 70cl, 75cl]
 categories: blog
