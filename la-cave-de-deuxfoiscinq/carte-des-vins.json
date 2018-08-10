@@ -290,7 +290,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "14.51",
                 "QUANTITE": "",
-                "DISPONIBLE": "",
+                "DISPONIBLE": "x",
                 "REMARQUES": ""
             }
         ]
