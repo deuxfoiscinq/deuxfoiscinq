@@ -241,5 +241,58 @@
                 "REMARQUES": ""
             }
         ]
+    },
+    {
+        "ID_VIGNERON": "21",
+        "DOMAINE": "valais",
+        "CAVE": "cave caloz",
+        "NOM": "sandrine caloz",
+        "URL": "http://www.cavecaloz.ch",
+        "VINS": [
+            {
+                "ID_VIN": "58",
+                "APPELLATION": "miège",
+                "CEPAGE": "fendant",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "58",
+                "APPELLATION": "miège",
+                "CEPAGE": "petite arvine ",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "14.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "58",
+                "APPELLATION": "miège",
+                "CEPAGE": "gamay",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "58",
+                "APPELLATION": "miège",
+                "CEPAGE": "humagne rouge",
+                "ANNEE": 2017,
+                "COULEUR": "rouge",
+                "PRIX": "14.51",
+                "QUANTITE": "",
+                "DISPONIBLE": "",
+                "REMARQUES": ""
+            }
+        ]
     }
 ]
