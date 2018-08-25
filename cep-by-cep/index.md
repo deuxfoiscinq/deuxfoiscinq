@@ -26,7 +26,15 @@ bien au contraire le travail de la vigne est très exigeant et demande beaucoup 
 tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
 
 ## du grain au verre
-<!-- 21 ************************************************* -->
+<!-- 22 ************************************************* -->
+### [le compte à rebours est commencé - 20 août 2018](#lundi-20-août-2018)
+<p><a href="../images/cep-by-cep/vigne08pg"><img src="../images/cep-by-cep/vigne08.jpg" alt="couleur" /></a></p>
+les grappes sont belles, mais les grains petits
+il n’y a que de la pulpe, pas de jus
+trois à quatre jours de pluie suffiraient à les faire gonfler encore qu’on peut se demander si la pluie existe encore ?
+dans un mois, les vendanges seront du passé pour la plupart des vignerons et commencera le travail tout aussi difficile d’élever ce millésime
+mais avant il faut préparer la cave, sortir les pressoirs, nettoyer les cuves, finir de mettre en bouteilles pour faire de la place, bricoler les chenillettes, laver les cassettes, rafistoler les cacolets et ... non! pas de temps à consacrer à une heure buvable
+
 ### [ça fleurit et ça pousse ! - 20 juin 2018](#mercredi-20-juin-2018)
 <p><a href="../images/cep-by-cep/les grains06.jpg"><img src="../images/cep-by-cep/les grains06.jpg" alt="couleur" /></a></p>
 après les effeuilles, on *rebiole* c’est-à-dire qu’on enlève les jeunes pousses qui sont apparues après le passage d’il y a deux semaines
