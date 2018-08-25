@@ -28,7 +28,7 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 ## du grain au verre
 <!-- 22 ************************************************* -->
 ### [le compte à rebours est commencé - 20 août 2018](#lundi-20-août-2018)
-<p><a href="../images/cep-by-cep/vigne08pg"><img src="../images/cep-by-cep/vigne08.jpg" alt="couleur" /></a></p>
+<p><a href="../images/cep-by-cep/vigne08.jpg"><img src="../images/cep-by-cep/vigne08.jpg" alt="couleur" /></a></p>
 les grappes sont belles, mais les grains petits
 il n’y a que de la pulpe, pas de jus
 trois à quatre jours de pluie suffiraient à les faire gonfler encore qu’on peut se demander si la pluie existe encore ?
