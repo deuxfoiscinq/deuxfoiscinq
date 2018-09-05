@@ -98,7 +98,7 @@
                 "COULEUR": "blanc",
                 "PRIX": "7.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -109,7 +109,7 @@
                 "COULEUR": "rosé",
                 "PRIX": "8.00",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -120,7 +120,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "8.01",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             },
             {
@@ -131,7 +131,7 @@
                 "COULEUR": "rouge",
                 "PRIX": "9.50",
                 "QUANTITE": "",
-                "DISPONIBLE": "x",
+                "DISPONIBLE": "",
                 "REMARQUES": ""
             }
         ]
@@ -289,6 +289,59 @@
                 "ANNEE": 2017,
                 "COULEUR": "rouge",
                 "PRIX": "14.51",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
+    },
+    {
+        "ID_VIGNERON": "22",
+        "DOMAINE": "neuchâtel",
+        "CAVE": "domaine des balises",
+        "NOM": "pierre-rené nicolet",
+        "URL": "https://www.nicoletvins.ch",
+        "VINS": [
+            {
+                "ID_VIN": "59",
+                "APPELLATION": "bevaix",
+                "CEPAGE": "chasselas les balises",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "6.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "59",
+                "APPELLATION": "bevaix",
+                "CEPAGE": "oeil de perdrix",
+                "ANNEE": 2017,
+                "COULEUR": "rosé",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "59",
+                "APPELLATION": "bevaix",
+                "CEPAGE": "pinot noir excellence",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "14.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "59",
+                "APPELLATION": "bevaix",
+                "CEPAGE": "garanoir",
+                "ANNEE": 2016,
+                "COULEUR": "rouge",
+                "PRIX": "15.00",
                 "QUANTITE": "",
                 "DISPONIBLE": "x",
                 "REMARQUES": ""
