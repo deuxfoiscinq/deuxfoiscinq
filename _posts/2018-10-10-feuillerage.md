@@ -8,17 +8,17 @@ mots-cles: [perroy vaud, suisse romande, vigneronne, vigneron, vin, non filtré,
 categories: blog
 date:     2018-10-10T14:00:00+01:00
 modified: 2018-10-10T14:00:00+01:00
-published: false
+published: true
 
 image:
-  feature: /images/2018-09-10-nicolet/nicolet-enseigne.jpg
+  feature: /images/2018-10-10-feuillerage/enseigne.jpg
   credit: jissé
   creditlink: http://deuxfoiscinq.ch/
 ---
 
-![René-Pierre Nicolet][i1]{: style="width:50%; margin-left:25%;" }
+![Cédric Gaillard][i1]{: style="width:50%; margin-left:25%;" }
 
-[i1]: ../../images/2018-09-10-nicolet/nicolet-vigneron.jpg
+[i1]: ../../images/2018-10-10-feuillerage/vigneron.jpg
 
 ## le vigneron
 *cédric*, un grand gaillard souriant avec *roland* son complice de père exploitent ce domaine héritage de plusieurs générations dont les mots d’ordre sont respect passion qualité et ensemble ils recherchent l’adéquation parfaite entre plante, environnement et action sur la nature
@@ -66,3 +66,5 @@ c’est là en face de la fontaine
 
 ## sympa
 le vieux chai avec ces garnitures immenses de bout de foudre de dix mille litres et si tu le mérites tu pourras même boire l’apéro dans l’un d'eux encore entier
+
+[i2]: ../../images/2018-10-10-feuillerage/chai.jpg
