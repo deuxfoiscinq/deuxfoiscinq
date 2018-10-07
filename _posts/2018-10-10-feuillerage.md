@@ -8,7 +8,7 @@ mots-cles: [perroy vaud, suisse romande, vigneronne, vigneron, vin, non filtré,
 categories: blog
 date:     2018-10-10T14:00:00+01:00
 modified: 2018-10-10T14:00:00+01:00
-published: true
+published: false
 
 image:
   feature: /images/2018-10-10-feuillerage/enseigne.jpg
