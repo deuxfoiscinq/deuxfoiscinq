@@ -67,4 +67,6 @@ c’est là en face de la fontaine
 ## sympa
 le vieux chai avec ces garnitures immenses de bout de foudre de dix mille litres et si tu le mérites tu pourras même boire l’apéro dans l’un d'eux encore entier
 
+![chai] [i2]
+
 [i2]: ../../images/2018-10-10-feuillerage/chai.jpg
