@@ -21,10 +21,10 @@ image:
 [i1]: ../../images/2018-10-10-feuillerage/vigneron.jpg
 
 ## le vigneron
-*cédric*, un grand gaillard souriant avec *roland* son complice de père exploitent ce domaine héritage de plusieurs générations dont les mots d’ordre sont respect passion qualité et ensemble ils recherchent l’adéquation parfaite entre plante, environnement et action sur la nature
+*cédric*, un grand gaillard souriant avec *roland* son complice de père exploitent ce domaine suivant plusieurs générations dont les mots d’ordre sont respect passion qualité cherchant ensemble l’adéquation parfaite entre plante, environnement et action sur la nature
 le chai été complètement rénové l’an passé
-un poil timide, une poignée de main sans poil précise et ferme, *cédric* est vite sympa avec ses histoires de vins de culture de la vigne où il s’efforce de diminuer drastiquement les produits chimiques, sans être un ayatollah du tout vert
-ses vins, dignes de distinctions, sont francs comme son regard
+un poil timide, une poignée de main sans poil chaleureuse, *cédric* est vite sympa avec ses histoires de culture de la vigne et d'élevage de vins où il s’efforce de diminuer drastiquement les produits chimiques, sans être touefois un ayatollah du tout vert
+ses vins sont dignes de distinctions et francs comme son regard
 
 ## déguster
 ### chasselas 2017
@@ -36,9 +36,9 @@ ce cépage peut connu chez nous vient d’outre sarine
 et c’est une belle découverte ! subtil, un poil féminin, gras et tout en finesse
 qui appelle à boire mais conviendra magnifiquement avec un poisson sur un lit de poireaux ou un fromage
 
-### rosé de pinot noir 2017
-simple avec du caractère bien en bouche
-frais à l’apéro sinon avec une cuisine d’été
+### pinot noir 2017
+un vrai pinot vaudois mais pas du nord avec du fruit
+agréable et long en bouche il se satisfait de tous les mets et même légèrement frais d'un apéro
 
 ### gamaret-garanoir 2017
 une réussite, superbe, long en bouche, bien équilibré
