@@ -45,7 +45,7 @@ une réussite, superbe, long en bouche, bien équilibré
 ah ! que la côte de bœuf au poivre noir concassé sera bonne
 
 ## découvrir
-son *féchy clos de la dame 2017 domaine de chatelanat*
+son magnifique *féchy clos de la dame 2017 domaine de chatelanat*
 au goût de terroir typique, gras, qui remplit bien le palais et qui pourrait bien être distingué ces prochains jours au *grand prix du vin suisse*
 
 ## qui ?
