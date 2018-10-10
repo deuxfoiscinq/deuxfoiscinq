@@ -2,13 +2,13 @@
 layout: post
 title: Perroy — Domaine du Feuillerage
 vigneron: Cédric Gaillard
-etiquette: /images/2018-09-10-nicolet/nicolet-etiquette.jpg
+etiquette: /images/2018-10-10-feuillerage/etiquette.jpg
 teaser: "un poil timide, une poignée de main sans poil précise et ferme, cédric est vite sympa avec ses histoires de vins"
 mots-cles: [perroy vaud, suisse romande, vigneronne, vigneron, vin, non filtré, cépage, cave, bouteille, terroir, degustation, 5dl, 7dl, 50cl, 70cl, 75cl]
 categories: blog
 date:     2018-10-10T14:00:00+01:00
 modified: 2018-10-10T14:00:00+01:00
-published: false
+published: true
 
 image:
   feature: /images/2018-10-10-feuillerage/enseigne.jpg
