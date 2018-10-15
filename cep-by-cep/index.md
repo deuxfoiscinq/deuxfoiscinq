@@ -26,6 +26,41 @@ bien au contraire le travail de la vigne est très exigeant et demande beaucoup 
 tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la surveiller et même parfois l’engueuler !
 
 ## du grain au verre
+<!-- 23 ************************************************* -->
+### [ça coupe, ça presse, ça coule - 20 octobre 2018](#samedi-20-octobre-2018)
+<p><a href="../images/cep-by-cep/vigne08.jpg"><img src="../images/cep-by-cep/vigne08.jpg" alt="couleur" /></a></p>
+et voilà c’est dans les cuves
+et les cuves sont pleines
+et les vignerons sont satisfaits de ce millésime  exceptionnel
+et il y a encore beaucoup de boulot
+et c’est peut-être le plus important qui reste à faire
+
+avant cela, il a fallut couper les grappes, les placer dans les caissettes, les caissettes sur  le
+caquolet ou dans la brante et départ pour la cave
+pour le blanc :
+foulage, pressage, en cuves, flottage, débourbage
+puis le moût est transféré dans une nouvelle cuve et c’est pas la première ni la dernière fois !
+
+quelques levures naturelles plus tard la fermentation alcoolique démarre et chaque matin il
+faut contrôler la température pas plus de 14° et lorsque celle-ci est finie on pousse la
+température à 20° pour faire démarrer la malo qui va prendre son temps
+ensuite les vins sont stabilisés et on baisse la température de la cave à 0° durant six
+semaines
+
+pour le rouge :
+égrappage, cuvage entre une à trois semaines puis pressage, recuvage et on soutitre les lies
+certains vins sont mis dans des barriques les autres restent en cuves
+on chauffe la cave à 20° pour que la malo se fasse et on stabilise
+et c’est parti pour neuf à douze mois d’élevage
+
+entretemps, il a fallut surveiller tout le bazar, goûter, déguster
+c’est bientôt noël au sens propre comme au figuré
+on pourra passer à la mise en bouteille pour les blancs, les rouges attendront encore
+
+la vigne n’est pas oubliée malgré tous ces nombreux travaux de cave,
+on va arracher les ceps malades ou trop vieux, on entretient les murs, on répare les fils, on nettoie les sols entre les ceps et on se prépare à la taille … 
+mais c’est pour après la dinde et car entretemps on a soif, il faut raconter ses dernières vendanges et commenter le nouveau
+
 <!-- 22 ************************************************* -->
 ### [le compte à rebours est commencé - 20 août 2018](#lundi-20-août-2018)
 <p><a href="../images/cep-by-cep/vigne08.jpg"><img src="../images/cep-by-cep/vigne08.jpg" alt="couleur" /></a></p>
@@ -35,6 +70,7 @@ trois à quatre jours de pluie suffiraient à les faire gonfler encore qu’on p
 dans un mois, les vendanges seront du passé pour la plupart des vignerons et commencera le travail tout aussi difficile d’élever ce millésime
 mais avant il faut préparer la cave, sortir les pressoirs, nettoyer les cuves, finir de mettre en bouteilles pour faire de la place, bricoler les chenillettes, laver les cassettes, rafistoler les cacolets et ... non! pas de temps à consacrer à une heure buvable
 
+<!-- 21 ************************************************* -->
 ### [ça fleurit et ça pousse ! - 20 juin 2018](#mercredi-20-juin-2018)
 <p><a href="../images/cep-by-cep/les grains06.jpg"><img src="../images/cep-by-cep/les grains06.jpg" alt="couleur" /></a></p>
 après les effeuilles, on *rebiole* c’est-à-dire qu’on enlève les jeunes pousses qui sont apparues après le passage d’il y a deux semaines
