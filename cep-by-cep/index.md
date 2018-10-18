@@ -28,7 +28,8 @@ tous les jours, il faut la visiter, l’ausculter, la soigner, lui parler, la su
 ## du grain au verre
 <!-- 23 ************************************************* -->
 ### [ça coupe, ça presse, ça coule - 20 octobre 2018](#samedi-20-octobre-2018)
-<p><a href="../images/cep-by-cep/vigne08.jpg"><img src="../images/cep-by-cep/vigne08.jpg" alt="couleur" /></a></p>
+<p><a href="../images/cep-by-cep/qu'elles sont belles ces grappes10.jpg"><img src="../images/cep-by-cep/qu'elles sont belles ces grappes10.jpg" alt="couleur" /></a></p>
+
 et voilà c’est dans les cuves
 et les cuves sont pleines
 et les vignerons sont satisfaits de ce millésime  exceptionnel
@@ -40,6 +41,7 @@ caquolet ou dans la brante et départ pour la cave
 pour le blanc :
 foulage, pressage, en cuves, flottage, débourbage
 puis le moût est transféré dans une nouvelle cuve et c’est pas la première ni la dernière fois !
+<p><a href="../images/cep-by-cep/vendanges10.jpg"><img src="../images/cep-by-cep/vendanges10.jpg" alt="couleur" /></a></p>
 
 quelques levures naturelles plus tard la fermentation alcoolique démarre et chaque matin il
 faut contrôler la température pas plus de 14° et lorsque celle-ci est finie on pousse la
@@ -58,7 +60,7 @@ c’est bientôt noël au sens propre comme au figuré
 on pourra passer à la mise en bouteille pour les blancs, les rouges attendront encore
 
 la vigne n’est pas oubliée malgré tous ces nombreux travaux de cave,
-on va arracher les ceps malades ou trop vieux, on entretient les murs, on répare les fils, on nettoie les sols entre les ceps et on se prépare à la taille … 
+on va arracher les ceps malades ou trop vieux, on entretient les murs, on répare les fils, on nettoie les sols entre les ceps et on se prépare à la taille …
 mais c’est pour après la dinde et car entretemps on a soif, il faut raconter ses dernières vendanges et commenter le nouveau
 
 <!-- 22 ************************************************* -->
