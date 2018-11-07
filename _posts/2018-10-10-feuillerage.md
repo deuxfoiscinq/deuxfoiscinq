@@ -56,9 +56,9 @@ au goût de terroir typique, gras, qui remplit bien le palais et qui pourrait bi
 > 021.825 12 63 – 079.303 47 11 – [domaine@feuillerage.ch](mailto:domaine@feuillerage.ch) - [www.feuillerage.ch](http://www.feuillerage.ch)
 
 ## y aller
-depuis *lausanne* sur la *route suisse* en direction de *rolle* après *allamand*, tu passes sans t’arrêter devant le panneau *perroy* et avant la bâtisse *agrola* tu tournes à gauche où c’est qu’il y a un panneau *domaine du feuillerage* et tu montes la grimpette goudronnée jusqu’à la grande bâtisse du 18ème
+depuis *lausanne* sur la *route suisse* en direction de *rolle* après *allamand*, tu passes sans t’arrêter devant le panneau *perroy* et après la bâtisse *agrola* tu tournes à gauche où c’est qu’il y a un panneau *domaine du feuillerage* et tu montes la grimpette goudronnée jusqu’à la grande bâtisse du 18ème
 c’est là en face de la fontaine
-depuis *genève* dito mais tu sors à *rolle* et tu prends la direction de *morges* et forcément *agrola* sera avant la grimpette à gauche cette fois
+depuis *genève* dito mais tu sors à *rolle* et tu prends la direction de *morges* et forcément *agrola* sera après la grimpette à gauche cette fois
 
 ## le resto
 > La Passade
