@@ -389,5 +389,58 @@
                 "REMARQUES": ""
             }
         ]
+    },
+    {
+        "ID_VIGNERON": "24",
+        "DOMAINE": "vevey",
+        "CAVE": "cave mayor",
+        "NOM": "adeline et jean-philippe mayor",
+        "URL": "http://www.lacavemayor.ch",
+        "VINS": [
+            {
+                "ID_VIN": "61",
+                "APPELLATION": "vevey",
+                "CEPAGE": "vevey grand cru",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "9.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "61",
+                "APPELLATION": "vevey",
+                "CEPAGE": "la bourrache",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "11.50",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "61",
+                "APPELLATION": "vevey",
+                "CEPAGE": "dézaley",
+                "ANNEE": 2017,
+                "COULEUR": "blanc",
+                "PRIX": "13.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            },
+            {
+                "ID_VIN": "61",
+                "APPELLATION": "vevey",
+                "CEPAGE": "saint saphorin",
+                "ANNEE": 2017,
+                "COULEUR": "rouge",
+                "PRIX": "12.00",
+                "QUANTITE": "",
+                "DISPONIBLE": "x",
+                "REMARQUES": ""
+            }
+        ]
     }
 ]
